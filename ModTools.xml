@@ -1,7 +1,23 @@
 <Servers>
 <ServerGroup Name="7Days2Mod Tools" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
 <Server Name="In-Game Prefab Editor with Stoneworld" Logo="" >
-  <Description>In-Game Prefab Editor with Stoneworld Map</Description>
+  <Description>Support for herrpohl's In-Game Prefab Editor DLL with Stoneworld Map
+  Controls:
+Z: Draw selection box
+J: Clear selection
+L: Fill selection with block selected on toolbelt
+K: Properties menu (StartPoint, Dynamic Prefabs, EntitySpawnerTriggerArea, EntitySpawner)
+E: Change color of selection (not sure if there is more to it)
+Press and hold Q: Move selection box with mouse or WASD
+Press and hold Shift + Q: Change size of selection box
+Holding Shift while placing a block (LMB) will replace the selected block
+Holding Shift while having a block selected on toolbelt and pressing RMB will delete any block
+Ctrl + E will toggle any light on and off while clicking on it
+Left click red on a prefab with entities checked and hit k to open the spawn triggers menu
+
+Thanks to Guppycur and Sorrowthief for figuring out the controls.
+Last but not least, thanks to N2n1 for showing me how to use ILSpy!
+  </Description>
   <RSS></RSS>
   <Version>alpha14.7</Version>
   <ReleaseNotes>https://7daystodie.com/forums/showthread.php?47459-Unlocking-In-Game-World-Editor-(Terrain-Tools)-dll-mod</ReleaseNotes>
@@ -11,7 +27,23 @@
   </Downloads>
 </Server>
 <Server Name="In-Game Prefab Editor" Logo="" >
-  <Description>In-Game Prefab Editor</Description>
+  <Description>Support for herrpohl's In-Game Prefab Editor DLL
+  Controls:
+Z: Draw selection box
+J: Clear selection
+L: Fill selection with block selected on toolbelt
+K: Properties menu (StartPoint, Dynamic Prefabs, EntitySpawnerTriggerArea, EntitySpawner)
+E: Change color of selection (not sure if there is more to it)
+Press and hold Q: Move selection box with mouse or WASD
+Press and hold Shift + Q: Change size of selection box
+Holding Shift while placing a block (LMB) will replace the selected block
+Holding Shift while having a block selected on toolbelt and pressing RMB will delete any block
+Ctrl + E will toggle any light on and off while clicking on it
+Left click red on a prefab with entities checked and hit k to open the spawn triggers menu
+
+Thanks to Guppycur and Sorrowthief for figuring out the controls.
+Last but not least, thanks to N2n1 for showing me how to use ILSpy!
+  </Description>
   <RSS></RSS>
   <Version>alpha14.7</Version>
   <ReleaseNotes>https://7daystodie.com/forums/showthread.php?47459-Unlocking-In-Game-World-Editor-(Terrain-Tools)-dll-mod</ReleaseNotes>
