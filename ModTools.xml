@@ -1,0 +1,23 @@
+<Servers>
+<ServerGroup Name="7Days2Mod Tools" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
+<Server Name="In-Game Prefab Editor with Stoneworld" Logo="" >
+  <Description>In-Game Prefab Editor with Stoneworld Map</Description>
+  <RSS></RSS>
+  <Version>alpha14.7</Version>
+  <ReleaseNotes>https://7daystodie.com/forums/showthread.php?47459-Unlocking-In-Game-World-Editor-(Terrain-Tools)-dll-mod</ReleaseNotes>
+  <Downloads>
+    <Download>http://www.mediafire.com/download/nv2fcom83d2t8d1/Assembly-CSharp.dll</Download>
+	<Download>https://github.com/7days2mod/Stoneworld/archive/master.zip</Download>
+  </Downloads>
+</Server>
+<Server Name="In-Game Prefab Editor" Logo="" >
+  <Description>In-Game Prefab Editor</Description>
+  <RSS></RSS>
+  <Version>alpha14.7</Version>
+  <ReleaseNotes>https://7daystodie.com/forums/showthread.php?47459-Unlocking-In-Game-World-Editor-(Terrain-Tools)-dll-mod</ReleaseNotes>
+  <Downloads>
+    <Download>http://www.mediafire.com/download/nv2fcom83d2t8d1/Assembly-CSharp.dll</Download>
+  </Downloads>
+</Server>
+<ServerGroup>
+</Servers>
