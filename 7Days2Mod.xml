@@ -1,7 +1,7 @@
 <Servers>
 <ServerGroup Name="7Days2Mod" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
-<Server Name="Vanilla" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Vanilla</Description>
+<Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true" >
+  <Description>Vanilla XML Files</Description>
   <RSS>https://github.com/7days2mod/Vanilla/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Vanilla</ReleaseNotes>
   <Downloads>
@@ -9,8 +9,7 @@
   </Downloads>
 </Server>
 <Server Name="BadCompany" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for # 7-Days-To-Die-BadCompany
-Bad Company Mod for 7 Days to Die
+  <Description>Bad Company Mod for 7 Days to Die
 
 Work in progress. Not ready for consumption :)
 </Description>
@@ -21,7 +20,8 @@ Work in progress. Not ready for consumption :)
   </Downloads>
 </Server>
 <Server Name="Medieval" Logo="https://github.com/7days2mod/Medieval/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for # 7-Days-To-Die-Medieval
+  <Description>Medieval Prefab Mod
+  
 A community effort for creating prefabs and the environment for medieval settings.
 
 </Description>
@@ -31,16 +31,17 @@ A community effort for creating prefabs and the environment for medieval setting
     <Download>https://github.com/7days2mod/Medieval/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="7-Days-to-die-Unofficial-XML-Fixes" Logo="https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for 7-Days-to-die-Unofficial-XML-Fixes</Description>
+
+<Server Name="Unofficial XML Fixes" Logo="https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/blob/master/Banner.png?raw=true" >
+  <Description>Unofficial XML Fixes by the Community</Description>
   <RSS>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes</ReleaseNotes>
   <Downloads>
     <Download>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="A-Clockwork-Project" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for A-Clockwork-Project</Description>
+<Server Name="A Clockwork Project" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true" >
+  <Description>A Clockwork Project mod</Description>
   <RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
   <Downloads>
@@ -48,7 +49,7 @@ A community effort for creating prefabs and the environment for medieval setting
   </Downloads>
 </Server>
 <Server Name="Valmod-Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Valmod-Overhaul</Description>
+  <Description>Valmar's Overhaul Mod</Description>
   <RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
   <Downloads>
@@ -56,7 +57,7 @@ A community effort for creating prefabs and the environment for medieval setting
   </Downloads>
 </Server>
 <Server Name="Valmod-Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Valmod-Expansion</Description>
+  <Description>Valmar's Expansion Mod</Description>
   <RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Valmod-Expansion</ReleaseNotes>
   <Downloads>
@@ -64,23 +65,23 @@ A community effort for creating prefabs and the environment for medieval setting
   </Downloads>
 </Server>
 <Server Name="Classic-Horde-Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Classic-Horde-Survival</Description>
+  <Description>Valmar's Classic Horde Survival Mod</Description>
   <RSS>https://github.com/7days2mod/Classic-Horde-Survival/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Classic-Horde-Survival</ReleaseNotes>
   <Downloads>
     <Download>https://github.com/7days2mod/Classic-Horde-Survival/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="True-Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for True-Survival</Description>
+<Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true" >
+  <Description>True Surival Mod</Description>
   <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
   <Downloads>
     <Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="A-Clockwork-Project-Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for A-Clockwork-Project-Experimental</Description>
+<Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true" >
+  <Description>A Clockwork Project Experimental Mod for Alpha 14.7</Description>
   <RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
   <Downloads>
@@ -105,16 +106,16 @@ It has a single town at the center and spawns you at 0,0 every time. The town ta
     <Download>https://github.com/7days2mod/Stoneworld/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="Compo" Logo="https://github.com/7days2mod/Compo/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Compo</Description>
+<Server Name="CompoPack Prefabs" Logo="https://github.com/7days2mod/Compo/blob/master/Banner.png?raw=true" >
+  <Description>Magoli's Compo Pack Bundle</Description>
   <RSS>https://github.com/7days2mod/Compo/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Compo</ReleaseNotes>
   <Downloads>
     <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
   </Downloads>
 </Server>
-<Server Name="Megacity" Logo="https://github.com/7days2mod/Megacity/blob/master/Banner.png?raw=true" >
-  <Description>Automated Mod for Megacity</Description>
+<Server Name="MegaCity Bundle" Logo="https://github.com/7days2mod/Megacity/blob/master/Banner.png?raw=true" >
+  <Description>Stallionsden MegaCity Prefabs</Description>
   <RSS>https://github.com/7days2mod/Megacity/commits/master.atom</RSS>
   <ReleaseNotes>https://github.com/7days2mod/Megacity</ReleaseNotes>
   <Downloads>
