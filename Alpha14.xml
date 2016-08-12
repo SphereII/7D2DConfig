@@ -8,16 +8,6 @@
 				<Download>https://github.com/7days2mod/Vanilla/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		<Server Name="BadCompany" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true" >
-			<Description>Bad Company Mod for 7 Days to Die
-				Work in progress. Not ready for consumption :)
-			</Description>
-			<RSS>https://github.com/7days2mod/BadCompany/commits/master.atom</RSS>
-			<ReleaseNotes>https://github.com/7days2mod/BadCompany</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/7days2mod/BadCompany/archive/master.zip</Download>
-			</Downloads>
-		</Server>
 		<Server Name="Medieval" Logo="https://github.com/7days2mod/Medieval/blob/master/Banner.png?raw=true" >
 			<Description>Medieval Prefab Mod
 				A community effort for creating prefabs and the environment for medieval settings.
