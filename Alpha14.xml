@@ -1,0 +1,118 @@
+<Servers>
+	<ServerGroup Name="7Days2Mod Alpha 14" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
+		<Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true" >
+			<Description>Vanilla XML Files</Description>
+			<RSS>https://github.com/7days2mod/Vanilla/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Vanilla</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Vanilla/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="BadCompany" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true" >
+			<Description>Bad Company Mod for 7 Days to Die
+				Work in progress. Not ready for consumption :)
+			</Description>
+			<RSS>https://github.com/7days2mod/BadCompany/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/BadCompany</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/BadCompany/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Medieval" Logo="https://github.com/7days2mod/Medieval/blob/master/Banner.png?raw=true" >
+			<Description>Medieval Prefab Mod
+				A community effort for creating prefabs and the environment for medieval settings.
+			</Description>
+			<RSS>https://github.com/7days2mod/Medieval/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Medieval</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Medieval/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Unofficial XML Fixes" Logo="https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/blob/master/Banner.png?raw=true" >
+			<Description>Unofficial XML Fixes by the Community</Description>
+			<RSS>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="A Clockwork Project" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true" >
+			<Description>A Clockwork Project mod</Description>
+			<RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/A-Clockwork-Project/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Valmod-Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true" >
+			<Description>Valmar's Overhaul Mod</Description>
+			<RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Valmod-Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true" >
+			<Description>Valmar's Expansion Mod</Description>
+			<RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Valmod-Expansion</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Expansion/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Classic-Horde-Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true" >
+			<Description>Valmar's Classic Horde Survival Mod</Description>
+			<RSS>https://github.com/7days2mod/Classic-Horde-Survival/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Classic-Horde-Survival</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Classic-Horde-Survival/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true" >
+			<Description>True Surival Mod</Description>
+			<RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true" >
+			<Description>A Clockwork Project Experimental Mod for Alpha 14.7</Description>
+			<RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Stoneworld" Logo="https://github.com/7days2mod/Stoneworld/blob/master/Banner.png?raw=true" >
+			<Description>Automated Mod for # Stoneworld
+				Version 1.1
+				Stoneworld is a mod that creates a blank canvas for building prefabs.
+				It consists of a small world 1000 blocks across and entirely of stone. There are the usual 3 bedrock blocks, then stone blocks on top. 
+				The top layer can easily be changed by adjusting the biomes and search and replace on &lt;layer depth="1" blockname="stone"/&gt;, change the stone to whatever block you want to be the top layer. If you want more than 1 layer on the top then simply change the depth="1" to whatever you want it to be.
+				It has a single town at the center and spawns you at 0,0 every time. The town takes up most of the explorable area so it is entirely flat within that 1000x1000 block town.
+			</Description>
+			<RSS>https://github.com/7days2mod/Stoneworld/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Stoneworld</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Stoneworld/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="CompoPack Prefabs" Logo="https://github.com/7days2mod/Compo/blob/master/Banner.png?raw=true" >
+			<Description>Magoli's Compo Pack Bundle</Description>
+			<RSS>https://github.com/7days2mod/Compo/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Compo</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="MegaCity Bundle" Logo="https://github.com/7days2mod/Megacity/blob/master/Banner.png?raw=true" >
+			<Description>Stallionsden MegaCity Prefabs</Description>
+			<RSS>https://github.com/7days2mod/Megacity/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/Megacity</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Megacity/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
