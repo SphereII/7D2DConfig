@@ -1,5 +1,5 @@
 <Servers>
-	<ServerGroup Name="7Days2Mod Alpha 14" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
+	<ServerGroup Name="Alpha 14 Mods" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
 		<Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true" >
 			<Description>Vanilla XML Files</Description>
 			<RSS>https://github.com/7days2mod/Vanilla/commits/master.atom</RSS>
