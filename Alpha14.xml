@@ -26,7 +26,16 @@
 				<Download>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		<Server Name="A Clockwork Project" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true" >
+		<Server Name="A Clockwork Project Experimental - Alpha 14.7" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true" >
+			<Description>A Clockwork Project Experimental Mod for Alpha 14.7</Description>
+			<RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
+			<ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="A Clockwork Project - Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true" >
 			<Description>A Clockwork Project mod</Description>
 			<RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
 			<ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
@@ -64,28 +73,6 @@
 			<ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
-			</Downloads>
-		</Server>
-		<Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true" >
-			<Description>A Clockwork Project Experimental Mod for Alpha 14.7</Description>
-			<RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
-			<ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
-			</Downloads>
-		</Server>
-		<Server Name="Stoneworld" Logo="https://github.com/7days2mod/Stoneworld/blob/master/Banner.png?raw=true" >
-			<Description>Automated Mod for # Stoneworld
-				Version 1.1
-				Stoneworld is a mod that creates a blank canvas for building prefabs.
-				It consists of a small world 1000 blocks across and entirely of stone. There are the usual 3 bedrock blocks, then stone blocks on top. 
-				The top layer can easily be changed by adjusting the biomes and search and replace on &lt;layer depth="1" blockname="stone"/&gt;, change the stone to whatever block you want to be the top layer. If you want more than 1 layer on the top then simply change the depth="1" to whatever you want it to be.
-				It has a single town at the center and spawns you at 0,0 every time. The town takes up most of the explorable area so it is entirely flat within that 1000x1000 block town.
-			</Description>
-			<RSS>https://github.com/7days2mod/Stoneworld/commits/master.atom</RSS>
-			<ReleaseNotes>https://github.com/7days2mod/Stoneworld</ReleaseNotes>
-			<Downloads>
-				<Download>https://github.com/7days2mod/Stoneworld/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 		<Server Name="CompoPack Prefabs" Logo="https://github.com/7days2mod/Compo/blob/master/Banner.png?raw=true" >
