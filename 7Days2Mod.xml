@@ -63,7 +63,7 @@
 
       <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
          <Description>True Surival Mod
-		 Modded for more challenging survival combined with a steady slow progression in building & crafting. 
+		 Modded for more challenging survival combined with a steady slow progression in building and crafting. 
 		 </Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
