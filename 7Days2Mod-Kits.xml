@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="7Days2Mod Compo Mods" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg">
+   <ServerGroup Name="7Days2Mod CompoPack" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg">
       <Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true">
-         <Description>Vanilla XML Files
+         <Description>Vanilla XML Files with Magoli's CompoPack
 This includes a copy of the vanilla XML files.</Description>
          <RSS>https://github.com/7days2mod/Vanilla/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/Vanilla</ReleaseNotes>
@@ -12,7 +12,7 @@ This includes a copy of the vanilla XML files.</Description>
          </Downloads>
       </Server>
       <Server Name="Unofficial XML Fixes" Logo="https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/blob/master/Banner.png?raw=true">
-         <Description>A collection of unofficial XML Fixes by the Community</Description>
+         <Description>A collection of unofficial XML Fixes by the Community with Magoli's CompoPack</Description>
          <RSS>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes</ReleaseNotes>
          <Downloads>
@@ -21,7 +21,7 @@ This includes a copy of the vanilla XML files.</Description>
          </Downloads>
       </Server>
       <Server Name="Valmod Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Expansion Mod
+         <Description>Valmar's Expansion Mod with Magoli's CompoPack
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
 The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.</Description>
@@ -33,7 +33,7 @@ The Expansion pack is meant to be viewed, as the name implies, as an expansion p
          </Downloads>
       </Server>
       <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
-         <Description>Valmar Overhaul Mod
+         <Description>Valmar Overhaul Mod with Magoli's CompoPack
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
 The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
@@ -45,7 +45,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
          </Downloads>
       </Server>
       <Server Name="Valmod Classic Horde Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Classic Horde Survival Mod
+         <Description>Valmar's Classic Horde Survival Mod with Magoli's CompoPack
  Welcome to CHS - Classic Horde Survival. This mod aims to offer a completely different experience from vanilla. If you want a mod that adds more farming, crafting, building or expands the game to last for hundreds of days this is NOT the mod for you. This mod is intended to be more towards having a few hours of fun in a horde mode rather than spending weeks building cities. If you just want to kill hordes of zombies while scavenging for food and ammo, this mod might be for you.
 
 Warning: If you have a below average computer you may experience FPS issues when playing this mod due to the large number of zombie spawns. You can lower your games spawn settings in the game options to try to dial it back some but your millage may vary.</Description>
@@ -57,7 +57,7 @@ Warning: If you have a below average computer you may experience FPS issues when
          </Downloads>
       </Server>
       <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
-         <Description>True Survival Mod
+         <Description>True Survival Mod with Magoli's CompoPack
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
@@ -67,7 +67,7 @@ Modded for more challenging survival combined with a steady slow progression in 
          </Downloads>
       </Server>
       <Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Experimental Mod for Alpha 14.7
+         <Description>A Clockwork Project Experimental Mod for Alpha 14.7 with Magoli's CompoPack
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
          <RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
@@ -77,7 +77,7 @@ This mod is designed to perfectly balance all aspects of the game from Progressi
          </Downloads>
       </Server>
       <Server Name="A Clockwork Project Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Mod for Alpha 14.4
+         <Description>A Clockwork Project Mod for Alpha 14.4 with Magoli's CompoPack
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
          <RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
@@ -87,9 +87,9 @@ This mod is designed to perfectly balance all aspects of the game from Progressi
          </Downloads>
       </Server>
    </ServerGroup>
-   <ServerGroup Name="7Days2Mod MegaCity Mods" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg">
+   <ServerGroup Name="7Days2Mod MegaCity" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg">
       <Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true">
-         <Description>Vanilla XML Files
+         <Description>Vanilla XML Files with stallionsden's MegaCity
 This includes a copy of the vanilla XML files.</Description>
          <RSS>https://github.com/7days2mod/Vanilla/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/Vanilla</ReleaseNotes>
@@ -99,7 +99,7 @@ This includes a copy of the vanilla XML files.</Description>
          </Downloads>
       </Server>
       <Server Name="Unofficial XML Fixes" Logo="https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/blob/master/Banner.png?raw=true">
-         <Description>A collection of unofficial XML Fixes by the Community</Description>
+         <Description>A collection of unofficial XML Fixes by the Community with stallionsden's MegaCity</Description>
          <RSS>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes</ReleaseNotes>
          <Downloads>
@@ -108,7 +108,7 @@ This includes a copy of the vanilla XML files.</Description>
          </Downloads>
       </Server>
       <Server Name="Valmod Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Expansion Mod
+         <Description>Valmar's Expansion Mod with stallionsden's MegaCity
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
 The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.</Description>
@@ -121,7 +121,7 @@ The Expansion pack is meant to be viewed, as the name implies, as an expansion p
          </Downloads>
       </Server>
       <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
-         <Description>Valmar Overhaul Mod
+         <Description>Valmar Overhaul Mod with stallionsden's MegaCity
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
 The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
@@ -134,7 +134,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
          </Downloads>
       </Server>
       <Server Name="Valmod Classic Horde Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Classic Horde Survival Mod
+         <Description>Valmar's Classic Horde Survival Mod with stallionsden's MegaCity
  Welcome to CHS - Classic Horde Survival. This mod aims to offer a completely different experience from vanilla. If you want a mod that adds more farming, crafting, building or expands the game to last for hundreds of days this is NOT the mod for you. This mod is intended to be more towards having a few hours of fun in a horde mode rather than spending weeks building cities. If you just want to kill hordes of zombies while scavenging for food and ammo, this mod might be for you.
 
 Warning: If you have a below average computer you may experience FPS issues when playing this mod due to the large number of zombie spawns. You can lower your games spawn settings in the game options to try to dial it back some but your millage may vary.</Description>
@@ -147,7 +147,7 @@ Warning: If you have a below average computer you may experience FPS issues when
          </Downloads>
       </Server>
       <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
-         <Description>True Survival Mod
+         <Description>True Survival Mod with stallionsden's MegaCity
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/True-Survival</ReleaseNotes>
@@ -157,7 +157,7 @@ Modded for more challenging survival combined with a steady slow progression in 
          </Downloads>
       </Server>
       <Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Experimental Mod for Alpha 14.7
+         <Description>A Clockwork Project Experimental Mod for Alpha 14.7 with stallionsden's MegaCity
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
          <RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
@@ -167,7 +167,7 @@ This mod is designed to perfectly balance all aspects of the game from Progressi
          </Downloads>
       </Server>
       <Server Name="A Clockwork Project Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Mod for Alpha 14.4
+         <Description>A Clockwork Project Mod for Alpha 14.4 with stallionsden's MegaCity
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
          <RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
