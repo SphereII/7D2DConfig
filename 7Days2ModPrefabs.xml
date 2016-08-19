@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="7Days2Mod Prefabs" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg">
+   <ServerGroup Name="7Days2Mod Prefabs" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Descripton="Mods that deal with only changing the prefabs.">
       <Server Name="CompoPack" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true">
          <Description>Magoli's CompoPack
 It's a collection of 496 Vanilla- and Custom-Prefabs made from the members of this forum.</Description>
