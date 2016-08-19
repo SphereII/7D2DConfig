@@ -1,5 +1,5 @@
 <Servers>
-	<ServerGroup Name="7Days2Mod Tools" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" >
+	<ServerGroup Name="7Days2Mod Tools" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="A set of mods that are useful for creating prefabs and other mods">
 		<Server Name="In-Game Prefab Editor with Stoneworld" Logo="" >
 		  <Description>Support for herrpohls In-Game Prefab Editor DLL with Stoneworld Map
 		  Controls:
