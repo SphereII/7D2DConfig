@@ -52,7 +52,8 @@ The Overhaul pack adds the same items and content to the game as the expansion w
             <Download>https://github.com/7days2mod/Valmod-HORDE-EDITION/archive/master.zip</Download>
          </Downloads>
       </Server>
-	        <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
+
+	  <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
          <Description>Valmar Overhaul Mod
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
@@ -88,7 +89,6 @@ This mod is designed to perfectly balance all aspects of the game from Progressi
          <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
          <Downloads>
             <Download>https://github.com/7days2mod/A-Clockwork-Project/archive/master.zip</Download>
-         </Downloads>
          </Downloads>
       </Server>
    </ServerGroup>
