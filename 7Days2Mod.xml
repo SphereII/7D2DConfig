@@ -49,7 +49,9 @@ The Overhaul pack adds the same items and content to the game as the expansion w
          <RSS>https://github.com/7days2mod/Valmod-HORDE-EDITION/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/Valmar-HORDE-EDITION</ReleaseNotes>
          <Downloads>
+			<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
             <Download>https://github.com/7days2mod/Valmod-HORDE-EDITION/archive/master.zip</Download>
+			
          </Downloads>
       </Server>
 
