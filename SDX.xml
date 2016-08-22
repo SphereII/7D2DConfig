@@ -13,5 +13,21 @@ Mod pre-generated using Alpha 14.7
             <Download>http://www.mediafire.com/download/q4q3ddnos2i2qax/SDXTest.zip</Download>
          </Downloads>
       </Server>
+	  
+	     <Server Name="SphereII SDX Bigger" Logo="http://www.gamerxserver.com/images/SDX-Banner-1.png">
+         <Description>Much Larger SDX Mod
+A much larger SDX mod, includes CCTV, Hal's Arrows, Lawn Mower, Morte's Farming and Fishing, Ranged Weapons, My Dogs, Stone OVen, TargetDummy, Medieval, and more.
+
+Since this is a larger mod, after the initial download, you will want to click on the Refesh Mods Automatically to skip a re-download.
+		 
+Mod pre-generated using Alpha 14.7
+
+Also includes a 7D2D Patch, which adds 1-block crouch, remove bloom, and sky fog.
+		 
+		 </Description>
+         <Downloads>
+            <Download>http://www.mediafire.com/download/9t7ffxf921fb9b5/SphereIISDX.zip</Download>
+         </Downloads>
+      </Server>
    </ServerGroup>
 </Servers>
