@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="SDX" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="" >
+   
+   <Server Name="SphereII SDX" Logo="http://www.gamerxserver.com/images/SDX-Banner-1.png">
+         <Description>SDX Test
+SDX Sample mod that includes DoubleBarrel, Hal's Turrets, Lawn mower, and Michonne's Katana.
+
+Mod pre-generated using Alpha 14.7
+		 
+		 </Description>
+         <Downloads>
+            <Download>http://www.mediafire.com/download/q4q3ddnos2i2qax/SDXTest.zip</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
