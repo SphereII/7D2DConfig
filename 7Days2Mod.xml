@@ -74,6 +74,19 @@ Modded for more challenging survival combined with a steady slow progression in 
             <Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
          </Downloads>
       </Server>
+	  
+	  <Server Name="SteelMod" Logo="https://github.com/7days2mod/SteelMod/blob/master/Banner.png?raw=true">
+         <Description>Steel Mod
+SteelMod, the highly acclaimed server sided RP mod since 2014 has finally arrived for Single Player and Co-Op play! Gone are the days of needing 10 or 20 players to make an economy based RP mod work! All the Primary and Secondary job books have been added to the loot table, as well as a loot table adjustment to fit SP perfectly!
+		</Description>
+         <RSS>https://github.com/7days2mod/SteelMod/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/SteelMod</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/SteelMod/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+	  
+	  
       <Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true">
          <Description>A Clockwork Project Experimental Mod for Alpha 14.7
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
