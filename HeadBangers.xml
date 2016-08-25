@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="SDX" Logo="" Description="" >
+   
+   <Server Name="HeadBangers" Logo="">
+         <Description>Head Bangers Proof of Concept
+SDX Mod from Pacco
+
+\m/  ( -_-  )  \m/
+
+Along with the anti-bloom, anti-fog, and 1-block crouch.
+		 </Description>
+         <Downloads>
+            <Download>http://www.mediafire.com/download/uz7i72zhzt6w0g8/HeadBangers.zip</Download>
+			<Download>http://www.mediafire.com/download/dj7iz8bkrpd0ecu/Patch.zip</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
