@@ -29,5 +29,36 @@ Also includes a 7D2D Patch, which adds 1-block crouch, remove bloom, and sky fog
             <Download>http://www.mediafire.com/download/9t7ffxf921fb9b5/SphereIISDX.zip</Download>
          </Downloads>
       </Server>
+	  
+	  <Server Name="SteelMod SDX" Logo="https://github.com/7days2mod/SteelMod/blob/master/Banner.png?raw=true">
+         <Description>Steel Mod SDX
+SteelMod, the highly acclaimed server sided RP mod since 2014 has finally arrived for Single Player and Co-Op play! Gone are the days of needing 10 or 20 players to make an economy based RP mod work! All the Primary and Secondary job books have been added to the loot table, as well as a loot table adjustment to fit SP perfectly!
+
+Available in SDX
+		</Description>
+		<Version>alpha14.7</Version>
+         <RSS>https://github.com/SphereII/SteelModSDX/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/SphereII/SteelModSDX</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/SteelModSDX/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
+	  <Server Name="SteelMod SDX CompoPack" Logo="https://github.com/7days2mod/SteelMod/blob/master/Banner.png?raw=true">
+         <Description>Steel Mod SDX
+SteelMod, the highly acclaimed server sided RP mod since 2014 has finally arrived for Single Player and Co-Op play! Gone are the days of needing 10 or 20 players to make an economy based RP mod work! All the Primary and Secondary job books have been added to the loot table, as well as a loot table adjustment to fit SP perfectly!
+
+Available in SDX and CompoPack
+		</Description>
+		<Version>alpha14.7</Version>
+         <RSS>https://github.com/SphereII/SteelModSDX/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/SphereII/SteelModSDX</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/SteelModSDX/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+			
+         </Downloads>
+      </Server>
+	  
    </ServerGroup>
 </Servers>
