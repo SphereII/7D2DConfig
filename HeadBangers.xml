@@ -19,7 +19,6 @@ Along with the anti-bloom, anti-fog, and 1-block crouch.
 
 
 
-	  <!--  Seems to be hit or miss if it works or not. Reverting.
 	     <Server Name="HeadBangerPSG-1" Logo="">
          <Description>Head Bangers Proof of Concept
 SDX Mod from Pacco with the new PSG-1 DLC Mod
@@ -30,11 +29,11 @@ Along with the anti-bloom, anti-fog, and 1-block crouch.
 		 </Description>
 		 <Version>alpha14.7</Version>
          <Downloads>
-            <Download>http://www.mediafire.com/download/3239l2b52b4kasb/HeadBangers-PSG1.zip</Download>
+			<Download>http://www.mediafire.com/download/uz7i72zhzt6w0g8/HeadBangers.zip</Download>
+			<Download>http://www.mediafire.com/download/ceum62v3we1itpf/PSG-1.zip</Download>
 			<Download>http://www.mediafire.com/download/dj7iz8bkrpd0ecu/Patch.zip</Download>
          </Downloads>
       </Server>
 	  
-	  -->
    </ServerGroup>
 </Servers>
