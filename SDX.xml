@@ -59,6 +59,26 @@ Available in SDX and CompoPack
 			
          </Downloads>
       </Server>
+
+	  <Server Name="PowerMod" Logo="https://github.com/7days2mod/PowerMod/blob/master/Banner.png?raw=true">
+         <Description>Power Mod SDX by Mortelents and Pacco
+This mod introduces workstations and traps that only work when connected to a power source, be it gas, heat or electricity. That means that you will have to create and maintain pipe/cable systems to connect your power sources to your devices. 
+
+Types of Power
+There are 3 different types of power:
+Heat - boilers provide heat energy (or steam if you will). Obviously they are fueled by wood or burnable objects, just like a campfire. Machines connected to this type of energy will work as long as the boiler is lit.
+Electricity - generators provide electricity. A generator is fueld by gasoline by default. Machines connected to this type of energy will work as long as the generator is on. The generator fuel will be consumed while it is turned on. Generators are noisy beasts, so beware...
+Gas - gas tanks distribute gas energy. Gas energy works a bit differently in the sense that fuel is only consumed on demand. What this means, is that if there are no devices requesting for gas, the fuel will NOT be consumed.
+		</Description>
+		<Version>alpha14.7</Version>
+         <RSS>https://github.com/SphereII/SDXPowerMod/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/SphereII/SDXPowerMod</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/SDXPowerMod/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
+
 	  
    </ServerGroup>
 </Servers>
