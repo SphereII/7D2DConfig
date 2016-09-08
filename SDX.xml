@@ -65,6 +65,8 @@ Available in SDX and CompoPack
          <Description>Spider's True Survival Xtreme
 The mod is a work in progress and is only for testing
 		</Description>
+		<Address>209.222.2.74</Address>				
+		<Port>29220</Port>		
 		<Version>alpha14.7</Version>
          <Downloads>
 			<Download>https://github.com/SpiderJZMOD/TrueSurvivalXtreme/archive/master.zip</Download>
