@@ -40,6 +40,18 @@ The Overhaul pack adds the same items and content to the game as the expansion w
             <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
          </Downloads>
       </Server>
+	        <Server Name="Valmod Classic Horde Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true">
+         <Description>Valmar's Classic Horde Survival
+ Welcome to CHS - Classic Horde Survival. This mod aims to offer a completely different experience from vanilla. If you want a mod that adds more farming, crafting, building or expands the game to last for hundreds of days this is NOT the mod for you. This mod is intended to be more towards having a few hours of fun in a horde mode rather than spending weeks building cities. If you just want to kill hordes of zombies while scavenging for food and ammo, this mod might be for you.
+
+Warning: If you have a below average computer you may experience FPS issues when playing this mod due to the large number of zombie spawns. You can lower your games spawn settings in the game options to try to dial it back some but your millage may vary.</Description>
+         <RSS>https://github.com/7days2mod/Classic-Horde-Survival/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/Classic-Horde-Survival</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/Classic-Horde-Survival/archive/master.zip</Download>
+            
+         </Downloads>
+      </Server>
       <Server Name="Valmod HORDE Edition" Logo="https://github.com/7days2mod/Valmod-HORDE-EDITION/blob/master/Banner.png?raw=true">
          <Description>Valmar's Horde Edition
 More zombies, and headshots to kill!
