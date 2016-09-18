@@ -108,6 +108,23 @@ This mod is designed to perfectly balance all aspects of the game from Progressi
             <Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
          </Downloads>
       </Server>
+	  
+      <Server Name="LatheosMod" Logo="https://github.com/LatheosMod/LathModRevised/blob/master/Banner.png?raw=true">
+         <Description>Lath mod Revised
+This mod adds suppressed firearms (including the AK47), steel armor, iron bows and crossbows, a modular repeating crossbow, and a few other bits and bobs. Currently the drawbridges and garage doors are disabled, as I'm not satisfied with their functionality and want to see if I can make them work better before putting them back in.
+
+EAC MUST be disabled for this mod to run.
+
+While the majority of the items are things I've added for myself, there are more than a couple items that have either been inspired by other modders, or borrowed in their entirety. The suppressed weapons were originally taken from Rongo's mods, but have been heavily modified to suit my vision. Thanks go out to Valmar for his mods and all his help in troubleshooting mine, Mafke and his drawbridge/hidden door tutorial (and Kadera's modifications of that), Razzoriel's Deathwish for some inspiration, and Sergant1000 for his experimental weapons. Credit goes to Tritox for his HUD mod, stallionsden for the backpack extension, ClockworkOrange for the Unofficial XML fixes, and three08 for the rebreather.
+		</Description>
+         <RSS>https://github.com/LatheosMod/LathModRevised/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/LatheosMod/LathModRevised</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/LatheosMod/LathModRevised/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
+	  
       <Server Name="A Clockwork Project Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true">
          <Description>A Clockwork Project Mod for Alpha 14.4
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
