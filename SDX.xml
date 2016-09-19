@@ -60,7 +60,7 @@ Available in SDX and CompoPack
          </Downloads>
       </Server>
 
-	  
+<!--	  Temporarily disabling True Survival Xtreme at Spider's request.
 	  <Server Name="True Survival Xtreme" Logo="" >
          <Description>Spider's True Survival Xtreme
 The mod is a work in progress and is only for testing
@@ -72,7 +72,7 @@ The mod is a work in progress and is only for testing
 			<Download>https://github.com/SpiderJZMOD/TrueSurvivalXtreme/archive/master.zip</Download>
          </Downloads>
       </Server>
-	  
+-->	  
 	  <Server Name="PowerMod" Logo="https://github.com/7days2mod/PowerMod/blob/master/Banner.png?raw=true">
          <Description>Power Mod SDX by Mortelents and Pacco
 This mod introduces workstations and traps that only work when connected to a power source, be it gas, heat or electricity. That means that you will have to create and maintain pipe/cable systems to connect your power sources to your devices. 
