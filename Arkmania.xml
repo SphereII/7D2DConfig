@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="ArkmaniaPVP" Logo="" Description="Armanias PVP All Z has Broken Loose">
+      <Server Name="All Z has Broken Loose" Logo="">
+         <Description>Armania's PVP All Z has Broken Loose
+Team Speak: http://Arkmania.BlueFant.net
+
+Tired of the same old game every time? Tired of building a base and having all your gear in a few hours of game play? Want more of a challenge than doubling the zombies hit points and lowering yours? Tired of noobs jumping on the server and getting geared and raiding your base in 30 min? Well we have the server for you. True Survival (Added Prefabs) is now up and running. We have changed a ton of features around to give the game a more paced progression and stretch out the challenge you would normally have for just the first day to the first days and weeks. 
+
+		 </Description>
+		<Version>alpha14.8</Version>
+         <ReleaseNotes>http://steamcommunity.com/groups/HardcoreSurvivalServer/</ReleaseNotes>
+         <Downloads>
+            <Download>https://envul.com/download/1/516/</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
