@@ -2,6 +2,8 @@
 <Servers>
    <ServerGroup Name="ArkmaniaPVP" Logo="" Description="Armanias PVP All Z has Broken Loose">
       <Server Name="All Z has Broken Loose" Logo="">
+	      <Address>144.48.104.122</Address>
+	      <Port>15274</Port>
          <Description>Armania's PVP All Z has Broken Loose
 Team Speak: http://Arkmania.BlueFant.net
 
