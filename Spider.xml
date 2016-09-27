@@ -2,7 +2,7 @@
 <Servers>
    <ServerGroup Name="Spider" Logo="" Description="Spiders True Survival Mods">
       <Server Name="True Survival" Logo="">
-		<IPAddress>209.222.2.74</IPAddress>
+		<Address>209.222.2.74</Address>
 		<Port>29220</Port>
          <Description>Spider s True Survival Hardcore PVP A15 Experimental
 		 </Description>
