@@ -84,29 +84,7 @@ Modded for more challenging survival combined with a steady slow progression in 
          </Downloads>
       </Server>
 	  
-	  <Server Name="SteelMod" Logo="https://github.com/7days2mod/SteelMod/blob/master/Banner.png?raw=true">
-         <Description>Steel Mod
-SteelMod, the highly acclaimed server sided RP mod since 2014 has finally arrived for Single Player and Co-Op play! Gone are the days of needing 10 or 20 players to make an economy based RP mod work! All the Primary and Secondary job books have been added to the loot table, as well as a loot table adjustment to fit SP perfectly!
-		</Description>
-         <RSS>https://github.com/7days2mod/SteelMod/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/SteelMod</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/SteelMod/archive/master.zip</Download>
-			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  
-      <Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Experimental Mod for Alpha 14.7 with Magoli's CompoPack
-This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
-         <RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
-            <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  
+  
       <Server Name="LathMod" Logo="https://github.com/LatheosMod/LathModRevised/blob/master/Banner.png?raw=true">
          <Description>Lath mod Revised with Magoli's CompoPack
 This mod adds suppressed firearms (including the AK47), steel armor, iron bows and crossbows, a modular repeating crossbow, and a few other bits and bobs. Currently the drawbridges and garage doors are disabled, as I'm not satisfied with their functionality and want to see if I can make them work better before putting them back in.
@@ -124,17 +102,18 @@ While the majority of the items are things I've added for myself, there are more
       </Server>
 
 	  
-      <Server Name="A Clockwork Project Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Mod for Alpha 14.4 with Magoli's CompoPack
+         <Server Name="A Clockwork Project" Logo="https://github.com/ClockworkOrange420/A-Clockwork-Project/blob/master/Banner.png?raw=true">
+         <Description>A Clockwork Project Mod for Alpha 14.4
 This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
-         <RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
+         <RSS>https://github.com/ClockworkOrange420/A-Clockwork-Project/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/ClockworkOrange420/A-Clockwork-Project/</ReleaseNotes>
          <Downloads>
-            <Download>https://github.com/7days2mod/A-Clockwork-Project/archive/master.zip</Download>
-            <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+            <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
          </Downloads>
       </Server>
    </ServerGroup>
+
    <ServerGroup Name="7Days2Mod MegaCity" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Various mods from users, combined with stallionsden's prefab compopack.">
       <Server Name="Vanilla XML" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true">
          <Description>Vanilla XML Files with stallionsden's MegaCity
@@ -227,17 +206,6 @@ Modded for more challenging survival combined with a steady slow progression in 
 			<Download>https://raw.githubusercontent.com/7days2mod/True-Survival/master/Mods/Data/Config/materials.xml</Download>
          </Downloads>
       </Server>
-      <Server Name="A Clockwork Project Experimental" Logo="https://github.com/7days2mod/A-Clockwork-Project-Experimental/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Experimental Mod for Alpha 14.7 with stallionsden's MegaCity
-This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
-         <RSS>https://github.com/7days2mod/A-Clockwork-Project-Experimental/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project-Experimental</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/A-Clockwork-Project-Experimental/archive/master.zip</Download>
-            <Download>https://github.com/7days2mod/Megacity/archive/master.zip</Download>
-			<Download>https://raw.githubusercontent.com/7days2mod/A-Clockwork-Project-Experimental/master/7%20Days%20To%20Die/Data/Config/materials.xml</Download>
-         </Downloads>
-      </Server>
 	  
 	        <Server Name="LathMod" Logo="https://github.com/LatheosMod/LathModRevised/blob/master/Banner.png?raw=true">
          <Description>Lath mod Revised with Magoli's CompoPack
@@ -256,20 +224,6 @@ While the majority of the items are things I've added for myself, there are more
          </Downloads>
       </Server>
 
-
-	  
-      <Server Name="A Clockwork Project Alpha 14.4" Logo="https://github.com/7days2mod/A-Clockwork-Project/blob/master/Banner.png?raw=true">
-         <Description>A Clockwork Project Mod for Alpha 14.4 with stallionsden's MegaCity
-This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!</Description>
-         <RSS>https://github.com/7days2mod/A-Clockwork-Project/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/A-Clockwork-Project</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/A-Clockwork-Project/archive/master.zip</Download>
-            <Download>https://github.com/7days2mod/Megacity/archive/master.zip</Download>
-			<Download>https://raw.githubusercontent.com/7days2mod/A-Clockwork-Project/master/7%20Days%20To%20Die/Data/Config/materials.xml</Download>
-			
-         </Downloads>
-      </Server>
 	  
 	  
    </ServerGroup>
