@@ -63,10 +63,10 @@ This is a relatively large mod pack I've gradually created over time. It's mainl
 The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.
  </Description>
          <RSS>https://github.com/7days2mod/Valmod-HORDE-EDITION/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/Valmar-HORDE-EDITION</ReleaseNotes>
+         <ReleaseNotes>https://github.com/LordValmar/Valmar-HORDE-EDITION</ReleaseNotes>
          <Downloads>
 			<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-            <Download>https://github.com/7days2mod/Valmod-HORDE-EDITION/archive/master.zip</Download>
+            <Download>https://github.com/LordValmar/Valmod-HORDE-EDITION/archive/master.zip</Download>
             <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
 			
          </Downloads>
