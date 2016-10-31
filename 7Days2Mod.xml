@@ -77,7 +77,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
             <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
          </Downloads>
       </Server>
-      <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
+      <!--Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
          <Description>True Survival Mod
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
@@ -85,7 +85,7 @@ Modded for more challenging survival combined with a steady slow progression in 
          <Downloads>
             <Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
          </Downloads>
-      </Server>
+      </Server-->>
 	  
 	  <Server Name="BadCompany" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true">
          <Description>Zombie Pack

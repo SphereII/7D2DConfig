@@ -73,7 +73,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
       </Server>
 	  
 	  
-      <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
+      <!-- Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
          <Description>True Survival Mod with Magoli's CompoPack
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
@@ -82,7 +82,7 @@ Modded for more challenging survival combined with a steady slow progression in 
             <Download>https://github.com/7days2mod/True-Survival/archive/master.zip</Download>
             <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
          </Downloads>
-      </Server>
+      </Server-->
 	  
   
       <Server Name="LathMod" Logo="https://github.com/LatheosMod/LathModRevised/blob/master/Banner.png?raw=true">
@@ -195,7 +195,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
 	  	  
 	  
 	  
-      <Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
+      <!-- Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
          <Description>True Survival Mod with stallionsden's MegaCity
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
          <RSS>https://github.com/7days2mod/True-Survival/commits/master.atom</RSS>
@@ -205,7 +205,7 @@ Modded for more challenging survival combined with a steady slow progression in 
             <Download>https://github.com/7days2mod/Megacity/archive/master.zip</Download>
 			<Download>https://raw.githubusercontent.com/7days2mod/True-Survival/master/Mods/Data/Config/materials.xml</Download>
          </Downloads>
-      </Server>
+      </Server-->
 	  
 	        <Server Name="LathMod" Logo="https://github.com/LatheosMod/LathModRevised/blob/master/Banner.png?raw=true">
          <Description>Lath mod Revised with Magoli's CompoPack
