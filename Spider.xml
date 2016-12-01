@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Spider" Logo="" Description="Spiders True Survival Mods">
-      <Server Name="True Survival" Logo="">
+      <Server Name="True Survival-JZMod" Logo="">
          <Description>Modded for more challenging survival combined with a steady slow progression in building and crafting. 
 	 </Description>
 	 <Version>alpha15</Version>
