@@ -23,6 +23,7 @@ Each Class starts with specific starting Gear including the chance to have a que
 		 </Description>
 		 <Address>192.99.6.23</Address>
 		 <Port>48350</Port>
+	   		<WebSite>http://projectz.enjin.com/</WebSite>
 		 <ReleaseNotes>http://projectz.enjin.com/</ReleaseNotes>
 		 <Version>alpha15.0</Version>
          <Downloads>
