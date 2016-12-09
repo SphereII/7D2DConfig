@@ -60,4 +60,72 @@ The Overhaul pack adds the same items and content to the game as the expansion w
          </Downloads>
       </Server>
    </ServerGroup>
+   
+   <ServerGroup Name="7Days2Mod CompoPack" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Various mods from users, combined with Magoli's prefab compopack.">
+
+      <Server Name="Valmod Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
+         <Description>Valmar's Expansion Mod
+This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
+
+The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.</Description>
+         <RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/Valmod-Expansion</ReleaseNotes>
+         <Excludes>
+            <Exclude>\Bigger Backpack Mod\</Exclude>
+         </Excludes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/Valmod-Expansion/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+      <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
+         <Description>Valmar Overhaul Mod
+This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
+
+The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
+         <RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
+         <Excludes>
+            <Exclude>\Bigger Backpack Mod\</Exclude>
+         </Excludes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+      <Server Name="Valmod Expansion Big Backpack" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
+         <Description>Valmar's Expansion Mod with bigger Back Pack
+This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
+
+The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.</Description>
+         <RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/Valmod-Expansion</ReleaseNotes>
+         <Excludes>
+            <Exclude>\Bigger Backpack Mod\Server\</Exclude>
+         </Excludes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/Valmod-Expansion/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>			
+			<Download>https://raw.githubusercontent.com/7days2mod/Valmod-Expansion/master/Bigger%20Backpack%20Mod/Data/Config/XUi/windows.xml</Download>
+         </Downloads>
+      </Server>
+      <Server Name="Valmod Overhaul Big Backpack" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
+         <Description>Valmar Overhaul Mod  with bigger Back Pack
+This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
+
+The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
+         <RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
+         <ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
+         <Excludes>
+            <Exclude>\Bigger Backpack Mod\Server\</Exclude>
+         </Excludes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+			<Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
+			<Download>https://raw.githubusercontent.com/7days2mod/Valmod-Overhaul/master/Bigger%20Backpack%20Mod/Data/Config/XUi/windows.xml</Download>
+         </Downloads>
+      </Server>
+
+   </ServerGroup>
+
 </Servers>
