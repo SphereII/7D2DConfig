@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Spider" Logo="" Description="Spiders True Survival Mods">
-      <Server Name="True Survival" Logo="">
-		<Address>209.222.2.74</Address>
-		<Port>29220</Port>
-         <Description>Spider s True Survival Hardcore PVP A15 Experimental
-		 </Description>
-		 <Version>latest_experimenta</Version>
-         <ReleaseNotes></ReleaseNotes>
+      <Server Name="True Survival-JZMod" Logo="">
+         <Description>Modded for more challenging survival combined with a steady slow progression in building and crafting. 
+	 </Description>
+	 <Version>alpha15</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?38584-True-Survival-JZMOD</ReleaseNotes>
          <Downloads>
-            <Download>https://github.com/SpiderJZMOD/TrueSurvivalClientPackA15/archive/master.zip</Download>
+            <Download>https://github.com/SpiderJZMOD/True-Survial-A15-JZMOD/archive/master.zip</Download>
          </Downloads>
       </Server>
    </ServerGroup>

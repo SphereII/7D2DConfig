@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+<ServerGroup Name="ProjectZ" Logo="" Description="" >
+   <Server Name="Project Z" Logo="https://s12.postimg.org/ui0z7fmot/Project_Z_Logo_Forums2.png">
+         <Description>Project Z is a Mod Overhaul for 7 Days to Die that Brings Immersion and New elements to a already popular and great Game, Enhancing your Gaming Experience
+
+For servers, search for Project Z
+
+Team Speak: Ts3.SomethingMoreSerious.Com
+
+#1.New Zombies and Zombie Spawning
+#2.New Rwg.Mixer file (Translation= Buildings Spawn properly)
+#3.New Items 
+#4. Extended Leveling System 
+#5.Traders Redone 
+#6.Biomes 
+#7.Farming redone 
+#8.Workstations 
+#9. Classes 
+Each Class starts with specific starting Gear including the chance to have a quest which talks of there life before the outbreak and rewards them with there midgame Tool or Weapon.
+#10. New Weapons 
+#11. Buffs abilities 
+		 </Description>
+		 <Address>144.48.104.122</Address>
+		 <Port>15274</Port>
+	   		<WebSite>http://projectz.enjin.com/</WebSite>
+		 <ReleaseNotes>http://projectz.enjin.com/</ReleaseNotes>
+		 <Version>alpha15.0</Version>
+         <Downloads>
+		 <Download>https://dl.dropboxusercontent.com/s/nalxfy9p0oy5k2c/LatestPZClient.zip</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
