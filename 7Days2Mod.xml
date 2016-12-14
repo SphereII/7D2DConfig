@@ -18,28 +18,6 @@ This includes a copy of the vanilla XML files.</Description>
             <Download>https://github.com/7days2mod/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
          </Downloads>
       </Server>
-      <Server Name="Valmod Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Expansion Mod
-This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
-
-The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.</Description>
-         <RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/Valmod-Expansion</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/Valmod-Expansion/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-      <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
-         <Description>Valmar Overhaul Mod
-This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
-
-The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
-         <RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-         </Downloads>
-      </Server>
 	        <Server Name="Valmod Classic Horde Survival" Logo="https://github.com/7days2mod/Classic-Horde-Survival/blob/master/Banner.png?raw=true">
          <Description>Valmar's Classic Horde Survival
  Welcome to CHS - Classic Horde Survival. This mod aims to offer a completely different experience from vanilla. If you want a mod that adds more farming, crafting, building or expands the game to last for hundreds of days this is NOT the mod for you. This mod is intended to be more towards having a few hours of fun in a horde mode rather than spending weeks building cities. If you just want to kill hordes of zombies while scavenging for food and ammo, this mod might be for you.
@@ -66,17 +44,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
          </Downloads>
       </Server>
 
-	  <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Overhaul/blob/master/Banner.png?raw=true">
-         <Description>Valmar Overhaul Mod
-This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
 
-The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
-         <RSS>https://github.com/7days2mod/Valmod-Overhaul/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/7days2mod/Valmod-Overhaul</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-         </Downloads>
-      </Server>
       <!--Server Name="True Survival" Logo="https://github.com/7days2mod/True-Survival/blob/master/Banner.png?raw=true">
          <Description>True Survival Mod
 Modded for more challenging survival combined with a steady slow progression in building and crafting.</Description>
