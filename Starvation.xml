@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Starvation" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="" >
+   
+   <Server Name="Starvation" Logo="http://www.gamerxserver.com/images/SDX-Banner-1.png">
+         <Description>Starvation SDX Test
+		 </Description>
+		 <DownloadMode>Clone</DownloadMode>
+		 <Arguments>
+			<Argument>-sdxconfig=7DaysToDie_Data\Managed\settings.ini</Argument>
+		 </Arguments>
+         <Downloads>
+            <Download>https://github.com/SphereII/StarvationTest/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
