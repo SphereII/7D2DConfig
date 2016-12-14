@@ -1,0 +1,74 @@
+<?xml version='1.0'?>
+<Servers >
+	<!-- Server Group will encompass a single group running multiple servers -->
+	<ServerGroup Name="Dawn of the New Apocalypse" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
+
+		<!-- Main Server -->
+
+		<Server Name="Dawn of the New Apocalypse Hardcore PVE Server" Logo="https://qph.is.quoracdn.net/main-qimg-21a8ef7a4a6cce3b33082bf0165bdbb2?convert_to_webp=true">				<!-- Display name of the server, also used for Folder path -->
+			<Address>108.174.48.186</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Port>26430</Port>										<!-- Port number of Server, this value gets updated in the Registry for the Port -->
+			<Type>Whitelist</Type>									<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
+			<Version>Latest</Version>  								<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<EAC>Disabled</EAC>										<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			<Admin>JaxTeller718</Admin>								<!-- Admin Name(s). Display purposes only.  -->
+			<AdminContact>jaxteller718@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->http://7d2dlauncher.org/ForumFanatics.7D2D
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>	<!-- Server's web page, if available. Used as a web link. -->
+			<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
+			<ReleaseNotes>http://7d2dforumfanatics.enjin.com/rules</ReleaseNotes>
+			
+			<!-- Required downloads -->
+			<!-- NOTE: If you are using MediaFire, this needs to be a *direct link*. Right click on the Download button and copy address -->
+			<Downloads>
+				<Download> http://www.mediafire.com/file/m6acr86w95c65m5/Dawn_of_the_New_Apocalypse_Server_Files.zip</Download>
+			</Downloads>
+			<Description>
+			Hardcore A15 Stable Modded Server. Please use the Launcher to see icons.
+			</Description>
+		</Server>
+	
+		<!-- Test Server -->
+
+	<Server Name="Test Server" Logo="https://qph.is.quoracdn.net/main-qimg-21a8ef7a4a6cce3b33082bf0165bdbb2?convert_to_webp=true">				<!-- Display name of the server, also used for Folder path -->
+			<Address>75.127.5.186</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Port>26430</Port>										<!-- Port number of Server, this value gets updated in the Registry for the Port -->
+			<Type>Whitelist</Type>									<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
+			<Version>Latest</Version>  								<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<EAC>Disabled</EAC>										<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			<Admin>JaxTeller718</Admin>								<!-- Admin Name(s). Display purposes only.  -->
+			<AdminContact>jaxteller718@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->http://7d2dlauncher.org/ForumFanatics.7D2D
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>	<!-- Server's web page, if available. Used as a web link. -->
+			<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
+			<ReleaseNotes>http://7d2dforumfanatics.enjin.com/forum/m/37886357/viewthread/27003314-forum-fanatics-official-server-information</ReleaseNotes>
+			
+			<!-- Required downloads -->
+			<!-- NOTE: If you are using MediaFire, this needs to be a *direct link*. Right click on the Download button and copy address -->
+			<Downloads>
+				<Download> http://www.mediafire.com/file/uaet8rq6eq32rey/Project_Files_A15_Test_Server.zip</Download>
+			</Downloads>
+			<Description>
+			For testing upcoming server releases only. Frequently wiped. Core Members Only. Ask JaxTeller718 for access.
+			</Description>
+		</Server>
+		
+		<!-- Private Server -->
+		<Server Name="Jax and Shorty Private Server" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Address>209.222.2.74</Address>
+			<Port>26430</Port>
+			<Type>Passworded</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://7d2dforumfanatics.enjin.com/home</WebSite>
+			<ReleaseNotes>http://7d2dforumfanatics.enjin.com/forum/m/37886357/viewthread/28174921-forum-fanatics-walking-zeds-season-1-discussion-info-thread</ReleaseNotes>
+			<Downloads>
+				<Download>http://www.mediafire.com/file/hq4kghn9kq0zua3/Project_Files_A15_Private_Server.zip</Download>
+			</Downloads>
+		    <Description>
+			Private test server to test and stuffs
+			</Description>
+		</Server>
+
+	</ServerGroup>
+</Servers>
