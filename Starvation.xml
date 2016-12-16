@@ -6,9 +6,7 @@
          <Description>Starvation SDX Test
 		 </Description>
 		 <DownloadMode>Clone</DownloadMode>
-		 <Arguments>
-			
-		 </Arguments>
+
          <Downloads>
             <Download>https://github.com/SphereII/StarvationTest/archive/master.zip</Download>
          </Downloads>
