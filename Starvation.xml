@@ -6,9 +6,7 @@
          <Description>Starvation SDX Test
 		 </Description>
 		 <DownloadMode>Clone</DownloadMode>
-		 <Arguments>
-			<Argument>-sdxconfig=7DaysToDie_Data\Managed\settings.ini</Argument>
-		 </Arguments>
+
          <Downloads>
             <Download>https://github.com/SphereII/StarvationTest/archive/master.zip</Download>
          </Downloads>
