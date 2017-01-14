@@ -19,6 +19,7 @@
          <Downloads>
             <Download>https://github.com/Mortelentus/StarvationSDX/archive/master.zip</Download>
 		 <Download>http://sdxmod.com/builds/SDX_0.7.0.zip</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/StarvationTest/master/settings.ini</Download>
          </Downloads>
       </Server>
 
