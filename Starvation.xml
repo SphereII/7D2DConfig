@@ -11,5 +11,18 @@
             <Download>https://github.com/SphereII/StarvationTest/archive/master.zip</Download>
          </Downloads>
       </Server>
+      <Server Name="MortStarvation" Logo="http://www.gamerxserver.com/images/SDX-Banner-1.png">
+         <Description>Mort Starvation SDX Test
+		 </Description>
+		 <DownloadMode>Clone</DownloadMode>
+
+         <Downloads>
+            <Download>https://github.com/Mortelentus/StarvationSDX/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
    </ServerGroup>
+	
+	
+	
 </Servers>
