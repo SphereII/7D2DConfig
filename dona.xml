@@ -6,6 +6,7 @@
 		<!-- Main Server -->
 
 		<Server Name="Dawn of the New Apocalypse Hardcore PVE Server" Logo="http://files.enjin.com/1208589/module_header/37886353/image_2/greenbanner.jpg">				<!-- Display name of the server, also used for Folder path -->
+			<Banner>http://files.enjin.com/1208589/module_header/37886353/image_2/greenbanner.jpg</Banner>
 			<Address>108.174.48.186</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Port>26430</Port>										<!-- Port number of Server, this value gets updated in the Registry for the Port -->
 			<Type>Whitelist</Type>									<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
