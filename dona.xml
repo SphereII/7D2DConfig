@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <Servers >
 	<!-- Server Group will encompass a single group running multiple servers -->
-	<ServerGroup Name="Dawn of the New Apocalypse" Logo="https://raw.githubusercontent.com/Official7D2DForumFanatics/7D2DFFLauncher/master/7dtdNewLogo.jpg">
+	<ServerGroup Name="Dawn of the New Apocalypse" Logo="http://files.enjin.com/1208589/module_header/37886353/image_2/greenbanner.jpg">
 
 		<!-- Main Server -->
 
