@@ -2,12 +2,12 @@
 <Servers>
    <ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
       <Server Name="War of the Walkers" Logo="">
-         <Description>The War of the Walkers  Alpha 15.2 version 
+         <Description>The War of the Walkers
 	 </Description>
 	 <Version></Version>
          <ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
          <Downloads>
-            <Download>https://envul.com/download/1/652/</Download>
+            <Download>https://github.com/dwallorde/WaroftheWalkersMod/archive/master.zip</Download>
          </Downloads>
       </Server>
    </ServerGroup>
