@@ -16,6 +16,8 @@
 Client-side Only pack for Spider True Survival SDX. In order to fully enjoy this mod, you will need to connect to the official True Survival SDX Mod
 		 
 		 </Description>
+		 <Address>104.243.42.154</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+		<Port>23104</Port>	
 		 <DownloadMode>Clone</DownloadMode>
 		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59466-WIP-True-Survival-SDX</ReleaseNotes>
          <Downloads>
