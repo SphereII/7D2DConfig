@@ -12,8 +12,7 @@ Client-side Only pack for Spider True Survival SDX. In order to fully enjoy this
 		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59466-WIP-True-Survival-SDX</ReleaseNotes>
          <Downloads>
             <Download>https://github.com/SpiderJZMOD/True-Survival-SDX</Download>
-           <Download>https://github.com/SphereII/SDXWorkshop/raw/master/SDX_0.7.0/DLLs/Assembly-CSharp.dll
-           </Download>
+           <Download>https://github.com/SphereII/SDXWorkshop/raw/master/SDX_0.7.0/DLLs/Assembly-CSharp.dll</Download>
          </Downloads>
       </Server>
    </ServerGroup>
