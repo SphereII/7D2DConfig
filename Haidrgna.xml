@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--****************************************************************************************************************
+ServerGroup Name=""   
+  - This controls the top level heading in the Mod Launcher for the mod. All the <Server> tags will be under it.
+  
+  The same ServerGroup Name="" can be set in different files, and the Mod Launcher will group them under the same heading
+  So we could do:   Regular.xml and Advanced.xml, and if they have the same ServerGroup Name, they'll be grouped together.
+
+Server Name=""
+  - This sets the unique name of each mod.
+
+<Description> </Description>
+  - This is the Description someone will read when they click on Show More Information.
+  
+<ReleaseNotes></ReleaseNotes>
+  - A link back to the Forums, for when people click on Release Notes link
+  
+<Excludes></Excludes>
+  - Download path to ignore.
+
+<Download></Download>
+  - A unique download link. Each link will be installed in order; that's how we over-write base files, by adding a secondary
+  link in the list after the first link.
+********************************************************************************************************************** -->
+<Servers>
+	<ServerGroup Name="Gnamod Ultra Mode" Logo="" Description="Haidrgna Gnamod Mods with various combinations!">
+		<Server Name="Standard" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Standard No Climbing" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/No%20Climbing/entityclasses.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Standard Max Spawning+++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B%2B/spawning.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Standard More Spawning++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B/spawning.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Standard Extra Spawning" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B/spawning.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Huge World" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Huge%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Huge World No Climbing" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/No%20Climbing/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Huge%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Huge World Max Spawning+++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Huge%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Huge World More Spawning++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Huge%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Huge World Extra Spawning" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Huge%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<!-- Large World -->
+
+		<Server Name="Large World Standard" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Large World No Climbing" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/No%20Climbing/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Large World Max Spawning+++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Large World More Spawning++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Large World Extra Spawning" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<!-- Medium World -->
+
+		<Server Name="Medium World Standard" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Medium%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Medium World No Climbing" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/No%20Climbing/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Medium%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Medium World Max Spawning+++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Medium%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Medium World More Spawning++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Medium%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Medium World Extra Spawning" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Medium%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+
+		<!-- Small World -->
+		<Server Name="Small World Standard" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Small%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Small World No Climbing" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/No%20Climbing/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Small%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Small World Max Spawning+++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Small%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Small World More Spawning++" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Small%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Small World Extra Spawning" Logo="">
+			<Description>
+Gnamod World Ultra Nomad Mode is a standalone modification of my Gnamod World mod. This mod creates a unique game mode I also 
+created previously for alpha 14 that I call the Ultra Nomad Mode. This is a game mode that forces a challenging nomadic playstyle 
+where you are armed by a randomized starting kit and have to survive for as long as you can alone, with friends or even against them.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Ultra-Nomad-Mode/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/Spawning%2B/spawning.xml</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Ultra-Nomad-Mode/master/Options/World%20Sizes/Small%20World/rwgmixer.xml</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+
+	<ServerGroup Name="Gnamod Necropolis" Logo="" Description="Haidrgna Gnamod Necropolis Mods with various combinations!">
+		<Server Name="Classic" Logo="">
+			<Description>
+Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
+It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
+any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
+radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
+hideouts at night to feed on any remaining survivors. 
+
+Can you survive in this Wasteland?
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
+			<Excludes>
+				<Exclude>Gnamod%20Necropolis%20Nomad</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Necropolis" Logo="">
+			<Description>
+Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
+It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
+any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
+radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
+hideouts at night to feed on any remaining survivors. 
+
+Can you survive in this Wasteland?
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
+			<Excludes>
+				<Exclude>Options</Exclude>
+				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Necropolis No Climbing" Logo="">
+			<Description>
+Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
+It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
+any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
+radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
+hideouts at night to feed on any remaining survivors. 
+
+Can you survive in this Wasteland?
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
+			<Excludes>
+				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Necropolis/master/Gnamod%20Necropolis%20Nomad/Options/No%20Climbing/entityclasses.xml</Download>
+			</Downloads>
+		</Server>		
+
+		<Server Name="Necropolis More Spawning" Logo="">
+			<Description>
+Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
+It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
+any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
+radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
+hideouts at night to feed on any remaining survivors. 
+
+Can you survive in this Wasteland?
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
+			<Excludes>
+				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-Necropolis/master/Gnamod%20Necropolis%20Nomad/Options/Spawning%2B/spawning.xml</Download>
+			</Downloads>
+		</Server>		
+	</ServerGroup>
+</Servers>
