@@ -10,20 +10,5 @@ It's a collection of 496 Vanilla- and Custom-Prefabs made from the members of th
             <Download>https://github.com/7days2mod/Compo/archive/master.zip</Download>
          </Downloads>
       </Server>
-	  
-	
-      <Server Name="MegaCityPack" Logo="https://github.com/7days2mod/Vanilla/blob/master/Banner.png?raw=true">
-         <Description>stallionsden's Mega City
-- Biomedeco Prefabs to the biomes.xml (not linked to wilderness/rural poi spawns 
-
-- 18 Thriving CityCombo pois. 45x45 area with numerous pois placed inside. Most are vanilla additions as well as some great prefabs from Stompy whom gets due credit for his work on them solely. 
-
-- 21 sky scraper variants.</Description>
-         <RSS>https://github.com/7days2mod/Megacity/commits/master.atom</RSS>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?36836-MEGA-CITY-(2000x2500)</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/7days2mod/Megacity/archive/master.zip</Download>
-         </Downloads>
-      </Server>
    </ServerGroup>
 </Servers>
