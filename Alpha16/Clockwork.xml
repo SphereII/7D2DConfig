@@ -10,6 +10,14 @@
             <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
          </Downloads>
       </Server>
-	 
+	  <Server Name="Unofficial XML Fixes" Logo="">
+         <Description>A 16 Fixes all found and reported XML mistakes, exploits and errors!
+	 </Description>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?37165-Unofficial-XML-Fixes</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/ClockworkOrange420/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
+         </Downloads>
+      </Server>
    </ServerGroup>
 </Servers>
