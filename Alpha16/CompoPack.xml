@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Alpha16" Logo="" Description="CompoPack">
+      <Server Name="Magoli CompoPack" Logo="">
+         <Description>It's a collection of about 150 Custom-Prefabs made by the members of this forum.
+	 </Description>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?28057-Compo-Pack-for-Random-Gen</ReleaseNotes>
+         <Downloads>
+            <Download>https://dl.dropboxusercontent.com/s/mdbvecz5tdkptbq/COMPOPACK_25%28for_alpha16experimental%29.zip?dl=0</Download>
+         </Downloads>
+      </Server>
+	 
+   </ServerGroup>
+</Servers>
