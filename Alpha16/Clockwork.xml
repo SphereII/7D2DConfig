@@ -19,5 +19,16 @@
             <Download>https://github.com/ClockworkOrange420/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
          </Downloads>
       </Server>
+	  
+    <Server Name="A Clockwork Project with CompoPack" Logo="">
+         <Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting, with CompoPack!
+	 </Description>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-With-Compo-Pack/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
    </ServerGroup>
 </Servers>
