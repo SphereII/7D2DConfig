@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Spider" Logo="" Description="Spiders True Survival Mods">
+    <Server Name="True Survival SDX" Logo="">
+         <Description>True Survival SDX
+Client-side Only pack for Spider True Survival SDX. In order to fully enjoy this mod, you will need to connect to the official True Survival SDX Mod
+		 
+		 </Description>
+		 <Address>172.96.166.18</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+		<Port>24565</Port>	
+		 <DownloadMode>Clone</DownloadMode>
+		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59466-WIP-True-Survival-SDX</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SpiderJZMOD/True-Survival-A16-Client</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
