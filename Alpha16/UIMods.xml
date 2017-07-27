@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="UIs" Logo="" Description="Various UI modss">
+      <Server Name="DadMod" Logo="">
+         <Description>Minimal HUD mod A16 compatible. No more health, stamina, hunger, compass, quest tracker, buff popups, and so on.
+	 </Description>
+	  <DownloadMode>Clone</DownloadMode>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?68042-DadMod</ReleaseNotes>
+         <Downloads>
+            <Download>https://www.dropbox.com/s/sf9656sbhsof3w9/MinimalHUD.rar?dl=0</Download>
+         </Downloads>
+      </Server>
+	  
+	  
+    <Server Name="SMX" Logo="">
+         <Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
+	 </Description>
+	  <DownloadMode>Clone</DownloadMode>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/SMXUi/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+
+   </ServerGroup>
+</Servers>
