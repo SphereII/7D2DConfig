@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="UIs" Logo="" Description="Various UI modss">
+	<ServerGroup Name="UIs" Logo="" Description="Various UI mods">
 		
       <Server Name="DadMod" Logo="">
          <Description>Minimal HUD mod A16 compatible. No more health, stamina, hunger, compass, quest tracker, buff popups, and so on.
@@ -32,6 +32,8 @@
 				<Download>https://github.com/DUST2DEATH/Guppys-Wasteland-UI/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+		
+
 <!--
 		<Server Name="Yet Another UI" Logo="">
 			<Description>Yet Another UI by DUST2DEATH</Description>

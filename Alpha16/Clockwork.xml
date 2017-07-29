@@ -1,34 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Clockwork Orange" Logo="" Description="Ninefinger Productions">
-      <Server Name="A Clockwork Project" Logo="">
-         <Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!
-	 </Description>
-	 <Version>Latest</Version>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  <Server Name="Unofficial XML Fixes" Logo="">
-         <Description>A 16 Fixes all found and reported XML mistakes, exploits and errors!
-	 </Description>
-	 <Version>Latest</Version>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?37165-Unofficial-XML-Fixes</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/ClockworkOrange420/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  
-    <Server Name="A Clockwork Project with CompoPack" Logo="">
-         <Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting, with CompoPack!
-	 </Description>
-	 <Version>Latest</Version>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-With-Compo-Pack/archive/master.zip</Download>
-         </Downloads>
-      </Server>
+	<ServerGroup Name="Clockwork Orange" Logo="" Description="Ninefinger Productions">
+		<Server Name="A Clockwork Project" Logo="">
+			<Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Unofficial XML Fixes" Logo="">
+			<Description>A 16 Fixes all found and reported XML mistakes, exploits and errors!
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?37165-Unofficial-XML-Fixes</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/7-Days-to-die-Unofficial-XML-Fixes/archive/master.zip</Download>
+			</Downloads>
+		</Server>
 
-   </ServerGroup>
+		<Server Name="A Clockwork Project with CompoPack" Logo="">
+			<Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting, with CompoPack!
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-With-Compo-Pack/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+
+	<ServerGroup Name="UIs" Logo="" Description="Various UI mods">
+		<!-- Clockwork UIs -->
+		<Server Name="Clockwork Diablo UI" Logo="">
+			<Description>Clockwork Diable UI</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				
+				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme\</Exclude>
+				<Exclude>\Clockwork Watch\</Exclude>
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Diablo/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Clockwork Minimalist Mild V2" Logo="">
+			<Description>Clockwork Minimalist Mild V2</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				<Exclude>\Clockwork Diablo\</Exclude>
+				
+				<Exclude>\Clockwork Minimalist Mild\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme\</Exclude>
+				<Exclude>\Clockwork Watch\</Exclude>
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimalist%20Mild%20V2/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimalist%20Mild%20V2/7%20Days%20To%20Die/Data/Config/xui.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Clockwork Minimalist Mild" Logo="">
+			<Description>Clockwork Minimalist UI</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				<Exclude>\Clockwork Diablo\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
+				
+				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme\</Exclude>
+				<Exclude>\Clockwork Watch\</Exclude>
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimalist%20Mild/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimalist%20Mild/7%20Days%20To%20Die/Data/Config/xui.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Clockwork Minimalist Extreme V2" Logo="">
+			<Description>Clockwork Minimalist Extreme UI</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				<Exclude>\Clockwork Diablo\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild\</Exclude>
+				
+				<Exclude>\Clockwork Minimals Extreme\</Exclude>
+				<Exclude>\Clockwork Watch\</Exclude>
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimals%20Extreme%20V2/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimals%20Extreme%20V2/7%20Days%20To%20Die/Data/Config/xui.xml</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Clockwork Minimalist Extreme" Logo="">
+			<Description>Clockwork Minimalist Extreme</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				<Exclude>\Clockwork Diablo\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
+				
+				<Exclude>\Clockwork Watch\</Exclude>
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimals%20Extreme/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Minimals%20Extreme/7%20Days%20To%20Die/Data/Config/xui.xml</Download>
+			</Downloads>
+		</Server>
+
+
+		<Server Name="Clockwork Watch UI" Logo="">
+			<Description>Clockwork Watch UI</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
+			<Excludes>
+				<Exclude>\Clockwork Diablo\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
+				<Exclude>\Clockwork Minimalist Mild\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
+				<Exclude>\Clockwork Minimals Extreme\</Exclude>
+
+			</Excludes>
+
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/Vanilla-UI-Versions/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Watch/7%20Days%20To%20Die/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/ClockworkOrange420/Vanilla-UI-Versions/master/Clockwork%20Watch/7%20Days%20To%20Die/Data/Config/xui.xml</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+
+
+
 </Servers>
