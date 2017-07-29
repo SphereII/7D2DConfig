@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Sphere-imental" Logo="" Description="Experimental combinations by SphereII">
+    <Server Name="Classic Style Survival" Logo="">
+         <Description>Classic Stsyle Survival Mod
+		 </Description>
+		 <DownloadMode>Clone</DownloadMode>
+		<ReleaseNotes></ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/ClassicSurvival</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>

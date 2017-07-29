@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Clockwork Orange" Logo="" Description="Ninefinger Productions">
+      <Server Name="A Clockwork Project" Logo="">
+         <Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!
+	 </Description>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+	 
+   </ServerGroup>
+</Servers>

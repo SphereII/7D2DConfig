@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Testing" Logo="" Description="">
+      <Server Name="Launcher" Logo="">
+         <Description>
+	 </Description>
+	  <DownloadMode>Clone</DownloadMode>
+	 <Version>Latest</Version>
+         <ReleaseNotes></ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/7D2DModLauncher/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+	 
+   </ServerGroup>
+</Servers>
