@@ -26,10 +26,23 @@
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
 			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
 				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-With-Compo-Pack/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 
+				<Server Name="A Clockwork Project with CompoPack Experimental" Logo="">
+			<Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting, with CompoPack!
+			
+			For Alpha 16.2 experimental
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-Experimental/archive/master.zip</Download>
+				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project-With-Compo-Pack/archive/master.zip</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 
 	<ServerGroup Name="UIs" Logo="" Description="Various UI mods">
