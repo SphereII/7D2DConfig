@@ -17,7 +17,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			<Version>Latest</Version>
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/settlersmod/archive/master.zip</Download>
+				<Download>https://github.com/skippy3/Settlersmodmultiplayerserver/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 
@@ -37,7 +37,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			<Version>Latest</Version>
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/settlersmod/archive/master.zip</Download>
+				<Download>https://github.com/skippy3/Settlersmodmultiplayerserver/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 
@@ -55,7 +55,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			<Version>Latest</Version>
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/settlersmod/archive/master.zip</Download>
+				<Download>https://github.com/skippy3/Settlersmodsingleplayer/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
