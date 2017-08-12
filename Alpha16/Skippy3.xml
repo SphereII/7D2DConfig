@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Skippy3" Logo="" Description="Settlers Mod" >
-		<Server Name="Survive and Thrive Server 3.0" Logo="https://media.discordapp.net/attachments/297027462678970391/345676376478711810/SETTLERSMODRELEASE.jpg">
+		<Server Name="Survive and Thrive Server 3.0" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
 
@@ -21,7 +21,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			</Downloads>
 		</Server>
 
-		<Server Name="Survive and Thrive Server 4.0" Logo="https://media.discordapp.net/attachments/297027462678970391/345676376478711810/SETTLERSMODRELEASE.jpg">
+		<Server Name="Survive and Thrive Server 4.0" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
 
@@ -38,7 +38,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 
 		</Server>
 
-		<Server Name="Settlers Mod" Logo="https://media.discordapp.net/attachments/297027462678970391/345676376478711810/SETTLERSMODRELEASE.jpg">
+		<Server Name="Settlers Mod" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
 
