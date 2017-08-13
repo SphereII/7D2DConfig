@@ -51,7 +51,24 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/settlersmod/archive/master.zip</Download>
+				<Download>https://github.com/skippy3/Settlersmodsingleplayer/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		
+				<Server Name="Settlers Mod Multiplayer" Logo="">
+			<Description>
+		 Settler's Mod version 1.2
+
+My aim is to create a progression type playstyle. Mostly aimed at MP and Multiplayer servers, fully xml, easy to use and host your own. 
+
+I will add in new blocks / zombies / and items in every content patch, raise the max xp to match. We will have server events as well.  
+
+My main goal is to allow you to build, expand and keep your base, while also having new things to look forward to during the longhaul between alpha's.   This is to be done with minimial to zero wipes.  I use smegz botman to manage the server. 
+			</Description>
+
+			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/skippy3/Settlersmodmultiplayerserver/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
