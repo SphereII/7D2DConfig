@@ -5,6 +5,8 @@
 			<Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting!
 			</Description>
 			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38345-A-Clockwork-Project</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/ClockworkOrange420/A-Clockwork-Project/archive/master.zip</Download>
@@ -31,9 +33,9 @@
 			</Downloads>
 		</Server>
 
-				<Server Name="A Clockwork Project with CompoPack Experimental" Logo="">
+		<Server Name="A Clockwork Project with CompoPack Experimental" Logo="">
 			<Description>This mod is designed to perfectly balance all aspects of the game from Progression to Loot and Crafting, with CompoPack!
-			
+
 			For Alpha 16.2 experimental
 			</Description>
 			<Version>Latest</Version>
@@ -51,7 +53,7 @@
 			<Description>Clockwork Diable UI</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
 			<Excludes>
-				
+
 				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
 				<Exclude>\Clockwork Minimalist Mild\</Exclude>
 				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
@@ -70,7 +72,7 @@
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?45563-Clockwork-UI-s</ReleaseNotes>
 			<Excludes>
 				<Exclude>\Clockwork Diablo\</Exclude>
-				
+
 				<Exclude>\Clockwork Minimalist Mild\</Exclude>
 				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
 				<Exclude>\Clockwork Minimals Extreme\</Exclude>
@@ -90,7 +92,7 @@
 			<Excludes>
 				<Exclude>\Clockwork Diablo\</Exclude>
 				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
-				
+
 				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
 				<Exclude>\Clockwork Minimals Extreme\</Exclude>
 				<Exclude>\Clockwork Watch\</Exclude>
@@ -110,7 +112,7 @@
 				<Exclude>\Clockwork Diablo\</Exclude>
 				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
 				<Exclude>\Clockwork Minimalist Mild\</Exclude>
-				
+
 				<Exclude>\Clockwork Minimals Extreme\</Exclude>
 				<Exclude>\Clockwork Watch\</Exclude>
 			</Excludes>
@@ -130,7 +132,7 @@
 				<Exclude>\Clockwork Minimalist Mild V2\</Exclude>
 				<Exclude>\Clockwork Minimalist Mild\</Exclude>
 				<Exclude>\Clockwork Minimals Extreme V2\</Exclude>
-				
+
 				<Exclude>\Clockwork Watch\</Exclude>
 			</Excludes>
 
