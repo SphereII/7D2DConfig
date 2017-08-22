@@ -25,6 +25,47 @@
 			</Downloads>
 		</Server>
 
+				<Server Name="SMX2 Design" Logo="">
+			<Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/Sirillion/SMX2/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+				<Server Name="SMX SIRMOD Design" Logo="">
+			<Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/Sirillion/SIRMOD/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+				<Server Name="SMX Big Back Pack" Logo="">
+			<Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/Sirillion/BIGBAG/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		
+						<Server Name="SMX Valmod Design" Logo="">
+			<Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/Sirillion/VALMOD/archive/master.zip</Download>
+			</Downloads>
+		</Server>
 		<Server Name="Guppycur Wasteland UI" Logo="">
 			<Description>Guppycurs Wasteland UI by DUST2DEATH</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?57277-DUST-s-UI-HUD-Collection-REQUESTS</ReleaseNotes>
