@@ -10,7 +10,7 @@ Craftworx features a custom HUD created by adapting Sirillion's SMX UI, and a fl
 		 <DownloadMode>Clone</DownloadMode>
 		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?54652-Craftworx</ReleaseNotes>
          <Downloads>
-            <Download>https://github.com/LatheosMod/CraftworxIcons/archive/master.zip</Download>
+            <Download>https://github.com/LatheosMod/Craftworx/archive/master.zip</Download>
          </Downloads>
       </Server>
    </ServerGroup>
