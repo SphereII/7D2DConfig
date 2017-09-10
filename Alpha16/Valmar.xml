@@ -65,6 +65,7 @@ The Overhaul pack adds the same items and content to the game as the expansion w
 			<Downloads>
 				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/CompoPack/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/7days2mod/Valmod-Overhaul/master/Bigger%20Backpack%20Mod/Data/Config/XUi/windows.xml</Download>
 			</Downloads>
 		</Server>
      <Server Name="Valmod Expansion" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
