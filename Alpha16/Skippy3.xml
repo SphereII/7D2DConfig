@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Skippy3" Logo="" Description="Settlers Mod" >
+	<!--
 		<Server Name="Survive and Thrive Server 3.0" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
@@ -35,9 +36,8 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			<Address>99.32.59.231</Address>
 			<Port>11900</Port>	
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
-
 		</Server>
-
+-->
 		<Server Name="Settlers Mod" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
@@ -48,6 +48,7 @@ I will add in new blocks / zombies / and items in every content patch, raise the
 
 My main goal is to allow you to build, expand and keep your base, while also having new things to look forward to during the longhaul between alpha's.   This is to be done with minimial to zero wipes.  I use smegz botman to manage the server. 
 			</Description>
+			<EAC>Enabled</EAC>
 
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
@@ -65,6 +66,7 @@ I will add in new blocks / zombies / and items in every content patch, raise the
 
 My main goal is to allow you to build, expand and keep your base, while also having new things to look forward to during the longhaul between alpha's.   This is to be done with minimial to zero wipes.  I use smegz botman to manage the server. 
 			</Description>
+			<EAC>Enabled</EAC>
 
 			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
 			<Downloads>
