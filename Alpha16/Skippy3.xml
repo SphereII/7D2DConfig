@@ -50,13 +50,13 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			</Description>
 			<EAC>Enabled</EAC>
 
-			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
+			<ReleaseNotes>http://skippy3.com/</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/Settlersmodsingleplayer/archive/master.zip</Download>
+			<Download>https://github.com/skippy3/Settlers-Mod/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 		
-				<Server Name="Settlers Mod Multiplayer" Logo="">
+				<Server Name="Settlers Mod Server Edition" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
 
@@ -68,9 +68,9 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			</Description>
 			<EAC>Enabled</EAC>
 
-			<ReleaseNotes>https://pastebin.com/raw/bYgSN6Jq</ReleaseNotes>
+			<ReleaseNotes>http://skippy3.com/</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/skippy3/Settlersmodmultiplayerserver/archive/master.zip</Download>
+				<Download>https://github.com/skippy3/Settlers-mod-large-server-edition/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
