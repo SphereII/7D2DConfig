@@ -49,6 +49,9 @@
 			<Description>SMX aims to be helpful with bringing you as much information as possible about your well being and the world around you without getting in the way of your zombie slaying, gathering or building of amazing fortresses.
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?42922-SMX-By-Sirillion</ReleaseNotes>
 			<Downloads>
