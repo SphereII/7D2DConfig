@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Experimental" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Various mods from the community, hosted by 7Days2Mod.">
-      <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
-         <Description>Valmar's Overhaul Mod
-This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental Mods">
 
-The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
-         <RSS>https://github.com/7days2mod/Valmod-Expansion/commits/master.atom</RSS>
-         <ReleaseNotes>https://github.com/LordValmar/Valmod-Overhaul-Experimental</ReleaseNotes>
-         <Excludes>
-            <Exclude>Bigger Backpack Mod</Exclude>
-         </Excludes>
-         <Downloads>
-            <Download>https://github.com/LordValmar/Valmod-Overhaul-Experimental/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  
-	  </ServerGroup>
- </Servers>
+		<Server Name="Clean UI">
+			<Description>A Highly experimental mod in which all UI indicators have been removed.</Description>
+			<Downloads>
+				<Download>https://github.com/SphereII/CleanUI/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+
+</Servers>
