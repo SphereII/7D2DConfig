@@ -49,7 +49,7 @@ I will add in new blocks / zombies / and items in every content patch, raise the
 My main goal is to allow you to build, expand and keep your base, while also having new things to look forward to during the longhaul between alpha's.   This is to be done with minimial to zero wipes.  I use smegz botman to manage the server. 
 			</Description>
 			<EAC>Enabled</EAC>
-
+			<RSS>https://github.com/skippy3/Settlers-Mod/commits/master.atom</RSS>
 			<ReleaseNotes>http://skippy3.com/</ReleaseNotes>
 			<Downloads>
 			<Download>https://github.com/skippy3/Settlers-Mod/archive/master.zip</Download>
@@ -67,7 +67,7 @@ I will add in new blocks / zombies / and items in every content patch, raise the
 My main goal is to allow you to build, expand and keep your base, while also having new things to look forward to during the longhaul between alpha's.   This is to be done with minimial to zero wipes.  I use smegz botman to manage the server. 
 			</Description>
 			<EAC>Enabled</EAC>
-
+			<RSS>https://github.com/skippy3/Settlers-mod-large-server-edition/commits/master.atom</RSS>
 			<ReleaseNotes>http://skippy3.com/</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/skippy3/Settlers-mod-large-server-edition/archive/master.zip</Download>
