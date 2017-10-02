@@ -10,5 +10,17 @@
             <Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
          </Downloads>
       </Server>
+	  
+	        <Server Name="War of the Walkers Bigger Back Pack" Logo="">
+         <Description>The War of the Walkers - Non-EAC version
+	 </Description>
+	 <Version></Version>
+	 <DownloadMode>Clone</DownloadMode>
+	 <EAC>Disabled</EAC>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/dwallorde/WaroftheWalkersMod---BBM---Github/archive/master.zip</Download>
+         </Downloads>
+      </Server>
    </ServerGroup>
 </Servers>
