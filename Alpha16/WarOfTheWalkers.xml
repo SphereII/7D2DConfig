@@ -20,6 +20,8 @@
          <ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
          <Downloads>
             <Download>https://github.com/dwallorde/WaroftheWalkersMod---BBM---Github/archive/master.zip</Download>
+		 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
          </Downloads>
       </Server>
    </ServerGroup>
