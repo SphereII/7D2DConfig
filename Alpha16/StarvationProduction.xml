@@ -12,7 +12,8 @@ The idea is to make a mod that tries to make things harder, more interesting, bu
 			<!--- end of optional -->
 			<Version>alpha16.3</Version>
 			<WebSite>http://starvationteam.com/</WebSite>
-			<RSS>https://github.com/StarvationTeam/StarvationClient/commits/master.atom</RSS>
+			
+			<RSS>https://github.com/StarvationTeam/StarvationMod/commits/master.atom</RSS>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/StarvationTeam/StarvationMod/archive/master.zip</Download>
