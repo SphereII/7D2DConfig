@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Craftworx" Logo="" Description="Craftworx mod">
-    <Server Name="Craftworx" Logo="">
+   <ServerGroup Name="Craftworx" Logo="https://i.imgur.com/SPT3chC.png" Description="Craftworx mod">
+    <Server Name="Craftworx" Logo="https://i.imgur.com/SPT3chC.png">
          <Description>I made a number of changes to Craftworx in A16, removing a number of parts that are no longer necessary in the current build. I've removed all modified blocks (including Valmar's traps), as I don't see them as necessary. I may later revisit the Fuel Log, depending on how whether it seems left out after playing the new version. Carpentry is back, but currently not attached to crafted wood block types, which may change later. Tailoring is also back, and set up in line with the other crafting skills using purchased point levels. Clothier has been renamed Tinker, Tailor, etc., and may later incorporate crafting leather clothing (it currently only covers the same cotton clothes as in A15).
 
 Craftworx features a custom HUD created by adapting Sirillion's SMX UI, and a flamethrower from Andy of Andy's Mods (originally for A12 but updated to A16). Credit for those parts of this mod goes to them. Additionally, Valmar, Sirillion and StompyNZ were extremely helpful in getting parts of this mod working properly. Thanks, guys!
