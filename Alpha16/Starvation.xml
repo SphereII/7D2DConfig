@@ -10,7 +10,6 @@
 			<Address></Address>					
 			<Port></Port>	
 			<!--- end of optional -->
-			<Version>alpha16.3</Version>
 			<RSS>https://github.com/StarvationTeam/StarvationClient/commits/master.atom</RSS>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
 			<Downloads>
