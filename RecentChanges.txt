@@ -6,3 +6,4 @@ Update Version 1.0.3.18 - Nov 4th 2017
 + Re-added scroll bars for Mod Description =D
 + Fixed RSS feeds for GitHub to show proper dates
 + Allowed Links to be clickable in Mod Description
++ Minor Cosmetic Improvements
