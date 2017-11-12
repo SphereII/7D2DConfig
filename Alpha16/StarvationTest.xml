@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="StarvationMod-Test" Logo="https://i.imgur.com/qYDjmkL.jpg" Description="Starvation Mod">
+		<Server Name="StarvationMod16" Logo="">
+			<Description>Starvation for Alpha 16 !!!UPDATED TO A16.4!!!
+STARVATION is being developed as a modification to tfp's 7 DAYS TO DIE. 
+Starvation adds a higher level of difficulty, challenge, realism, and fun to the original game.
+
+Check our official server list at https://gyazo.com/c295060ff9b918114018099ba39129b4
+				
+TERMS OF USE:
+By downloading Starvation Mod, you agree that:
+
+* you can copy the material in any medium or format for your personal use.
+* If you remix, transform, or build upon the material, you may not distribute the modified material, without asking for our permission first. This includes c# code, xml configurations and all included models and icons.
+* If permission is given, you must give appropriate credit, provide a link to this license, and indicate what changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Many of our assets were purchased and as such we can not give permission to use any of our models on your own projects until further notice. 
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/StarvationClient.git</AltDownload>
+			<!-- Optional -->
+			<Address></Address>					
+			<Port></Port>	
+			<!--- end of optional -->
+			<Version>alpha16.4</Version>
+			<WebSite>http://starvationteam.com/</WebSite>
+			<RSS>https://github.com/StarvationTeam/StarvationMod/commits/master.atom</RSS>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?49819-WIP-STARVATION-by-SDX-team</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/StarvationTeam/StarvationMod/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
