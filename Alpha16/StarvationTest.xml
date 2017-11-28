@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
+	<ServerGroup Name="Testing" >
+		<Server Name="21 Day Horde Edition" Logo="http://i.imgur.com/ZBRazCy.jpg">
+			<Version>v2.05</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<AltDownload>https://gitlab.com/sphereii/RavenhearstMainVersion.git</AltDownload>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/JaxTeller718/MainVersion/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Mods.dll</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+			</Downloads>
+		    <Description>
+			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days. For other files for your game such as 20k Stacks, Disabled Weather, Headshots Only Removed and Extra Zombie Spawning please visit https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod
+			</Description>
+		</Server>
+	</ServerGroup>
 	<ServerGroup Name="StarvationMod-Test" Logo="https://i.imgur.com/qYDjmkL.jpg" Description="Starvation Mod">
 		<Server Name="StarvationMod16" Logo="">
 			<Description>Starvation for Alpha 16 !!!UPDATED TO A16.4!!!
