@@ -1,4 +1,12 @@
-Update Version 1.0.3.19 - Nov 27th 2017
-======================================
-* Minor Tweaks to improve downloads in corner cases
-* Added experimental "Save All Games Local To Mod" - Isolate and load your saves per mod!
+Update Version 1.0.4.5 - December 2nd, 2017
+=====================================
+* Updated Git Library to improve download reliability
+* Added Cancel Sync button to interrupt, allow you to re-try in case of hangs
+* Renamed "Install Mod" to "Install Game Copy", for clarity
+* Renamed "Test Mod Sync" to "Pre-Sync Mod", for clarity
+* Adding Open Folder ( button with 3 dots) to open an explorer window to the Mod folder
+* Added Delete Downloads button, which clears out TempMods, without deleting the game folder
+* Added filtering to remove existing mods from being copied over from Steam installs
+* Added Installed Mods Grid, to show which Mods you have installed, with quick Play options
+* Added Starting Splash Screen to take you back to original starting screen.
+* Improved clean up of background tasks if Mod Launcher is forcibled exited
