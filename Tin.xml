@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Tin" Logo="" Description="">
+      <Server Name="The Dyling Lands" Logo="">
+         <Description>It's been 150yrs since the first zeds appeared and society has yet to come back from this threat. Most bldgs are dilapidated and falling down. It's been so Long that some towns have been completely over grown GL!
+First things first. 
+This is just (imo) enhancing whats already in the game itself. You won't find complex crafting or progressions etc,. here. You won't need a wiki or complex in game instructions in order to play this since it's still basically the same in most areas.
+     </Description>
+     <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?79029-Tin-sMod-The-Dying-Lands</ReleaseNotes>
+         <Downloads>
+            <Download>https://www.dropbox.com/s/1mjxhj50qsvjyba/Tin%27sMod%20The%20Dying%20Lands.zip?dl=0</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
