@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
-      <Server Name="War of the Walkers" Logo="">
-         <Description>The War of the Walkers
-	 </Description>
-	 <Version></Version>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-	  
-	        <Server Name="War of the Walkers Bigger Back Pack" Logo="">
-         <Description>The War of the Walkers - Non-EAC version
-	 </Description>
-	 <Version></Version>
-	 <DownloadMode>Clone</DownloadMode>
-	 <EAC>Disabled</EAC>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
-         <Downloads>
-            <Download>https://github.com/dwallorde/WaroftheWalkersMod---BBM---Github/archive/master.zip</Download>
-         </Downloads>
-      </Server>
-   </ServerGroup>
+	<ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
+		<Server Name="War of the Walkers" Logo="">
+			<Description>The War of the Walkers
+			</Description>
+			<AltDownload>https://gitlab.com/sphereii/WarOfTheWalkers.git</AltDownload>
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
+
+			</Downloads>
+		</Server>
+
+		<Server Name="War of the Walkers Bigger Back Pack" Logo="">
+			<Description>The War of the Walkers - Non-EAC version
+			</Description>
+			<Version/>
+			<AltDownload>https://gitlab.com/sphereii/WarOfTheWalkers-BBM.git</AltDownload>
+			<DownloadMode>Clone</DownloadMode>
+			<EAC>Disabled</EAC>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersMod---BBM---Github/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
 </Servers>

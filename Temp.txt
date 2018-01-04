@@ -1,0 +1,280 @@
+<configs>
+	<config name="entityclasses">
+		<append xpath="/entity_classes">
+		
+		<entity_class name="zombieMechanic" extends="SDXTemplate" >
+			<property name="Mesh" value="#Mechanic?Model" />
+
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle" />
+			<property name="AnimationSecondIdle" value="Idle2" />
+			<property name="AnimationMainAttack" value="Attack(2)" />
+			<property name="AnimationSecondAttack" value="Attack(3)" />
+			<property name="AnimationPain" value="Get_Hit" />
+			<property name="AnimationJump" value="Jump" />
+			<property name="AnimationDeath" value="Dead" />
+			<property name="AnimationRun" value="Run" />
+			<property name="AnimationWalk" value="Walk" />
+			<!-- property name="AnimationSpecialAttack" value="false" /-->
+
+		</entity_class>
+
+		<entity_class name="Nightmare_c1" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?Nightmare_c1" />
+
+			<property name="MaxHealth" value="1000" />
+
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Creature_armature|idle" />
+			<property name="AnimationMainAttack" value="Creature_armature|attack_2" />
+			<property name="AnimationSecondAttack" value="Creature_armature|attack_3" />
+			<property name="AnimationPain" value="Creature_armature|roar" />
+			<property name="AnimationJump" value="Creature_armature|jump" />
+			<property name="AnimationDeath" value="Creature_armature|death_1" />
+			<property name="AnimationRun" value="Creature_armature|Run" />
+			<property name="AnimationWalk" value="Creature_armature|walk" />
+			<property name="AnimationSpecialAttack" value="Creature_armature|bite" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+		<entity_class name="Nightmare_c2" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?thc2" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="NC2_Armat|thc2_idle" />
+			<property name="AnimationMainAttack" value="NC2_Armat|thc2_attack1" />
+			<property name="AnimationSecondAttack" value="NC2_Armat|thc2_attack2" />
+			<property name="AnimationPain" value="NC2_Armat|thc2_roar" />
+			<property name="AnimationJump" value="NC2_Armat|thc2_jump" />
+			<property name="AnimationDeath" value="NC2_Armat|thc2_fall" />
+			<property name="AnimationRun" value="NC2_Armat|thc2_run" />
+			<property name="AnimationWalk" value="NC2_Armat|thc2_walk" />
+			<property name="AnimationSpecialAttack" value="NC_Arma|thc2_attack3" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+
+		<entity_class name="Nightmare_c3" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?thc3" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="thc3_arma|idle" />
+			<property name="AnimationMainAttack" value="thc3_arma|attack1" />
+			<property name="AnimationSecondAttack" value="thc3_arma|attack2" />
+			<property name="AnimationPain" value="thc3_arma|howl" />
+
+
+			<property name="AnimationDeath" value="thc3_arma|die1" />
+			<property name="AnimationRun" value="thc3_arma|run_forward" />
+			<property name="AnimationWalk" value="thc3_arma|walk_forward" />
+			<property name="AnimationSpecialAttack" value="thc3_arma|attack3" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+		<entity_class name="Nightmare_c4" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?thc4" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="thc4_arma|idle" />
+			<property name="AnimationMainAttack" value="thc4_arma|do_attack1" />
+			<property name="AnimationSecondAttack" value="thc4_arma|do_attack2" />
+			<property name="AnimationPain" value="thc4_arma|st_roar" />
+			<property name="AnimationJump" value="thc4_arma|st_jump" />
+			<property name="AnimationDeath" value="thc4_arma|st_death" />
+			<property name="AnimationRun" value="thc4_arma|st_run" />
+			<property name="AnimationWalk" value="thc4_arma|st_walk" />
+			<property name="AnimationSpecialAttack" value="thc4_arma|do_attack3" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+
+		<entity_class name="Nightmare_c5" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?thc5" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="thc5_armature_O|idle" />
+			<property name="AnimationMainAttack" value="thc5_armature_O|attack1" />
+			<property name="AnimationSecondAttack" value="thc5_armature_O|attack2" />
+			<property name="AnimationPain" value="thc5_armature_O|laugh" />
+
+			<property name="AnimationDeath" value="thc5_armature_O|death1" />
+			<property name="AnimationRun" value="thc5_armature_O|run" />
+			<property name="AnimationWalk" value="thc5_armature_O|walk" />
+			<property name="AnimationSpecialAttack" value="thc5_armature_O|attack3" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+		<entity_class name="Mutant" extends="SDXTemplate" >
+			<property name="Mesh" value="#Mutant?Model" />
+
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="idle" />
+			<property name="AnimationMainAttack" value="attack(2)" />
+			<property name="AnimationPain" value="Get_hit" />
+			<property name="AnimationJump" value="jump" />
+			<property name="AnimationDeath" value="dead" />
+			<property name="AnimationRun" value="run" />
+			<property name="AnimationWalk" value="walk" />
+			<!-- property name="AnimationSpecialAttack" value="false" /-->
+
+		</entity_class>
+
+
+
+		<entity_class name="Beast" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?Beast" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle1" />
+			<property name="AnimationMainAttack" value="Attack1" />
+			<property name="AnimationSecondAttack" value="Attack2" />
+			<property name="AnimationPain" value="Damage" />
+			<property name="AnimationJump" value="Jump" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Chase" />
+			<property name="AnimationWalk" value="Walk" />
+			<property name="AnimationSpecialAttack" value="Attack4" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+		<entity_class name="Insectoid" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?Insectoid" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle" />
+			<property name="AnimationMainAttack" value="Attack" />
+			<property name="AnimationPain" value="Damage" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Chase" />
+			<property name="AnimationWalk" value="Walk" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+		
+		<entity_class name="Ripper" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?Ripper" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle3" />
+			<property name="AnimationSecondIdle" value="Idle2" />
+			<property name="AnimationMainAttack" value="Attack1" />
+			<property name="AnimationSecondAttack" value="Attack2" />
+			<property name="AnimationPain" value="Damage2" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Run" />
+			<property name="AnimationWalk" value="Walk2" />
+			<property name="AnimationJump" value="Jump" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+		
+		<entity_class name="Vendigo" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?Vendigo" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+		<property name="AnimationIdle" value="Idle1" />
+			<property name="AnimationSecondIdle" value="Idle2" />
+			<property name="AnimationMainAttack" value="Attack1" />
+			<property name="AnimationSecondAttack" value="Attack2" />
+						<property name="AnimationJump" value="Jump" />
+
+			<property name="AnimationPain" value="Damage" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Run" />
+			<property name="AnimationWalk" value="Walk" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+		
+		<entity_class name="ZombieMutant" extends="SDXTemplate" >
+			<property name="Mesh" value="#Nightmares?ZombieMutant" />
+			<property name="MaxHealth" value="1000" />
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle" />
+			<property name="AnimationMainAttack" value="Attack" />
+			<property name="AnimationPain" value="Damage" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Walk" />
+			<property name="AnimationWalk" value="Walk" />
+
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+		<entity_class name="Dino" extends="SDXTemplate" >
+			<property name="Mesh" value="#Dinosaurs?Raptor" />
+
+			<!-- These are the animation map names. The value comes from the animation from Unity -->
+			<property name="AnimationIdle" value="Idle" />
+			<property name="AnimationMainAttack" value="Attack" />
+			<property name="AnimationSecondAttack" value="JumpAttack Legs/Head" />
+			<property name="AnimationPain" value="Hit Front" />
+			<property name="AnimationJump" value="Jumping" />
+			<property name="AnimationDeath" value="Death" />
+			<property name="AnimationRun" value="Run" />
+			<property name="AnimationWalk" value="Walk Look Round" />
+			<!-- property name="AnimationSpecialAttack" value="false" /-->
+			<property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam" />
+			<property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert" />
+			<property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack" />
+			<property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath" />
+			<property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain" />
+			<property name="SoundSense" value="Enemies/Spider_Zombie/spidersense" />
+		</entity_class>
+
+	</append>
+</config>
+</configs>

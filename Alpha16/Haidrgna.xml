@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--****************************************************************************************************************
+ServerGroup Name=""   
+  - This controls the top level heading in the Mod Launcher for the mod. All the <Server> tags will be under it.
+  
+  The same ServerGroup Name="" can be set in different files, and the Mod Launcher will group them under the same heading
+  So we could do:   Regular.xml and Advanced.xml, and if they have the same ServerGroup Name, they'll be grouped together.
+
+Server Name=""
+  - This sets the unique name of each mod.
+
+<Description> </Description>
+  - This is the Description someone will read when they click on Show More Information.
+  
+<ReleaseNotes></ReleaseNotes>
+  - A link back to the Forums, for when people click on Release Notes link
+  
+<Excludes></Excludes>
+  - Download path to ignore.
+
+<Download></Download>
+  - A unique download link. Each link will be installed in order; that's how we over-write base files, by adding a secondary
+  link in the list after the first link.
+********************************************************************************************************************** -->
+<Servers>
+	<ServerGroup Name="Gnamod" Logo="" Description="Haidrgna Gnamod Mods with various combinations!">
+		<Server Name="Gnamod" Logo="">
+			<Description>
+Welcome Survivors to Gnamod,
+So what is Gnamod exactly? That is hard to explain in a short sentence, but I will give it a try: Gnamod is a collection of mods that aims to enhance the ' Vanilla' Experience of the 
+base 7 Days to Die game. This means that the mod is purely XML based and tries to remain as close as possible to the survival gameplay that the game already offers.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Gnamod Nomad A16</Exclude>
+				<Exclude>Vanilla Base</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+<!--
+		<Server Name="HordeMode" Logo="">
+			<Description>
+Welcome Survivors to Gnamod,
+So what is Gnamod exactly? That is hard to explain in a short sentence, but I will give it a try: Gnamod is a collection of mods that aims to enhance the ' Vanilla' Experience of the 
+base 7 Days to Die game. This means that the mod is purely XML based and tries to remain as close as possible to the survival gameplay that the game already offers.
+			</Description>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?58754-Gnamod-Ultra-Nomad-Mode-A15</ReleaseNotes>
+			<Excludes>
+				<Exclude>Gnamod Nomad A16</Exclude>
+				<Exclude>Vanilla Base</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://github.com/haidrgna/Gnamod/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+-->
+	</ServerGroup>
+</Servers>

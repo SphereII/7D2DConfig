@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="CraterCreator" Logo="" Description="">
-      <Server Name="ComSenMod" Logo="">
-         <Description>The mod’s focus is not on making the game easier or harder. Nor is it meant to cater to any one playstyle. It’s simply designed to inject more common sense into the game. Hence “ComSenMod”, short for Common Sense Mod.
+	<ServerGroup Name="CraterCreator" Logo="" Description="">
+		<Server Name="ComSenMod" Logo="">
+			<Description>The mod’s focus is not on making the game easier or harder. Nor is it meant to cater to any one playstyle. It’s simply designed to inject more common sense into the game. Hence “ComSenMod”, short for Common Sense Mod.
 
 My hope is that ComSenMod gains broad appeal: that players will wonder why the game wasn’t always this way. Who knows, it may even give the developers some things to think about. My second hope is that if you try ComSenMod, you’ll let me know what you think. I’ve tested it extensively for balance in single player and coop games. I’m open to additions and improvements, especially along the lines of “I used ComSenMod in X kind of game for Y long and there’s too much/too little of Z.”
-	 </Description>
-	 <Version></Version>
-         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?59883-ComSenMod-(latest-release-9-4-17)</ReleaseNotes>
-         <Downloads>
-            <Download>http://chamotlabs.com/Bob/ComSenMod/ComSenMod.zip</Download>
-         </Downloads>
-      </Server>
-   </ServerGroup>
+			</Description>
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59883-ComSenMod-(latest-release-9-4-17)</ReleaseNotes>
+			<Downloads>
+				<Download>http://chamotlabs.com/Bob/ComSenMod/ComSenMod.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="ComSenModWithSMX" Logo="">
+			<Description>The mod’s focus is not on making the game easier or harder. Nor is it meant to cater to any one playstyle. It’s simply designed to inject more common sense into the game. Hence “ComSenMod”, short for Common Sense Mod.
+
+My hope is that ComSenMod gains broad appeal: that players will wonder why the game wasn’t always this way. Who knows, it may even give the developers some things to think about. My second hope is that if you try ComSenMod, you’ll let me know what you think. I’ve tested it extensively for balance in single player and coop games. I’m open to additions and improvements, especially along the lines of “I used ComSenMod in X kind of game for Y long and there’s too much/too little of Z.”
+			</Description>
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59883-ComSenMod-(latest-release-9-4-17)</ReleaseNotes>
+			<Downloads>
+				<Download>http://chamotlabs.com/Bob/ComSenMod/ComSenMod.zip</Download>
+				<Download>https://github.com/Sirillion/SMX/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/xui.xml</Download>
+				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/windows.xml</Download>
+				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/controls.xml</Download>
+				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/styles.xml</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
 </Servers>
