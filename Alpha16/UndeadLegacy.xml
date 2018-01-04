@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Undead Legacy" Logo="" Description="">
+		<Server Name="Standard" Logo="">
+			<Description>
+EAC Safe
+
+Unique user interface inspired by post-apocalyptic fallout like games.
+672 new items/blocks: workstations, tools, consumables, weapons, ammo, parts, junk, armor etc.
+47 Collectible perks (By finding rare magazines).
+5 new workstations:
+Smithing Table, Ammunitions Table, Carpenters Bench, Engineering Table, Dye and Paint Table
+Crafting list replaced by a crafting grid (see screenshots below)
+Player crafted working ovens and wall ovens.
+Blacksmith perk with 12 levels, that unlocks most metal related recipes.
+Looting list rebalanced from top to bottom.
+Rebalanced scrap values for many items and blocks.
+Most electrical items can be scraped into multiple components by Examining them.
+More challenging and improved crafting recipes.
+Stacks values changed for majority of items/blocks, more info here
+All Container slots rebalanced.
+Support for EAC - mod doesn't change core assets of the game.
+Support for both single player and dedicated servers.
+Increased backpack version available with 72 slot backpack!
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?52085-Undead-Legacy-More-loot-gear-recipes-custom-ui-rebalancing</ReleaseNotes>
+			<Downloads>
+				<Download>http://www.subquake.com/downloads/UndeadLegacy/modlauncher.php?type=standard</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Bigger Back Pack" Logo="">
+			<Description>
+Non-EAC - Xtrackickin's zombie retexturing
+
+Unique user interface inspired by post-apocalyptic fallout like games.
+672 new items/blocks: workstations, tools, consumables, weapons, ammo, parts, junk, armor etc.
+47 Collectible perks (By finding rare magazines).
+5 new workstations:
+Smithing Table, Ammunitions Table, Carpenters Bench, Engineering Table, Dye and Paint Table
+Crafting list replaced by a crafting grid (see screenshots below)
+Player crafted working ovens and wall ovens.
+Blacksmith perk with 12 levels, that unlocks most metal related recipes.
+Looting list rebalanced from top to bottom.
+Rebalanced scrap values for many items and blocks.
+Most electrical items can be scraped into multiple components by Examining them.
+More challenging and improved crafting recipes.
+Stacks values changed for majority of items/blocks, more info here
+All Container slots rebalanced.
+Support for EAC - mod doesn't change core assets of the game.
+Support for both single player and dedicated servers.
+Increased backpack version available with 72 slot backpack!
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?52085-Undead-Legacy-More-loot-gear-recipes-custom-ui-rebalancing</ReleaseNotes>
+			<Downloads>
+				<Download>http://www.subquake.com/downloads/UndeadLegacy/modlauncher.php?type=biggerbackpack</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
