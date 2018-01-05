@@ -1,12 +1,6 @@
-Update Version 1.0.4.5 - December 2nd, 2017
+Update Version 1.0.4.6 - January 4th, 2018
 =====================================
-* Updated Git Library to improve download reliability
-* Added Cancel Sync button to cancel a hung sync.
-* Renamed "Install Mod" to "Install Game Copy"
-* Renamed "Test Mod Sync" to "Pre-Sync Mod"
-* Adding Open Folder button to the Mods.
-* Added Delete Downloads button to delete TempMods.
-* Added filtering existing mods from being copied
-* Added Installed Mods Display
-* Added Starting Splash Screen 
-* Improved clean up of tasks 
+* Added new hosting provider for a different download
+* Fixed where duplicate --configfile were added
+*
+* Possibly last update before the 2.x Release!
