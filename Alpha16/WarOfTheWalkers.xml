@@ -3,6 +3,8 @@
 	<ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
 		<Server Name="War of the Walkers" Logo="">
 			<Description>The War of the Walkers
+
+			Legacy Verison for 5.1
 			</Description>
 			<AltDownload>https://gitlab.com/sphereii/WarOfTheWalkers.git</AltDownload>
 			<Version/>
@@ -15,6 +17,7 @@
 
 		<Server Name="War of the Walkers Bigger Back Pack" Logo="">
 			<Description>The War of the Walkers - Non-EAC version
+			Legacy Verison for 5.1
 			</Description>
 			<Version/>
 			<AltDownload>https://gitlab.com/sphereii/WarOfTheWalkers-BBM.git</AltDownload>
@@ -23,6 +26,37 @@
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/dwallorde/WaroftheWalkersMod---BBM---Github/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+
+		<Server Name="War of the Walkers 5.2" Logo="">
+			<Description>The War of the Walkers
+		Latest Release of the War of the Walkers Mod
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersModv5-2/archive/master.zip</Download>
+
+			</Downloads>
+		</Server>
+
+		<Server Name="War of the Walkers Bigger Back Pack 5.2" Logo="">
+			<Description>The War of the Walkers - Non-EAC version
+
+		Latest Release of the War of the Walkers Mod, with the Bigger back Pack, with Xtrakicking's new zombies!
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<EAC>Disabled</EAC>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersModV5-2BBM/archive/master.zip</Download>
+		            <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+
 			</Downloads>
 		</Server>
 	</ServerGroup>
