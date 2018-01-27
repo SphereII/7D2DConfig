@@ -8,6 +8,7 @@
 Warning: If you have a below average computer you may experience FPS issues when playing this mod due to the large number of zombie spawns. You can lower your games spawn settings in the game options to try to dial it back some but your millage may vary.</Description>
          <RSS>https://github.com/7days2mod/Classic-Horde-Survival/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/7days2mod/Classic-Horde-Survival</ReleaseNotes>
+         <Version>alpha15.2</Version>
          <Downloads>
             <Download>https://github.com/7days2mod/Classic-Horde-Survival/archive/master.zip</Download>
          </Downloads>
@@ -19,6 +20,7 @@ This is a relatively large mod pack I've gradually created over time. It's mainl
 The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.</Description>
          <RSS>https://github.com/7days2mod/Valmod-HORDE-EDITION/commits/master.atom</RSS>
          <ReleaseNotes>https://github.com/LordValmar/Valmar-HORDE-EDITION</ReleaseNotes>
+         <Version>alpha15.2</Version>
          <Downloads>
             <Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
             <Download>https://github.com/LordValmar/Valmod-HORDE-EDITION/archive/master.zip</Download>
