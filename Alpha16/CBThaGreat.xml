@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="CBThaGreat" Logo="" Description="">
-		<Server Name="CBThaGreat Mod" Logo="">
+		<Server Name="CBMod" Logo="">
 			<Description>
   The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
 
+  ** No Bigger Back Pack Will Be Offered!
+  
 Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
 
 I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                          
@@ -18,10 +20,12 @@ I wanted to bring back a system of "risk v. reward" that is prevalent in the leg
 			</Downloads>
 		</Server>
 
-		<Server Name="CBThaGreat Mod with CompoPack" Logo="">
+		<Server Name="CBMod with CompoPack" Logo="">
 			<Description>
  The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
 
+   ** No Bigger Back Pack Will Be Offered!
+ 
 Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
 
 I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                           
@@ -34,6 +38,47 @@ I wanted to bring back a system of "risk v. reward" that is prevalent in the leg
 				<Download>https://github.com/CBThaGreat/CBMod-WITH-CompoPack/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+		<Server Name="CBMod Zombie Retexture" Logo="">
+			<Description>
+  The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
 
+  ** No Bigger Back Pack Will Be Offered!
+  
+Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
+
+I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                          
+
+			</Description>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes/>
+			<EAC>Disabled</EAC>
+			<Downloads>
+				<Download>https://github.com/CBThaGreat/CBMod-NO-CompoPack/archive/master.zip</Download>
+				 <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="CBMod with CompoPack Zombie Retexture" Logo="">
+			<Description>
+ The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
+
+   ** No Bigger Back Pack Will Be Offered!
+ 
+Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
+
+I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                           
+
+			</Description>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<EAC>Disabled</EAC>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://github.com/CBThaGreat/CBMod-WITH-CompoPack/archive/master.zip</Download>
+				 <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 </Servers>
+           
