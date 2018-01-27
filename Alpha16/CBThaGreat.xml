@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="CBThaGreat" Logo="" Description="">
+		<Server Name="CBThaGreat Mod" Logo="">
+			<Description>
+  The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
+
+Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
+
+I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                          
+
+			</Description>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://github.com/CBThaGreat/CBMod-NO-CompoPack/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="CBThaGreat Mod with CompoPack" Logo="">
+			<Description>
+ The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
+
+Please remember, that the purpose of the mod is to be a challenge. That being said, it requires the "honor system": If you're going to dig down to bedrock to avoid zombies or camp at the trader all day long, you're not going to experience the mod the way it is meant to be experienced.
+
+I wanted to bring back a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).                           
+
+			</Description>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://github.com/CBThaGreat/CBMod-WITH-CompoPack/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+</Servers>
