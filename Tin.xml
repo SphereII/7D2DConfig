@@ -14,7 +14,26 @@ This is just (imo) enhancing whats already in the game itself. You won't find co
          </Downloads>
       </Server>
 	   
-	
+	   
+	      <Server Name="The Dying Lands Bigger Back Pack" Logo="">
+         <Description>It's been 150yrs since the first zeds appeared and society has yet to come back from this threat. Most bldgs are dilapidated and falling down. It's been so Long that some towns have been completely over grown GL!
+First things first. 
+		 
+** Bigger Back Pack not supported by Mod Author but added as convience by sphereii
+		 
+This is just (imo) enhancing whats already in the game itself. You won't find complex crafting or progressions etc,. here. You won't need a wiki or complex in game instructions in order to play this since it's still basically the same in most areas.
+     </Description>
+	 <DownloadMode>Clone</DownloadMode>
+		      <Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+     <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?79029-Tin-sMod-The-Dying-Lands</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/SphereII/TinRepos/archive/master.zip</Download>
+		 <Download>https://github.com/SphereII/SMXBigBackPack/archive/master.zip</Download>
+         </Downloads>
+      </Server>
    </ServerGroup>
 	
 
