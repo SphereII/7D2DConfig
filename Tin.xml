@@ -13,8 +13,8 @@ This is just (imo) enhancing whats already in the game itself. You won't find co
             <Download>https://github.com/SphereII/TinRepos/archive/master.zip</Download>
          </Downloads>
       </Server>
-   </ServerGroup>
-	
+	   
+	   
 	      <Server Name="The Dying Lands Bigger Back Pack" Logo="">
          <Description>It's been 150yrs since the first zeds appeared and society has yet to come back from this threat. Most bldgs are dilapidated and falling down. It's been so Long that some towns have been completely over grown GL!
 First things first. 
@@ -42,6 +42,8 @@ This is just (imo) enhancing whats already in the game itself. You won't find co
 -->
          </Downloads>
       </Server>
+   </ServerGroup>
+	
 
 </Servers>
 
