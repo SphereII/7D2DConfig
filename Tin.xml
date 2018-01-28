@@ -24,15 +24,22 @@ First things first.
 This is just (imo) enhancing whats already in the game itself. You won't find complex crafting or progressions etc,. here. You won't need a wiki or complex in game instructions in order to play this since it's still basically the same in most areas.
      </Description>
 	 <DownloadMode>Clone</DownloadMode>
+		      <Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				
+			</Excludes>
      <Version>Latest</Version>
          <ReleaseNotes>https://7daystodie.com/forums/showthread.php?79029-Tin-sMod-The-Dying-Lands</ReleaseNotes>
          <Downloads>
             <Download>https://github.com/SphereII/TinRepos/archive/master.zip</Download>
+		 <Download>https://github.com/Sirillion/BIGBAG/archive/master.zip</Download>
+		 <!--
 		 <Download>https://github.com/Sirillion/SMX/archive/master.zip</Download>
 				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/xui.xml</Download>
 				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/windows.xml</Download>
 				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/controls.xml</Download>
 				<Download>https://raw.githubusercontent.com/Sirillion/SMX/master/Data/Config/XUi/styles.xml</Download>
+-->
          </Downloads>
       </Server>
 
