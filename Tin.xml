@@ -32,6 +32,11 @@ This is just (imo) enhancing whats already in the game itself. You won't find co
          <Downloads>
             <Download>https://github.com/SphereII/TinRepos/archive/master.zip</Download>
 		 <Download>https://github.com/SphereII/SMXBigBackPack/archive/master.zip</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/SMXBigBackPack/master/Data/Config/xui.xml</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/SMXBigBackPack/master/Data/Config/XUi/controls.xml</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/SMXBigBackPack/master/Data/Config/XUi/styles.xml</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/SMXBigBackPack/master/Data/Config/XUi/windows.xml</Download>
+		 
          </Downloads>
       </Server>
    </ServerGroup>
