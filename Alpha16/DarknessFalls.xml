@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Darkness Falls" Logo="" Description="">
+		<Server Name="Standard" Logo="">
+			<Description>
+ This is something I made mostly for myself, but a few of my friends seem to be enjoying it. As such, I thought I'd open it up to the community. This should be considered beta software AT BEST, so please bear that in mind!
+
+Features.
+
+9 Classes to choose from, with 6 quests each! (Class quests take approx 60 mins to finish if you grind hard)
+Skill points per level decreased to 5.
+35 slot minibike storage!
+10 slot crafting queue!
+SimpleUI added! Temperature, food and water displayed on the HUD for your convenience. XP Bar above your hotbar.
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?80827-Darkness-Falls-They-mostly-come-out-at-night</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/KhaineGB/DarknessFalls/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+	
+	</ServerGroup>
+</Servers>
