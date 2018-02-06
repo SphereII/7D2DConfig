@@ -55,7 +55,7 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 			<Download>https://github.com/skippy3/Settlers-Mod/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		
+		<!--
 				<Server Name="Settlers Mod Server Edition" Logo="">
 			<Description>
 		 Settler's Mod version 1.2
@@ -73,5 +73,6 @@ My main goal is to allow you to build, expand and keep your base, while also hav
 				<Download>https://github.com/skippy3/Settlers-mod-large-server-edition/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+		-->
 	</ServerGroup>
 </Servers>
