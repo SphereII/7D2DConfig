@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="SimpleUIs" Logo="" Description="Simple UI mods">
+		<Server Name="SimpleUI" Logo="">
+			<Description>This mod is my humble attempt at yet another UI mod.
+
+This mod will work with Alpha 16.1 (b1) Stable, Alpha 16.2 (b7) Stable, Alpha 16.3 (b12) Stable, or Alpha 16.4 (b8) stable
+
+This mod is and always will be pure xml edits only.
+
+This mod adds some extra HUD bars and info to the UI as well as rework the toolbelt and increase player built storage, minibike storage, forge input, crafting queue, and all workstation outputs.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="SimpleUI Lite" Logo="">
+			<Description>Simple UI Lite is the HUD only and does not include the following.
+
+Does not include increased forge input.
+Does not include increased crafting queue.
+Does not include increased workstation output.
+Does not include increased player built storage.
+Does not include increased minibike storage.</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Lite/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="SimpleUI No Storage" Logo="">
+			<Description>Simple UI No Storage does not include the following.
+
+Does not include increased player built storage.
+Does not include increased minibike storage.</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_NoStorage/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+
+		<Server Name="SimpleUI Plus-60-4.3" Logo="">
+			<Description>
+			This version is intended for a 4:3 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 60 spaces(6x10).
+Player built storage size increased from 72 spaces(9x8) to 110 spaces(11x10).
+Minibike storage size increased from 18 spaces(6x3) to 70 spaces(14x5).</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-4.3/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="SimpleUI Plus-60-16.9" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 60 spaces(6x10).
+Player built storage size increased from 72 spaces(9x8) to 176 spaces(11x16).
+Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="SimpleUI Plus-120-16.9" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 120 spaces(8x15).
+Player built storage size increased from 72 spaces(9x8) to 182 spaces(13x14).
+Minibike storage size increased from 18 spaces(6x3) to 180 spaces(15x12).
+Most all windows have been moved up a little to adjust for the smaller UI and make more room.
+Because of the above this version will not be easy to merge with other mods that alter the windows.xml.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-120/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+
+
+
+		<Server Name="Valmod SimpleUI" Logo="">
+			<Description>This mod is my humble attempt at yet another UI mod.
+
+This mod will work with Alpha 16.1 (b1) Stable, Alpha 16.2 (b7) Stable, Alpha 16.3 (b12) Stable, or Alpha 16.4 (b8) stable
+
+This mod is and always will be pure xml edits only.
+
+This mod adds some extra HUD bars and info to the UI as well as rework the toolbelt and increase player built storage, minibike storage, forge input, crafting queue, and all workstation outputs.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI-VMO/archive/master.zip</Download>
+
+			</Downloads>
+		</Server>
+
+		<Server Name="Valmod SimpleUI Lite" Logo="">
+			<Description>Simple UI Lite is the HUD only and does not include the following.
+
+Does not include increased forge input.
+Does not include increased crafting queue.
+Does not include increased workstation output.
+Does not include increased player built storage.
+Does not include increased minibike storage.</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Lite-VMO/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+		<Server Name="Valmod SimpleUI No Storage" Logo="">
+			<Description>Simple UI No Storage does not include the following.
+
+Does not include increased player built storage.
+Does not include increased minibike storage.</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_NoStorage-VMO/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+
+
+		<Server Name="Valmod SimpleUI Plus-60-4.3" Logo="">
+			<Description>
+			This version is intended for a 4:3 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 60 spaces(6x10).
+Player built storage size increased from 72 spaces(9x8) to 110 spaces(11x10).
+Minibike storage size increased from 18 spaces(6x3) to 70 spaces(14x5).</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-4.3/archive/master.zip</Download>
+
+			</Downloads>
+		</Server>
+
+		<Server Name="Valmod SimpleUI Plus-60-16.9" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 60 spaces(6x10).
+Player built storage size increased from 72 spaces(9x8) to 176 spaces(11x16).
+Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Valmod SimpleUI Plus-120-16.9" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 120 spaces(8x15).
+Player built storage size increased from 72 spaces(9x8) to 182 spaces(13x14).
+Minibike storage size increased from 18 spaces(6x3) to 180 spaces(15x12).
+Most all windows have been moved up a little to adjust for the smaller UI and make more room.
+Because of the above this version will not be easy to merge with other mods that alter the windows.xml.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-120/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
