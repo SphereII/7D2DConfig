@@ -186,7 +186,7 @@ Minibike storage size increased from 18 spaces(6x3) to 70 spaces(14x5).</Descrip
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-				<Download>https://github.com/stedman420/Simple_UI_Plus-60-4.3/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-4.3-VMO/archive/master.zip</Download>
 
 			</Downloads>
 		</Server>
@@ -206,7 +206,7 @@ Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9-VMO/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 
@@ -226,7 +226,7 @@ Because of the above this version will not be easy to merge with other mods that
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
-				<Download>https://github.com/stedman420/Simple_UI_Plus-120/archive/master.zip</Download>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-120-VMO/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
