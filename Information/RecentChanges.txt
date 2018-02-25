@@ -1,6 +1,8 @@
 Update Version 1.0.4.7 - February 24th, 2018
 =====================================
 * Added dependency on .NET 4.6.1 to be compatible with Github
+* !Windows 7 Users! https://7daystodie.com/forums/showthread.php?p=792405
+
 
 Update Version 1.0.4.6 - January 4th, 2018
 =====================================
