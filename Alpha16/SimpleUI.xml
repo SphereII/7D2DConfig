@@ -121,7 +121,9 @@ This mod is and always will be pure xml edits only.
 This mod adds some extra HUD bars and info to the UI as well as rework the toolbelt and increase player built storage, minibike storage, forge input, crafting queue, and all workstation outputs.
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
-
+			<Excludes>
+				<Exclude>Bigger Backpack Mod</Exclude>
+			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
 			<Downloads>
@@ -140,7 +142,9 @@ Does not include increased workstation output.
 Does not include increased player built storage.
 Does not include increased minibike storage.</Description>
 			<DownloadMode>Clone</DownloadMode>
-
+			<Excludes>
+				<Exclude>Bigger Backpack Mod</Exclude>
+			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
 			<Downloads>
@@ -156,7 +160,7 @@ Does not include increased minibike storage.</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
-
+				<Exclude>Bigger Backpack Mod</Exclude>
 			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
@@ -177,7 +181,7 @@ Minibike storage size increased from 18 spaces(6x3) to 70 spaces(14x5).</Descrip
 			<DownloadMode>Clone</DownloadMode>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
-
+				<Exclude>Bigger Backpack Mod</Exclude>
 			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
@@ -197,7 +201,7 @@ Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
 			<DownloadMode>Clone</DownloadMode>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
-
+				<Exclude>Bigger Backpack Mod</Exclude>
 			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
@@ -218,6 +222,7 @@ Because of the above this version will not be easy to merge with other mods that
 			<DownloadMode>Clone</DownloadMode>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>Bigger Backpack Mod</Exclude>
 			</Excludes>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
