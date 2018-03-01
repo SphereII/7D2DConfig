@@ -88,6 +88,26 @@ Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
 				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+		
+				<Server Name="SimpleUI Plus-60-16.9-CompoPack" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 60 spaces(6x10).
+Player built storage size increased from 72 spaces(9x8) to 176 spaces(11x16).
+Minibike storage size increased from 18 spaces(6x3) to 132 spaces(12x11).
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-60-16.9/archive/master.zip</Download>
+					<Download>https://www.dropbox.com/s/hlsy8zor7lxydo0/COMPOPACK_29%28for_alpha16.3%29.zip?dl=1</Download>
+			</Downloads>
+		</Server>
+		
 
 		<Server Name="SimpleUI Plus-120-16.9" Logo="">
 			<Description>This version is intended for a 16:9 resolution or better.
@@ -108,6 +128,26 @@ Because of the above this version will not be easy to merge with other mods that
 			</Downloads>
 		</Server>
 
+
+				<Server Name="SimpleUI Plus-120-16.9-CompoPack" Logo="">
+			<Description>This version is intended for a 16:9 resolution or better.
+Backpack size increased from 32 spaces(4x8) to 120 spaces(8x15).
+Player built storage size increased from 72 spaces(9x8) to 182 spaces(13x14).
+Minibike storage size increased from 18 spaces(6x3) to 180 spaces(15x12).
+Most all windows have been moved up a little to adjust for the smaller UI and make more room.
+Because of the above this version will not be easy to merge with other mods that alter the windows.xml.
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/stedman420/Simple_UI_Plus-120/archive/master.zip</Download>
+				<Download>https://www.dropbox.com/s/hlsy8zor7lxydo0/COMPOPACK_29%28for_alpha16.3%29.zip?dl=1</Download>
+			</Downloads>
+		</Server>
 
 
 
