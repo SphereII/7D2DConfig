@@ -14,5 +14,22 @@ Some of the tougher ones can only be seen in the wastelands at night and theres 
             <Download>https://github.com/7days2mod/BadCompany/archive/master.zip</Download>
          </Downloads>
       </Server>
+	  
+	  		  <Server Name="BadCompany CompoPack" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true">
+         <Description>Zombie Pack
+
+This mod contains the additional archetypes and entities for Bad Company.
+
+Some of the tougher ones can only be seen in the wastelands at night and theres a couple of little surprises in the screamer group :)
+
+This version includes Compo Pack
+		</Description>
+         <RSS>https://github.com/7days2mod/BadCompany/commits/master.atom</RSS>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?52099-Bad-Company</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/BadCompany/archive/master.zip</Download>
+			<Download>https://dl.dropboxusercontent.com/s/hlsy8zor7lxydo0/COMPOPACK_29%28for_alpha16.3%29.zip?dl=1</Download>
+         </Downloads>
+      </Server>
 	</ServerGroup>
 </Servers>
