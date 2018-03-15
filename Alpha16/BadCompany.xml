@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Bad Company" Logo="" Description="">
+			  <Server Name="BadCompany" Logo="https://github.com/7days2mod/BadCompany/blob/master/Banner.png?raw=true">
+         <Description>Zombie Pack
+
+This mod contains the additional archetypes and entities for Bad Company.
+
+Some of the tougher ones can only be seen in the wastelands at night and theres a couple of little surprises in the screamer group :)
+		</Description>
+         <RSS>https://github.com/7days2mod/BadCompany/commits/master.atom</RSS>
+         <ReleaseNotes>https://7daystodie.com/forums/showthread.php?52099-Bad-Company</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/7days2mod/BadCompany/archive/master.zip</Download>
+         </Downloads>
+      </Server>
+	</ServerGroup>
+</Servers>
