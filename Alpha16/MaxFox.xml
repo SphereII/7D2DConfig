@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="MaxFoxgaming" Logo="" Description="">
+	<ServerGroup Name="MaxFoxGaming" Logo="" Description="">
 		<Server Name="FennecMod" Logo="">
 			<Description>A mod introducing specialisations and some nifty stuff. 
 			</Description>
