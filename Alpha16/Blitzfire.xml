@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="blitzfire911" Logo="" Description="">
+		<Server Name="noMad Mod" Logo="">
+			<Description>Nomad Mod v1.0 for 7 Days to Die
+
+This is the initial release of my new Nomad Mod to the public.
+
+In the initial release crafting is mostly removed from the game. You can craft bandages and bedrolls. You can assemble guns and repair items.
+
+Everything else must be looted or bought at a large markup from the traders.
+			</Description>
+			<DownloadMod>Clone</DownloadMod>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://github.com/blitzfire911/7-Days-To-Die_noMad_MOD</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/blitzfire911/7-Days-To-Die_noMad_MOD/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
+
+
