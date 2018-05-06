@@ -1,12 +1,10 @@
+Update Version 1.0.5.1 - May 6th, 2018
+=====================================
+* Added dependency on .NET 4.7.1 to be compatible with Github / Windows 7
+* Log File button placed under the Pre-Sync button to help people find it
+** This version should resolve the issue with Windows 7, even without the Easy Fixed
+
 Update Version 1.0.4.7 - February 24th, 2018
 =====================================
 * Added dependency on .NET 4.6.1 to be compatible with Github
 * !Windows 7 Users! https://7daystodie.com/forums/showthread.php?p=792405
-
-
-Update Version 1.0.4.6 - January 4th, 2018
-=====================================
-* Added new hosting provider for a different download
-* Fixed where duplicate --configfile were added
-*
-* Possibly last update before the 2.x Release!
