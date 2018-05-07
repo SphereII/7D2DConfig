@@ -1,4 +1,4 @@
-Update Version 1.0.5.1 - May 6th, 2018
+Update Version 1.0.5.2 - May 6th, 2018
 =====================================
 * Added dependency on .NET 4.7.1 to be compatible with Github / Windows 7
 * Log File button placed under the Pre-Sync button to help people find it
