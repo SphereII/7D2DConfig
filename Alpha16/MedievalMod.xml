@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="MedievalMod" Logo="" Description="The Medieval Mod">
+		<Server Name="Medieval Mod - Book 1" Logo="">
+			<Description>
+Book I: Blight.
+
+For a thousand years, humans have believed the myths and legend of old to be just that... legend. Until now. A blight is spreading. Goblin and Orc raiders are traveling to your lands, killing, stealing, and ... bringing something else.
+
+The land itself is falling prey to the mystical evil that follows these foul creatures. Structures cannot be built, trees die, and the land infertile. You were in jail for a small "misunderstanding" between you and the owner of the sheep you ate, but now you're free and you need to defend your homeland against these invaders.
+
+7 Days to Die - Medieval Mod, Book I: Blight is a near total conversion of 7 Days to Die. We have brought in new assets, new sounds, new code, and new features never seen before in a 7 Days to Die mod. 
+
+Book I is a quest based mod, but more importantly, mostly a proof of concept. We recognize the benefit that A17 will bring to the mod so have shortened the development time to get a release out as a test run. This mod is NOT designed for extended play, although it should be possible. We have included a number of new features, from quest-driven exploration of underground ruins to custom spawning and random world generation dictation. There are a number of behind the scene events taking place that replace the core vanilla system, and we are using Book I to test these systems.		 
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>alpha16.4</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?83830-Medieval-Mod-(SDX)</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/Medieval/Core.git</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
