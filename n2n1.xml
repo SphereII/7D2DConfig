@@ -20,10 +20,11 @@ L1N.ef_Z DanW oZ
 A92TSce9C7KmjwNiG-gjwEdgqgvqEz_U
 
 		 </Description>
+		 <DownloadMode>Clone</DownloadMode>
 		 <ReleaseNotes>https://7daystodie.com/forums/showthread.php?40556-CLASSIC-Style-HARDCORE</ReleaseNotes>
-		 <Version>alpha14.7</Version>
+		 <Version>alpha16.4</Version>
          <Downloads>
-		 <Download>https://github.com/SphereII/ClassicStyleHardCore/archive/master.zip</Download>
+		 <Download>https://gitlab.com/n2n1/Classic-Style-Hardcore-MOD</Download>
          </Downloads>
       </Server>
    </ServerGroup>
