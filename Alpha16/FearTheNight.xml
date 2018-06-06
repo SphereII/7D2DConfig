@@ -28,6 +28,19 @@ You can still grind for resources if you want, but this mod makes it possible to
 				<Download>https://github.com/dianddra/Fear-The-Night-with-Bigger-Backpack/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="Fear The Night Nomad" Logo="">
+			<Description>7 Days To Die Mod Fear The Night goes Nomad! No more landclaim block and vending machine, now you can go anywhere and the Zombies will come at night to get you. Roam around the world on your Mini-Bike and explore Magoli's CompoPack. Take shelter at night and hope you survive the Horde. You start with a mini bike but no coins. Kill Zombies to get coin to spend at Traders. No more grinding for materials when you can buy what you need. Beware! You can get irradiated cops on day one, so FEAR THE NIGHT!
+			</Description>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?82038-Fear-The-Night-Mod</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dianddra/Fear-The-Night-Nomad/archive/master.zip</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 </Servers>
 
