@@ -55,8 +55,25 @@
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/dwallorde/WaroftheWalkersModV5-2BBM/archive/master.zip</Download>
-		            <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 
+			</Downloads>
+		</Server>
+
+		<Server Name="Dwallordes Official War of the Walkers Server" Logo="">
+			<Description>The War of the Walkers BETA 5.3 - Non-EAC version
+
+Dwallordes Official War of the Walkers Server - BETA Version! MP only; no SP.
+
+Community Discord: https://discord.gg/bQdP6cH
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<EAC>Disabled</EAC>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WotWBETA/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
