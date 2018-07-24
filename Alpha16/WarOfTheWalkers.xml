@@ -76,5 +76,32 @@ Community Discord: https://discord.gg/bQdP6cH
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="War of the Walkers 5.3" Logo="">
+			<Description>The War of the Walkers
+		Latest Release of the War of the Walkers Mod 5.3
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersModv5-3/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+				<Server Name="War of the Walkers 5.3 14 Day Horde" Logo="">
+			<Description>The War of the Walkers
+		Latest Release of the War of the Walkers Mod 5.3 with a 14 Day Horde
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+
+			<Version/>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/WaroftheWalkersModv5-3-14HD/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
 	</ServerGroup>
 </Servers>
