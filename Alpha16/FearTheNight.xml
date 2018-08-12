@@ -41,6 +41,19 @@ You can still grind for resources if you want, but this mod makes it possible to
 				<Download>https://github.com/dianddra/Fear-The-Night-Nomad/archive/master.zip</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="The Dead Will Rise" Logo="">
+			<Description>The Dead Will Rise, a 7 Days To Die Mod. Similar to Fear The Night mod, but zombies will come anytime day or night that you use a campfire, forge, or chemistry station. Kill Zombies to get coin to spend at Traders. No more grinding for materials when you can buy what you need. Beware! You can get irradiated cops on day one, because The Dead Will Rise!
+			</Description>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?82038-Fear-The-Night-Mod</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dianddra/The-Dead-Will-Rise/archive/master.zip</Download>
+			</Downloads>
+		</Server>
 	</ServerGroup>
 </Servers>
 
