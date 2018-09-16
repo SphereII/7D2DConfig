@@ -1,0 +1,154 @@
+<?xml version='1.0'?>
+<Servers >
+	<ServerGroup Name="Welcome to Canada" Logo="https://i.imgur.com/DorAJNX.jpg">
+		<Server Name="Welcome to Canada v1.0" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://www.dropbox.com/s/ernbni71l3raplw/Welcome-to-Canada.zip?dl=0</Download>
+			</Downloads>
+			<Description>About: I created this mod because I LOVE 7 Days to Die but always felt like the crafting was unrealistic. Yes it's a zombie apocalypse but I just can't help thinking you really shouldn't be able to run around killing zombies at the same time that you craft arrows and wood frames in your pocket. Using the workbench, campfire, chemistry station, forge and cement mixer are the only current ways to craft 99.9% of items. I also had a problem with some of the recipes, like why things didn't need nails, locks and glue. I've changed a lot of the recipes.
+
+So, why Canada? Well, because I'm canadian and a proud one at that. My entire life I've loved the wilderness. Thick forests, high mountain peaks, beautiful wildlife and snow snow SNOW. I wanted to bring some of the country I love to 7 days to Die.
+
+What's changed from Vanilla: 
+
+- Vanilla Recipes Unlocked for most previously uncraftable items and blocks. Nightvision goggles, Beakers, Solid blocks, etc.. Think craftable creative menu. 
+
+- New "more Canadian" item descriptions.
+
+- learn to fist fight like a pro "I know Kung Fu..."
+
+- Way more zombies than normal.
+
+- Way more animals than normal.
+
+- Way way way more trees. So many trees it's crazy. 
+
+- Added better winter gear.
+
+- Added survival gear crate gifted to player at start.
+
+- Everything that should need nails, needs nails. Get lots of nails. 
+
+- Custom Icons
+
+- added 72 slot backpack
+
+- added extra crafting queue 
+
+- Almost all crafting must be done in the workbench or other workstation.
+
+- All ores and minerals added to snow biome (since that's the only biome).
+
+- Workbench and other workstations can picked up when destroyed.
+
+- No more gun parts in the world, who took apart all the guns? We need those.
+
+- Anything that locks, requires a lock to craft. Extra locks added to the world, and craft your own.
+
+- Stack numbers increased on all items and workstations are now stackable.
+
+- Added stone tools to give the player a better shot at collecting resources early on.
+
+- Clay is completely snowed over, check map for clay locations.
+
+- Added lite version with less trees for slower PC's. 
+
+- All metal things and other suitable items require nuts and bolts to craft. 
+
+- Minibike has trouble in cold weather, get on turn on lights, get off, wait 5 seconds, hop back on and you are good to go. 
+
+-Hotfix July 26 2018 - Fixed forge tool and die, removed weird frame recipes, missing stacks fixed, too many doors fixed.. Sorry eh!
+
+-Hotfix July 29 2018 - Added more survival gear, fixed lame horde nights, changed which zeds spawn where, fixed multiple hatch problem. fixed unlimited wood exploit.
+
+-Hotfix August 2 2018 - Added nuts and bolts to the world. Added tons of new items.  fixed opening quest icons, updated english to include zombies from Canadian television shows and to honor some streamers, letterkenny, kids in the hall, Trailer Park Boys. Added more "Allow" cream to the world. Fixed skipants scrapping to military fiber, fixed winter coat not repairing. Added 44magnum to the world, apparently there were no complete magnums spawning in the world. 
+
+- Huge update 1.0 to 1.0.5, August 19th, 2018:
+  - spikes now simple rotations only, no more upside down spikes for you guys.
+  - Added Titanium to the world, trader and loot
+  - New Block types: snow, ice and titanium
+  - Leveling balanced
+  - Fixed player backpack on death not being big enough
+  - Minibike storage increased by 3 slots
+  - Fixed destroyed work stations giving working ones when destroyed
+  - Fixed "too many" recipe items not showing up
+  - weather colder and has larger ranges
+  - Clothes are warmer 
+  - updated opening quests to include build an igloo 
+  - takes longer to get wet from snow
+  - running, fighting and mining makes you hot.
+  - Snowballs do more damage cause it's fun, PVP snowball fight anyone?
+- changed pink and purple to snow and ice. Land Claim Block has maple leaf.
+  - conola oil added to vending machines
+  - trader flag now canada flag
+  - added files for server admins
+  - added paintings of Gretzky and Ricky
+  - Changed some more english and added some more tributes
+
+-hotfix August 2 2018 - Added custom dll - added proper server files
+
+NOTES: 
+
+This mod is resource heavy because of the amount of trees, animals and Zombies being spawned. If you experience lag, Please try the lite version instead. 
+
+This mod is currently only supported fully in ENGLISH. 
+
+Minibike not working? Try getting off with the lights on and then getting back on. 
+
+THANK YOU: Although I didn't recieve any direct help from anyone I did use the vanilla code as well as the code from many mods as examples to learn from in creating this mod. The only code I copied directly was for the on screen display, copied and credited from tazas grave mod. Big thanks to Fun Pimps and the creators of ravenhearst, tazas grave, cb mod, and wotw for writing code that acted as great examples. Super big thank you to R0C_7, DamStr8gaming, like_a_boss206 and Mindcrimer for all the help with testing and bug finding! Massive thank you to SphereII for creating such great tools for modding 7d2d.</Description>
+		</Server>
+		<Server Name="Welcome to Canada v1.0 lite" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://www.dropbox.com/s/fnnwfpm6fhgwfr6/Welcome-to-Canada-lite.zip?dl=0</Download>
+			</Downloads>
+			<Description>This is the lite version, same as regular mod but with less trees! For full description see normal version.</Description>
+	</Server>
+<Server Name="Welcome to Canada v1.0 Server Files" Logo="" >
+                         <RSS></RSS>
+                         <Banner></Banner>
+			<Address></Address>						
+			<Port></Port>							
+			<Type></Type>									
+			<Version></Version>  		
+			<EAC></EAC>									
+			<Admin>RyanJames1978</Admin>					
+			<AdminContact>imryanjames1978@gmail.com</AdminContact>  	
+			<WebSite>https://www.twitch.tv/ryanjames1978</WebSite>	
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://www.dropbox.com/s/v9fh6ticp2chzf0/Welcome-to-Canada-server.zip?dl=0</Download>
+			</Downloads>
+			<Description>These are the files for server admins. They will not work for a normal install.
+Install instructions: 
+1: Download from the link below
+
+2: Install 7 days to die server normally through steamcmd
+
+3: unzip and copy folders into "/7_days_to_die_server/" and overwrite all
+
+Optional: If lite version is intalled, in "/7_days_to_die_server/Data/" rename "Config" folder and rename "Config-lite" to "Config"</Description>
+	</Server>
+	</ServerGroup>
+</Servers>
