@@ -1,2 +1,2 @@
-Alpha16,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Default.xml
 Alpha17,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha17/Default.xml
+Alpha16,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Default.xml
