@@ -1,6 +1,17 @@
 <Servers>
 	<ServerGroup Name="The Fun Pimps" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Base game functionality for The Fun Pimps">
-	
+				<Server Name="Alpha 16.4" Logo="" >
+			<Description>The Fun Pimps' 7 Days to Die
+Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 16.4
+
+Downloading using the Advanced Mode, and Select Install From Steam.	  
+			</Description>
+			<RSS/>
+			<Version>alpha16.4</Version>
+			<ReleaseNotes/>
+			<Downloads>
+			</Downloads>
+		</Server>					
 			<Server Name="Alpha 16.3" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 16.3

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Testing" Logo="" Description="">
+		<Server Name="MyTestMod" Logo="">
+			<Description>
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes/>
+			<Downloads />
+		</Server>
+	</ServerGroup>
+</Servers>
