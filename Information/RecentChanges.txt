@@ -1,3 +1,9 @@
+Update Version 1.1.0.x - December 22nd 2018
+===========================================
+* New hosting provider! 
+* Modlet Support!
+* Alpha 16.x and Alpha 17 mods seperated now.
+
 Update Version 1.0.5.2 - May 6th, 2018
 =====================================
 * Added dependency on .NET 4.7.1 to be compatible with Github / Windows 7
