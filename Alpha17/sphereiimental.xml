@@ -49,7 +49,7 @@ Please enjoy our winter apocalypse,
 			<ReleaseNotes/>
 			<Downloads>
 				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
-				<Download>svn://gitlab.com/DUST2DEATH/hdhq2k</Download>
+				<Download>svn://gitlab.com/DUST2DEATH/hdhq2k.git</Download>
 			</Downloads>
 		</Server>
 
@@ -77,7 +77,7 @@ Please enjoy our winter apocalypse,
 			<ReleaseNotes/>
 			<Downloads>
 				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
-				<Download>svn://gitlab.com/DUST2DEATH/hdhq</Download>
+				<Download>svn://gitlab.com/DUST2DEATH/hdhq.git</Download>
 			</Downloads>
 		</Server>
 
