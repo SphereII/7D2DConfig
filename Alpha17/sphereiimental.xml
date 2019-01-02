@@ -16,6 +16,7 @@ Please enjoy our winter apocalypse,
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>SDX0.7.3</Exclude>
+				<Exclude>Patches</Exclude>
 			</Excludes>
 			<Version>alpha17</Version>
 			<RSS/>
@@ -42,14 +43,13 @@ Please enjoy our winter apocalypse,
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>SDX0.7.3</Exclude>
-				<Exclude>Reset Environment Patch</Exclude>
+				<Exclude>HDHQ-4K</Exclude>
 			</Excludes>
 			<Version>alpha17</Version>
 			<RSS/>
 			<ReleaseNotes/>
 			<Downloads>
 				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
-				<Download>svn://gitlab.com/DUST2DEATH/hdhq2k.git</Download>
 			</Downloads>
 		</Server>
 
@@ -71,13 +71,13 @@ Please enjoy our winter apocalypse,
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>Reset Environment Patch</Exclude>
 				<Exclude>SDX0.7.3</Exclude>
+				<Exclude>HDHQ-2K</Exclude>
 			</Excludes>
 			<Version>alpha17</Version>
 			<RSS/>
 			<ReleaseNotes/>
 			<Downloads>
 				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
-				<Download>svn://gitlab.com/DUST2DEATH/hdhq.git</Download>
 			</Downloads>
 		</Server>
 
