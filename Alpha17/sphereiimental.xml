@@ -81,6 +81,94 @@ Please enjoy our winter apocalypse,
 			</Downloads>
 		</Server>
 
+
+		<Server Name="WinterProject A17 Survival" Logo="">
+			<Description>Winter Project 2018 (latest_experimental) by sphereii and xyth
+Nuclear winter buried the apocalyptic remnants of civilization, sending survivors scattering across the world in the slim chance of their survival.
+
+Prepare to battle the elements, see the world differently, and test your survival skills in the latest incarnation of the Winter Project, by sphereii and xyth.
+
+Featuring UI modlets from Sirillion, Red Eagle LXIX and stedman420, Winter Project has been updated through xyth's tireless efforts in unity with redone creatures and items. While the Nightmares have vanished, other aspects of the original Winter Project remain. HAL9000 gracious supplied a new way of providing snow in the world, and the performance improvements are fantastic.
+
+** Does not include Christmas decorations ** 
+
+Please enjoy our winter apocalypse,
+-sphereii and xyth
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>SDX0.7.3</Exclude>
+				<Exclude>Patches</Exclude>
+				<Exclude>SphereII Santas</Exclude>
+				<Exclude>Xyth XmasPack</Exclude>
+			</Excludes>
+			<Version>alpha17</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="WinterProject A17 Survival 2K Texture" Logo="">
+			<Description>Winter Project 2018 (latest_experimental) by sphereii and xyth
+Nuclear winter buried the apocalyptic remnants of civilization, sending survivors scattering across the world in the slim chance of their survival.
+
+Prepare to battle the elements, see the world differently, and test your survival skills in the latest incarnation of the Winter Project, by sphereii and xyth.
+
+Featuring UI modlets from Sirillion, Red Eagle LXIX and stedman420, Winter Project has been updated through xyth's tireless efforts in unity with redone creatures and items. While the Nightmares have vanished, other aspects of the original Winter Project remain. HAL9000 gracious supplied a new way of providing snow in the world, and the performance improvements are fantastic.
+
+This release includes DUST2DEATH's HD HQ 2K texture repackage, along with re-textured zombies from Mumpfy
+
+** Does not include Christmas decorations ** 
+
+Please enjoy our winter apocalypse,
+-sphereii and xyth
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>SDX0.7.3</Exclude>
+				<Exclude>HDHQ-4K</Exclude>
+			</Excludes>
+			<Version>alpha17</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="WinterProject A17 Survival 4K Texture" Logo="">
+			<Description>Winter Project 2018 (latest_experimental) by sphereii and xyth
+Nuclear winter buried the apocalyptic remnants of civilization, sending survivors scattering across the world in the slim chance of their survival.
+
+Prepare to battle the elements, see the world differently, and test your survival skills in the latest incarnation of the Winter Project, by sphereii and xyth.
+
+Featuring UI modlets from Sirillion, Red Eagle LXIX and stedman420, Winter Project has been updated through xyth's tireless efforts in unity with redone creatures and items. While the Nightmares have vanished, other aspects of the original Winter Project remain. HAL9000 gracious supplied a new way of providing snow in the world, and the performance improvements are fantastic.
+
+This release includes DUST2DEATH's HD HQ 4K texture repackage, along with re-textured zombies from Mumpfy
+
+** Does not include Christmas decorations ** 
+
+Please enjoy our winter apocalypse,
+-sphereii and xyth
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>Reset Environment Patch</Exclude>
+				<Exclude>SDX0.7.3</Exclude>
+				<Exclude>HDHQ-2K</Exclude>
+			</Excludes>
+			<Version>alpha17</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
+			</Downloads>
+		</Server>
 		
 	</ServerGroup>
 
