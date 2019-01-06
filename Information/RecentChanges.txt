@@ -1,3 +1,10 @@
+Update Version 2.0.16 - January 6th 2019
+=======================
+* Added Modlet install to your Steam folder 
+* Added new installer
+* Added Uninstall option to File Menu
+
+
 Update Version 1.1.0.x - December 22nd 2018
 ===========================================
 * New hosting provider! 
