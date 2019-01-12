@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Darkness Falls" Logo="https://i.imgur.com/4kjLtAE.jpg" Description="">
+	
+		<Server Name="Darkness Falls" Logo="https://i.imgur.com/4kjLtAE.jpg">
+			<Description>
+This is a mod I originally created to fix a few "issues" myself, my wife and some friends felt the game had. Turns out I really enjoy modding so I've expanded on it quite a bit.
+
+60 Slot Bigger back pack! 
+Features.
+
+8 Classes to choose from, with 6 quests each! (Class quests take approx 60 mins to finish if you grind hard)
+Rewritten progression system compared to A17.
+Return of Action Skills!
+12 slot crafting queue!
+Custom UI. Health and Stamina on the left of the toolbelt, Food and Water on the right.
+			</Description>
+			<EAC>Disabled</EAC>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?80827-Darkness-Falls-They-mostly-come-out-at-night</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/KhaineGB/DarknessFallsA17Client/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	
+	</ServerGroup>
+</Servers>
+
+
