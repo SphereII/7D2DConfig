@@ -1,3 +1,9 @@
+New Update: 2.0.20 - January 12, 2019
+
+- Fixed an issue where modlets could throw an exception; they are now ignored
+- Re-fixed Open File() issue
+- Added new SubscriptionLink support in the Mod Launcher Configuration. This will display a privately mod-author curated modlet list. This will filter the Manage Modlet view
+
 Update Version 2.0.16 - January 6th 2019
 =======================
 * Added Modlet install to your Steam folder 
