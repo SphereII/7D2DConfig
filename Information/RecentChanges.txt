@@ -1,4 +1,4 @@
-New Update: 2.0.39 January 19, 2019
+New Update: 2.0.42 January 19, 2019
 
 - Lots of performance tweaks to the Modlet browser functionality
 - Tweaks and removal of extra libraries no longer needed
