@@ -1,3 +1,12 @@
+New Update: 2.0.39 January 19, 2019
+
+- Lots of performance tweaks to the Modlet browser functionality
+- Tweaks and removal of extra libraries no longer needed
+- Modified the core download functionality for TempMods to be sub-folders. This allows us to use git for more than one download (ie Winter Project and DUST2DEATH's resources will be faster after the initial install)
+- Updated the Steam Download option to include the versions you want to sync.
+- Added some extra code to make Steam downloads more resilient.
+- New Configuration! View Menu -> Open Configuration File. My Mods should be remembered between releases!
+
 New Update: 2.0.20 - January 12, 2019
 
 - Fixed an issue where modlets could throw an exception; they are now ignored
