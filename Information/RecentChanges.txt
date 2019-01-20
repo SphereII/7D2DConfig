@@ -1,3 +1,7 @@
+New Update: 2.0.51 January 20, 2019
+- POtentially fixing the issue where steam isn't seen. Requesting feedback
+- Fixed issue with missing DLL for zip files.
+
 New Update: 2.0.42 January 2019
 - Fixed Local Save Game bug
 - Fixed Additional Settings being populated with garbage.
