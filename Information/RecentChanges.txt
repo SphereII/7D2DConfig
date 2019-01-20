@@ -1,3 +1,7 @@
+New Update: 2.0.42 January 2019
+- Fixed Local Save Game bug
+- Fixed Additional Settings being populated with garbage.
+
 New Update: 2.0.42 January 19, 2019
 
 - Lots of performance tweaks to the Modlet browser functionality
