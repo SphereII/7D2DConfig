@@ -1,3 +1,9 @@
+New Update: 2.0.55 January 21, 2019
+
+- Fixed Steam Download Links
+- Changed the "Managed Mods" to "Add More Mods"
+- Some comfort items, such as Delete Completely will take you back where you were
+
 New Update: 2.0.51 January 20, 2019
 - POtentially fixing the issue where steam isn't seen. Requesting feedback
 - Fixed issue with missing DLL for zip files.
