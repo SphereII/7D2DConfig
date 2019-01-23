@@ -1,3 +1,6 @@
+New Update 2.0.58
+- Bug fix for Free Space check looking at the wrong drive.
+
 New Update: 2.0.55 January 21, 2019
 
 - Fixed Steam Download Links
