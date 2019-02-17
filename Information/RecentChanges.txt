@@ -1,3 +1,6 @@
+New Update: 2.0.60
+- Fixed an issue where the mod launcher would throw an error if there was no Mods folder.
+
 New Update: 2.0.59
 - Various modlet bug fixes
 - Saving Command Line Parameter is fixed
