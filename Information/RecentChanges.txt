@@ -1,3 +1,6 @@
+New Update: 2.0.61
+- Fixed another issue hwere the mod launcher would throw an exception over a missing Mods folder.
+
 New Update: 2.0.60
 - Fixed an issue where the mod launcher would throw an error if there was no Mods folder.
 
