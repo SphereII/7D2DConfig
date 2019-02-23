@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<Servers >
+	<!-- Server Group will encompass a single group running multiple servers -->
+	<ServerGroup Name="Ravenhearst" Logo="https://i.imgur.com/P1IUjSg.png">
+
+	
+
+		 	<Server Name="Ravenhearst 5 Vanilla Textures" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v5.0</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/rh5_0_van_textures.git</Download>
+			</Downloads>
+		    <Description>
+			Stable Version of Ravenhearst 5.0 for 17.1 with Normal Vanilla Textures. This version is not compatible with the other Versions
+			</Description>
+		</Server>
+
+
+		 	<Server Name="Ravenhearst 5 2K Textures" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v5.0</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/rh5_0_2k_textures.git</Download>
+			</Downloads>
+		    <Description>
+			Stable Version of Ravenhearst 5.0 for 17.1 with Dust2Deaths 2K Hi Res Texture Pack. This version is not compatible with the other Versions
+			</Description>
+		</Server>		
+		
+		 	<Server Name="Ravenhearst 5 4K Textures" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v5.0</Version>
+			<EAC>Disabled</EAC>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/rh5_0_4k_textures.git</Download>
+			</Downloads>
+		    <Description>
+			Stable Version of Ravenhearst 5.0 for 17.1 with Dust2Deaths 4K Hi Res Texture Pack. This version is not compatible with the other Versions
+			</Description>
+		</Server>
+		
+
+
+	</ServerGroup>
+</Servers>
