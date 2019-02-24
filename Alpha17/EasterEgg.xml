@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Easter Hunt" >
+	
+		<Server Name="Easter Hunt" >
+			<Description>
+Easter Mod
+
+Features
+11 Regular size egg blocks. 
+11 2x size decorational egg blocks.
+11 3x size decorational egg blocks.
+Aggressive Chicken.
+
+
+A mod made by PhancyIsFancy and Fadey_Fade.
+Special thanks to "BRS Reviews"
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<Downloads>
+				<Download>https://github.com/phancyIsFancy/Easter-Hunt/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	
+	</ServerGroup>
+</Servers>
+
