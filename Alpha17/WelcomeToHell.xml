@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="WelcomeToHell" Logo="" Description="">
+		<Server Name="WelcomeToHell A17" Logo="">
+			<Description>Welcome To Hell mod was designed to take you to your limits. XP has been nerfed to the point where you have to earn your skill points and item's.  Late game is a bit of a grind but well worth the grind in the end. Its designed for all players.
+				
+				For halloween I added halloween sounds and working on more things!
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?86037-New-mod-Coming-to-the-mod-Launcher</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/unforgivengaming2018/Welcome-to-Hell-Mod-Alpha-17.1/archive/master.zip/Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
+
