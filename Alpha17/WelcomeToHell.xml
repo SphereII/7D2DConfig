@@ -3,9 +3,9 @@
 	<ServerGroup Name="WelcomeToHell" Logo="" Description="">
 		<Server Name="WelcomeToHell A17" Logo="">
 			<Description>Welcome To Hell mod was designed to take you to your limits. XP has been nerfed to the point where you have to earn your skill points and item's.  Late game is a bit of a grind but well worth the grind in the end. Its designed for all players.
-				
+
 				For halloween I added halloween sounds and working on more things!
-				
+
 				https://7daystodie.com/forums/showthread.php?112210-Welcome-to-Hell-mod-alpha-17-1
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
@@ -15,6 +15,23 @@
 				<Download>https://gitlab.com/army.bratt44/welcometohell-a17/-/archive/master/welcometohell-a17-master.zip</Download>
 			</Downloads>
 		</Server>
+
+		<Server Name="WelcomeToHell A17 BBM 60 Slot" Logo="">
+			<Description>Welcome To Hell mod was designed to take you to your limits. XP has been nerfed to the point where you have to earn your skill points and item's.  Late game is a bit of a grind but well worth the grind in the end. Its designed for all players.
+
+				Now with a 60 Slot Bigger Back Pack!
+				For halloween I added halloween sounds and working on more things!
+
+				https://7daystodie.com/forums/showthread.php?112210-Welcome-to-Hell-mod-alpha-17-1
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?86037-New-mod-Coming-to-the-mod-Launcher</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/army.bratt44/welcome-to-hell-bbm-60-backpack/-/archive/master/welcome-to-hell-bbm-60-backpack-master.zip</Download>
+			</Downloads>
+		</Server>
+
 	</ServerGroup>
 </Servers>
 
