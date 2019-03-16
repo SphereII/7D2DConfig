@@ -1,7 +1,7 @@
 New Update: 2.0.74
 - Manage Modlets screen updated to be faster and more reliable
 - Built-in SDX support. Add an SDX Modlet, and watch it compile automatically for you
-- New Menu Option: View -> Maximize Screen which will enable scrool bars
+- New Menu Option: View -> Maximize Screen which will enable scroll bars
 - Steam Version working; Add and manage your modlets right in your steam folder
 
 New Update: 2.0.61
