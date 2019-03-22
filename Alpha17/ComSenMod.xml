@@ -2,9 +2,20 @@
 <Servers>
 	<ServerGroup Name="CraterCreator" Logo="" Description="">
 		<Server Name="ComSenMod A17" Logo="">
-			<Description>The mod’s focus is not on making the game easier or harder. Nor is it meant to cater to any one playstyle. It’s simply designed to inject more common sense into the game. Hence “ComSenMod”, short for Common Sense Mod.
+			<Description>
+The Common Sense Mod
+At its heart, ComSenMod is about using what’s already in the game in a more intuitive, common sense way.  Loot is carefully apportioned to occur in places where you’d intuitively expect it to be, without prior knowledge of the game.  Clothes in a suitcase make sense, so that omission from vanilla is added.  Coffee beans under a bathroom sink don’t make sense, so that peculiarity from vanilla is removed.  The same philosophy is applied to blocks (like storage boxes holding more than the smaller chests), items (like cigars being made of plant fibers), and recipes (like needing a source of ignition to start a fire).
 
-My hope is that ComSenMod gains broad appeal: that players will wonder why the game wasn’t always this way. Who knows, it may even give the developers some things to think about. My second hope is that if you try ComSenMod, you’ll let me know what you think. I’ve tested it extensively for balance in single player and coop games. I’m open to additions and improvements, especially along the lines of “I used ComSenMod in X kind of game for Y long and there’s too much/too little of Z.”
+Less Useless Clutter
+A couple of nails or arrows clutter your inventory and are almost more cumbersome than they’re worth.  So although ComSenMod doesn’t aim to increase loot overall, when you do find something, it’s a stack big enough to potentially change the narrative of your game.  Similarly, each boulder only yields one resource other than stone, instead of every boulder having every mineral.  Players get a bonus for destroying a tree or boulder completely, instead of leaving them partially damaged.
+Better Balance
+Quantities of lootable items are fine tuned, iteratively based on many hours of gameplay.  Many factors, including risk versus reward, rarity, tangible value, the progression curve over time, and utilization are taken into consideration.
+
+Improved Experience for New Players
+The starter quest is re-ordered based on increasing complexity and a player’s real priorities.  Localization text is improved (English only) to communicate more important information.  Sleeper zombies scale up with gamestage, so that seeking shelter in an existing building is viable.
+
+What ComSenMod Is Not
+ComSenMod isn’t aimed at making the game easier, harder, or catering to any one playstyle.  It’s not meant to take the game in a wildly new direction with experimental or frivolous changes.  My hope is that the mod will have broad appeal, and all kinds of players will wonder why the game wasn’t always this way.			
 			</Description>
 			<Version/>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?59883-ComSenMod-(latest-release-9-4-17)</ReleaseNotes>
