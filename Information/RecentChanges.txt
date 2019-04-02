@@ -1,3 +1,6 @@
+New Update: 2.0.80
+ - Bug fixes to Manage modlets
+ 
 New Update: 2.0.77
  - Fixed a bug with the Modlet database not being synced correctly
  - Fixed an issue where old data in the database hung around
