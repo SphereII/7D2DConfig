@@ -4,8 +4,11 @@
 			<Description>NPC Test Area</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
+			<Excludes>
+				<Exclude>docs</Exclude>
+			</Excludes>
 			<Downloads>
-				<Download>https://raw.githubusercontent.com/7D2DMods/NPCs/master/ModletProfile.txt</Download>
+				<Download>https://github.com/7D2DMods/NPCs</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
