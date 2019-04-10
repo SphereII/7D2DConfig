@@ -1,3 +1,10 @@
+New Update: 2.0.80
+ - Bug fixes to Manage modlets
+ 
+New Update: 2.0.77
+ - Fixed a bug with the Modlet database not being synced correctly
+ - Fixed an issue where old data in the database hung around
+ 
 New Update: 2.0.74
 - Manage Modlets screen updated to be faster and more reliable
 - Built-in SDX support. Add an SDX Modlet, and watch it compile automatically for you

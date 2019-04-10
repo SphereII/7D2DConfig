@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="CBMod" Logo="" Description="">
+		<Server Name="CBMod Class" Logo="">
+			<Description>
+The focus of CBMod is to create a challenging experience for seasoned players with an increased emphasis on combat. The spawn rates are high, the wandering hordes are no joke. You're likely going to die, and often. The mod specializes in bringing back the feeling of being constantly "overwhelmed."
+
+Mod is not meant to be played with any Bigger Backpack Mod
+
+This mod is not for everyone. That being said, if you do not enjoy the combat aspect of 7D2D / or are not looking for a challenge, this likely isnt the mod for you. There are plans to release a "CBMod Lite" version in the future.
+
+CBMod focuses on a system of "risk v. reward" that is prevalent in the legendary zombies: They're tough to kill, but doing so is the only way to get Legendary weapons (which are a TON of fun to use).
+			</Description>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://github.com/CBThaGreat/CBMod-A17-Classic/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+	
+	</ServerGroup>
+</Servers>
+           
