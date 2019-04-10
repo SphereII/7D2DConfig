@@ -1,5 +1,5 @@
 <Servers>
-	<ServerGroup Name="sphereii-mental" Logo="" Description="">
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="">
 		<Server Name="NPCTest" Logo="">
 			<Description>NPC Test Area</Description>
 			<DownloadMode>Clone</DownloadMode>
