@@ -5,7 +5,7 @@
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
 			<Downloads>
-				<Download>https://github.com/7D2DMods/NPCs/archive/master.zip</Download>
+				<Download>https://raw.githubusercontent.com/7D2DMods/NPCs/master/ModletProfile.txt</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
