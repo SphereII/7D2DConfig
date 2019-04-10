@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="sphereii-mental" Logo="" Description="">
-		<Server Name="NPC Test" Logo="">
+		<Server Name="NPCTest" Logo="">
 			<Description>NPC Experimental</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
