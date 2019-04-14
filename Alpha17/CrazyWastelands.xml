@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="CrazyWastelands" Logo="" Description="">
+			<Server Name="CrazyWastelands" Logo="">
+			<Description>This mod was orginally created to modify some of the new Changes from the Pimps. It brings back Wood Planks and Sticks, Trunk Pines and different Meat Types.
+
+Also it adds the more Weapons like Spear, Katana and Swords.
+Some new Blocks added , like a working Jukebox, New Workbench for Vehicle Crafting some new Cooking Workbenches.
+
+Progression was changed too primary some Recipe Unlocks changed and modified values for some of the different Boni you get from the Skills.
+
+Biome changes include a deeper World until you reach Bedrock, Modified Ore Spawns in the different Biomes, Apple and Cherry Trees and some Recipes to use this new Food.
+
+Added back all different Meat Types for the Animals and added new Recipes for Food.
+
+Added some Named Unique Weapons not in Loot table but can be used as Boss Loot or for Events , this Unique Weapons offer better Stats and/or already have some Features from Weapons Mods integreatet into the Weapon itself.
+
+Modified Vehicle Speed and Fuel Usage.
+
+And more is Planned .
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>www.crazy-wastelands.de</ReleaseNotes>
+			<WebSite>www.crazy-wastelands.de</WebSite>
+			<Downloads>
+				<Download>https://gitlab.com/crazyduck33/crazy-wastelands</Download>
+			</Downloads>
+		</Server>
+		
+	
+	</ServerGroup>
+</Servers>
+
