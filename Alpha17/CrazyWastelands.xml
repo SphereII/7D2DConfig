@@ -2,7 +2,11 @@
 <Servers>
 	<ServerGroup Name="CrazyWastelands" Logo="" Description="">
 			<Server Name="CrazyWastelands" Logo="">
-			<Description>This mod was orginally created to modify some of the new Changes from the Pimps. It brings back Wood Planks and Sticks, Trunk Pines and different Meat Types.
+			<Description>
+			
+Server : 78.46.32.171:26900
+WebSite: www.crazy-wastelands.de		
+This mod was orginally created to modify some of the new Changes from the Pimps. It brings back Wood Planks and Sticks, Trunk Pines and different Meat Types.
 
 Also it adds the more Weapons like Spear, Katana and Swords.
 Some new Blocks added , like a working Jukebox, New Workbench for Vehicle Crafting some new Cooking Workbenches.
@@ -21,6 +25,8 @@ And more is Planned .
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
+			<Address>78.46.32.171</Address>
+			<Port>26900</Port>
 			<ReleaseNotes>www.crazy-wastelands.de</ReleaseNotes>
 			<WebSite>www.crazy-wastelands.de</WebSite>
 			<Downloads>
