@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="BorderlandZ" Logo="" Description="">
+			<Server Name="BorderlandZ Stable" Logo="">
+			<Description>
+BorderlandZ.
+
+You. Will. Die.
+
+Lock, Load, and Face the Madness!
+Get ready for the mind blowing insanity! Play as one trigger-happy Agent and take out everything that stands in your way!
+With its addictive action, frantic first-person shooter combat, massive arsenal of weaponry, RPG elements and co-op, BorderlandZ is a breakthrough experience that challenges all the conventions of modern shooters. BorderlandZ places you in the role of an Agent on the lawless and desolate Area of Navezgane to fight the Zombie Apokalyse, find the Cure and save the whole Humanity... or something like that... 
+(a bit taken from the original Borderlands)
+
+It combines
+*    Role Playing Shooter (RPS) - Combines frantic first-person shooting action with accessible role-playing character progression in a fully destructable World!
+*    Co-Op Frenzy - Fly solo in single player or drop in and out with other Players Co-Op online for a maniacal multiplayer experience
+*    Bazillions of Guns - Gun lust fulfilled with rocket-launching shotguns, enemy-torching revolvers, SMGs that fire lightning rounds, and tons more - and not to forget the thousands of additional Gun modifications that will make each Gun a singularity among your friends!
+*    Radical Game Style - New visual style in a completely destructable Voxel World will create a unique and eye-catching spin on the First Person genre
+*    Intense Vehicular Gameplay - Get behind the wheel and engage in intense vehicle driving and flying action! 
+
+Find more information about this Mod, it's content and what other Modlets are packed in at
+
+https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting!
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</ReleaseNotes>
+			<WebSite>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</WebSite>
+			<Downloads>
+				<Download>https://gitlab.com/rucky70/borderlandz-for-7-days-to-die</Download>
+			</Downloads>
+		</Server>
+		
+	
+	</ServerGroup>
+</Servers>
+
