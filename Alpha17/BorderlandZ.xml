@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="BorderlandZ" Logo="https://i.imgur.com/oL3JFQf.png" Description="">
-			<Server Name="BorderlandZ Stable" Logo="https://i.imgur.com/oL3JFQf.png">
+	<ServerGroup Name="BorderlandZ" Logo="https://gitlab.com/rucky70/borderlandz-for-7-days-to-die/raw/master/Mods/Ruckys_All_MainMenu/Textures/BorderlandZ_Logo.png" Description="">
+			<Server Name="BorderlandZ Stable" Logo="https://gitlab.com/rucky70/borderlandz-for-7-days-to-die/raw/master/Mods/Ruckys_All_MainMenu/Textures/BorderlandZ_Logo.png">
 			<Description>
 BorderlandZ.
 
