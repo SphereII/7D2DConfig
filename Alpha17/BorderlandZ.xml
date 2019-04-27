@@ -25,7 +25,10 @@ https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fu
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
-
+		<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			
+			</Excludes>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</ReleaseNotes>
 			<WebSite>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</WebSite>
 			<Downloads>
@@ -60,7 +63,10 @@ https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fu
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
-
+		<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			
+			</Excludes>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</ReleaseNotes>
 			<WebSite>https://7daystodie.com/forums/showthread.php?111632-BorderlandZ-Let-s-get-the-Fun-back-to-GunFighting-and-Looting</WebSite>
 			<Downloads>
