@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="WelcomeToHell" Logo="" Description="">
-			<Server Name="WelcomeToHell A17.2" Logo="">
-			<Description>Welcome To Hell mod was designed to take you to your limits. XP has been nerfed to the point where you have to earn your skill points and item's.  Late game is a bit of a grind but well worth the grind in the end. Its designed for all players.
-
-				For halloween I added halloween sounds and working on more things!
-
+		<Server Name="WelcomeToHell A17.2" Logo="">
+			<Description>Welccome to The appocalypse mod: Not as hardcore as Welcome to hell mod In alpha 16.4, 
+			More realistic 
+			More recipes 
+			Things that Players Have wanted To return From alpha 16.4 have returned 
+			
+			This is An Official version of the mod Until alpha 18 Drops Enjoy The mod 
+			
+			If you have questions or run into any errors contact me at army.bratt44@gmail.com and i will reply to your emails Thanks and Enjoy
 			</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?86037-New-mod-Coming-to-the-mod-Launcher</ReleaseNotes>
 			<Downloads>
-				<Download>https://gitlab.com/army.bratt44/alpha-17.2-welcome-to-hell-version-3.0</Download>
+				<Download>https://gitlab.com/army.bratt44/welcome-to-hell-a17.2-non-sdx</Download>
 			</Downloads>
 		</Server>
-		
-	
+
+		<Server Name="WelcomeToHell A17.2 SDX" Logo="">
+			<Description>>Welccome to The appocalypse mod: Not as hardcore as Welcome to hell mod In alpha 16.4, 
+			More realistic 
+			More recipes 
+			Things that Players Have wanted To return From alpha 16.4 have returned 
+			
+			This is An Official version of the mod Until alpha 18 Drops Enjoy The mod 
+			
+			If you have questions or run into any errors contact me at army.bratt44@gmail.com and i will reply to your emails Thanks and Enjoy
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?86037-New-mod-Coming-to-the-mod-Launcher</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/army.bratt44/welcome-to-hell-alpha-17.2-sdx</Download>
+			</Downloads>
+		</Server>
+
 	</ServerGroup>
 </Servers>
 
