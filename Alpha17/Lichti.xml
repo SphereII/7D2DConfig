@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Fantasy Mod" Logo="" Description="">
+			<Server Name="Fantasy Mod" Logo="">
+			<Description>
+			
+Discord Link: https://discord.gg/NnCm7nD
+
+Fantasy Mod + Sorcery    		
+	ModInfo = Fantasy Mod
+	Name = Fantasy Mod
+	Author = Lichti
+
+	Bringt neue Blöcke, Items und Gegner.
+Die Biome sind Komplett überarbeitet und verändert jedes Biom hat seine eigene Schwierigkeit . Das Leichteste ist das Waldbiom versucht dort hin zu kommen um zu überleben und euch aufzubauen.
+Es trifft das Mittelalter auf Moderne überreste
+Beim ersten  mal solltet Ihr auf die einfachste Schwierigkeitsstufe starten.
+
+	ModInfo = Sorcery 	
+	Name = Sorcery
+	Author = Devrix
+	Website = " https://7daystodie.com/forums/showthread.php?109145-Sorcery "
+
+	Bringt Magie ins Spiel mit tollen Effekten und macht den Fantasy Mod um einiges besser.
+großen Dank an Devrix das ich seinen Mod gleich mit in den Download packen darf. 
+
+Fantasy Mod + Sorcery 
+	ModInfo = Fantasy Mod
+	Name = Fantasy Mod
+	Author = Lichti
+
+Bring new blocks, items and enemies.
+The biomes are completely redesigned and changed every biome has its own difficulty. The easiest thing is the forest biome trying to get there to survive and build you.
+medieval meets modern remains
+The first time you should start on the simplest difficulty level.
+
+	ModInfo = Sorcery
+	Name = Sorcery
+	Author = Devrix
+	Website = "https://7daystodie.com/forums/showthread.php?109145-Sorcery"
+
+	Brings magic into the game with great effects and makes the Fantasy Mod a lot better.
+Thanks a lot to Devrix for allowing me to include his mod in the download.
+Und meinen Dank an alle die mich beim Mod unterstützt haben.
+And my thanks to all who supported me in the mod.
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?109145-Sorcery</ReleaseNotes>
+			<Downloads>
+			<Download>http://217.79.178.78/FantasyMod_Sorcery.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
