@@ -1,3 +1,8 @@
+New Update: 2.0.83
+ - Bug fix for Manage Modlets throwing an error
+ - Experimental DMT Support
+ - Available Modlets will be displayed by default, if no modlets are installed.
+ 
 New Update: 2.0.80
  - Bug fixes to Manage modlets
  
