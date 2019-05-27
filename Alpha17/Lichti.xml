@@ -3,12 +3,8 @@
 	<ServerGroup Name="Fantasy Mod" Logo="" Description="">
 			<Server Name="Fantasy Mod" Logo="">
 			<Description>
-			
-
-
-Fantasy Mod + Sorcery    
-
-	Download Error is fix
+7 days to die Alpha 17.4  don´t 17.3 is to bugy
+Fantasy Mod v0.6.1
 		
 	ModInfo = Fantasy Mod
 	Name = Fantasy Mod
@@ -20,12 +16,10 @@ Fantasy Mod + Sorcery
 	Es trifft das Mittelalter auf Moderne überreste
 	Beim ersten  mal solltet Ihr auf die einfachste Schwierigkeitsstufe starten.
 	!!! nur Random Map mit eigenen Gebäuden. kein Navezgane und sehr lange ladezeit  !!!
-
-	ModInfo = Sorcery 	
+	ModInfo = Sorcery  v0.7.6	
 	Name = Sorcery
 	Author = Devrix
 	Website = " https://7daystodie.com/forums/showthread.php?109145-Sorcery "
-
 	Bringt Magie ins Spiel mit tollen Effekten und macht den Fantasy Mod um einiges besser.
 	großen Dank an Devrix das ich seinen Mod gleich mit in den Download packen darf. 
 
@@ -40,18 +34,27 @@ Fantasy Mod + Sorcery
 	medieval meets modern remains
 	The first time you should start on the simplest difficulty level.
 	!!! only random map with own buildings. no Navezgane and very long loading time !!!
-
-	ModInfo = Sorcery
+	ModInfo = Sorcery  v0.7.6
 	Name = Sorcery
 	Author = Devrix
 	Website = "https://7daystodie.com/forums/showthread.php?109145-Sorcery"
-
 	Brings magic into the game with great effects and makes the Fantasy Mod a lot better.
 Thanks a lot to Devrix for allowing me to include his mod in the download.
 Und meinen Dank an alle die mich beim Mod unterstützt haben.
 And my thanks to all who supported me in the mod.
+
+Other mods are included with.
+
+Mods from sphereii	you find here	https://github.com/SphereII/SphereII.Mods
+SDX_SpawnFromEntityGroup   --  sphereii
+SDX_EntityAliveSDX		   --  sphereii		
+SphereII_UnlockHealthBar   --  sphereii		
+	
+And Thanks for help by create prefabs 
+chiko(ちぃちぃ)
+Hohi
 			</Description>
-			<Version>0.5.1</Version>
+			<Version>0.6</Version>
 			<ReleaseNotes>https://discord.gg/NnCm7nD</ReleaseNotes>
 			<Downloads>
 			<Download>http://217.79.178.78/FantasyMod_Sorcery.zip</Download>
