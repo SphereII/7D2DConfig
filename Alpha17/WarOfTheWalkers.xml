@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="War Of the Walkers Client" Logo="" Description="War of the Walkers">
-		<Server Name="War of the Walkers" Logo="">
+	<ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
+		<Server Name="War of the Walkers Client" Logo="">
 			<Description>The War of the Walkers 6.x - Client Files Only. Requires connection to a War Of the Walkers Server
 			</Description>
 			<Version/>
