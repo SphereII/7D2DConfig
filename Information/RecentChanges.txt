@@ -1,3 +1,6 @@
+New Update: 2.0.85
+ - Fixed a time out issue with some mods not showing up.
+ 
 New Update: 2.0.83
  - Bug fix for Manage Modlets throwing an error
  - Experimental DMT Support
