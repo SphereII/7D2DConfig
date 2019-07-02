@@ -1,3 +1,6 @@
+New Update: 2.0.88
+ - Fixed a broken SDX link
+ 
 New Update: 2.0.87
  - More fixes for delayed start up
  
