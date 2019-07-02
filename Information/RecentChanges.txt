@@ -1,3 +1,6 @@
+New Update: 2.0.87
+ - More fixes for delayed start up
+ 
 New Update: 2.0.85
  - Fixed a time out issue with some mods not showing up.
  
