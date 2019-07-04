@@ -1,3 +1,6 @@
+New Update: 2.0.89
+ - Added Branch feature for github clones
+ 
 New Update: 2.0.88
  - Fixed a broken SDX link
  
