@@ -2,13 +2,14 @@
 <Servers>
 	<ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
 		<Server Name="War of the Walkers Client" Logo="">
-			<Description>The War of the Walkers 6.x - Client Files Only. Requires connection to a War Of the Walkers Server
+			<Description>The War of the Walkers 6.x - Full Client Install for PUBLIC BETA
 			</Description>
 			<Version/>
       <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.0.0-Server-Github/archive/master.zip</Download>
+				<!--Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.0.0-Server-Github/archive/master.zip</Download>-->
+				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.0.0-Beta/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
