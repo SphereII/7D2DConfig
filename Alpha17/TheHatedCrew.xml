@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<Servers>
+	<ServerGroup Name="The Hated Crew" Logo="http://www.thehatedcrew.com/thcbanner.png">
+		<Server Name="The Hated Crew PvE Darkness Falls" Logo="http://www.thehatedcrew.com/thcbanner.png">
+			<Address>162.248.91.42</Address>
+			<Port>26900</Port>
+			<Type>Public</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>The Hated Crew</Admin>
+			<AdminContact>admin@thehatedcrew.com</AdminContact>
+			<WebSite>http://www.thehatedcrew.com</WebSite>
+			<ReleaseNotes>http://www.thehatedcrew.com</ReleaseNotes>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://gitlab.com/KhaineGB/darknessfallsa17client.git</Download>
+			</Downloads>
+			<Description>The Hated Crew PvE Darkness Falls 2.2</Description>
+		</Server>
+		<Server Name="The Hated Crew II PvE Ravenhearst" Logo="http://www.thehatedcrew.com/thcbanner.png">
+			<Address>162.248.91.42</Address>
+			<Port>26910</Port>
+			<Type>Public</Type>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<Admin>The Hated Crew</Admin>
+			<AdminContact>admin@thehatedcrew.com</AdminContact>
+			<WebSite>http://www.thehatedcrew.com</WebSite>
+			<ReleaseNotes>http://www.thehatedcrew.com</ReleaseNotes>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/rh_5_4_17_4_client.git</Download>
+			</Downloads>
+			<Description>The Hated Crew II PvE Ravenhearst 5.4.9</Description>
+		</Server>
+	</ServerGroup>
+</Servers>
