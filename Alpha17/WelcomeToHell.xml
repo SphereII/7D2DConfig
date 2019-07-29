@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="WelcomeToHell" Logo="" Description="">
+		<!--
 		<Server Name="WelcomeToHell A17.2" Logo="">
 			<Description>Welccome to The appocalypse mod: Not as hardcore as Welcome to hell mod In alpha 16.4, 
 			More realistic 
@@ -22,7 +23,7 @@
 				<Download>https://gitlab.com/army.bratt44/welcome-to-hell-a17.2-non-sdx</Download>
 			</Downloads>
 		</Server>
-
+-->
 		<Server Name="WelcomeToHell A17.4" Logo="">
 			<Description>Welccome to The appocalypse mod: Not as hardcore as Welcome to hell mod In alpha 16.4, 
 			More realistic 
