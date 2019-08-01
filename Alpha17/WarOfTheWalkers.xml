@@ -11,14 +11,14 @@
 				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.0.0-Beta/archive/master.zip</Download>
 			</Downloads>
 		</Server>
-		<Server Name="War of the Walkers Client" Logo="">
-			<Description>The War of the Walkers 6.x - Client Files Only. Requires connection to a War Of the Walkers Server
+		<Server Name="War of the Walkers CompoPack" Logo="">
+			<Description>The War of the Walkers 6.x Public Beta with COMPOPACK
 			</Description>
 			<Version/>
       <DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.0.0-Server-Github/archive/master.zip</Download>
+				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V6.X-Beta-CompoPack/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
