@@ -3,8 +3,8 @@
 	<ServerGroup Name="Fantasy Mod" Logo="" Description="">
 			<Server Name="Fantasy Mod" Logo="">
 			<Description>
-7 days to die Alpha 17.4  don´t 17.3 is to bugy
-Fantasy Mod v0.6.1
+7 days to die Alpha 17.4  
+Fantasy Mod v0.7.2 + Sorcery 
 		
 	ModInfo = Fantasy Mod
 	Name = Fantasy Mod
@@ -16,12 +16,13 @@ Fantasy Mod v0.6.1
 	Es trifft das Mittelalter auf Moderne überreste
 	Beim ersten  mal solltet Ihr auf die einfachste Schwierigkeitsstufe starten.
 	!!! nur Random Map mit eigenen Gebäuden. kein Navezgane und sehr lange ladezeit  !!!
-	ModInfo = Sorcery  v0.7.6	
+	ModInfo = Sorcery  v0.806	
 	Name = Sorcery
 	Author = Devrix
 	Website = " https://7daystodie.com/forums/showthread.php?109145-Sorcery "
 	Bringt Magie ins Spiel mit tollen Effekten und macht den Fantasy Mod um einiges besser.
 	großen Dank an Devrix das ich seinen Mod gleich mit in den Download packen darf. 
+	weitere Mods sind die von sphereii und Xyth 
 
 Fantasy Mod + Sorcery 
 	ModInfo = Fantasy Mod
@@ -34,27 +35,20 @@ Fantasy Mod + Sorcery
 	medieval meets modern remains
 	The first time you should start on the simplest difficulty level.
 	!!! only random map with own buildings. no Navezgane and very long loading time !!!
-	ModInfo = Sorcery  v0.7.6
+	ModInfo = Sorcery  v0.806
 	Name = Sorcery
 	Author = Devrix
 	Website = "https://7daystodie.com/forums/showthread.php?109145-Sorcery"
 	Brings magic into the game with great effects and makes the Fantasy Mod a lot better.
-Thanks a lot to Devrix for allowing me to include his mod in the download.
-Und meinen Dank an alle die mich beim Mod unterstützt haben.
-And my thanks to all who supported me in the mod.
+	Thanks a lot to Devrix for allowing me to include his mod in the download.
+	And my thanks to all who supported me in the mod.
+	other mods are those of sphereii and Xyth 
 
-Other mods are included with.
-
-Mods from sphereii	you find here	https://github.com/SphereII/SphereII.Mods
-SDX_SpawnFromEntityGroup   --  sphereii
-SDX_EntityAliveSDX		   --  sphereii		
-SphereII_UnlockHealthBar   --  sphereii		
-	
 And Thanks for help by create prefabs 
 chiko(ちぃちぃ)
 Hohi
 			</Description>
-			<Version>0.6</Version>
+			<Version>0.7.2</Version>
 			<ReleaseNotes>https://discord.gg/NnCm7nD</ReleaseNotes>
 			<Downloads>
 			<Download>http://217.79.178.78/FantasyMod_Sorcery.zip</Download>
