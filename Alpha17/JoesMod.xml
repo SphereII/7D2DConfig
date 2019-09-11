@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="JoesMods" >
+	
+		<Server Name="JoesMod" >
+			<Description>JoesMod is an overhaul mod with many quality of life updates. Mainly focused on filling out alot of the gaps in the base game progression. Vanilla with sprinkles effect
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<Downloads>
+				<Download>https://github.com/chaosModelTheory/JoesMod/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	
+	</ServerGroup>
+</Servers>
+
