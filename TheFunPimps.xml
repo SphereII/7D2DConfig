@@ -166,6 +166,31 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			</Downloads>
 		</Server>				
 
+				<Server Name="Alpha 9.3" Logo="" >
+			<Description>The Fun Pimps' 7 Days to Die
+Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 9.3
+
+Downloading using the Advanced Mode, and Select Install From Steam.	  
+			</Description>
+			<RSS/>
+			<Version>alpha9.3</Version>
+			<ReleaseNotes/>
+			<Downloads>
+			</Downloads>
+		</Server>				
+		<Server Name="Alpha 8.8" Logo="" >
+			<Description>The Fun Pimps' 7 Days to Die
+Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 8.8
+
+Downloading using the Advanced Mode, and Select Install From Steam.	  
+			</Description>
+			<RSS/>
+			<Version>alpha8.8</Version>
+			<ReleaseNotes/>
+			<Downloads>
+			</Downloads>
+		</Server>				
+
 
 		<Server Name="latest_experimental" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
