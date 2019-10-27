@@ -1,3 +1,6 @@
+New Update: 2.0.90
+ - Updated DMT version
+ 
 New Update: 2.0.89
  - Added Branch feature for github clones
  
