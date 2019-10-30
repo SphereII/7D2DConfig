@@ -4,10 +4,11 @@
       <Server Name="Graff Mod" Logo="">
          <Description>This modlet Is public beta However once a18 goes stable It will be updated Be advised there will be issues with the mod There ARE more Biome spawns  This mod Is Adding A storyline And storyline will be updated Once the stable version of alpha 18 comes out Please play test this mod and Give feedback You can also find me  on twitch at http://www.twitch.tv/graffic  stop in and have a look at what awesome things myself and my mods are doing with this mod a special thanks to The fun Pimps for Their hard work and dedication and to the modding community for their Continued support Enjoy
 	 </Description>
+	 <DownloadMode>Clone</DownloadMode>
 	 <Version>Latest</Version>
          <ReleaseNotes>http://www.twitch.tv/graffic</ReleaseNotes>
          <Downloads>
-            <Download>https://gitlab.com/army.bratt44/graffic-mod-alpha-18-expermental-public-beta/tree/master</Download>
+            <Download>https://gitlab.com/army.bratt44/graffic-mod-alpha-18-expermental-public-beta</Download>
          </Downloads>
       </Server>
    </ServerGroup>
