@@ -1,3 +1,9 @@
+New Update: 2.1.1
+ - Fast load times
+ - More responsive Modlets screen
+ - Off-line support
+ - More reliable Modlet views
+ 
 New Update: 2.0.90
  - Updated DMT version
  
