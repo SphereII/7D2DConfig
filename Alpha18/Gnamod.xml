@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+<ServerGroup Name="Gnamod" Logo="" Description="So what is Gnamod?
+Over the years Gnamod has grown from one mod into a series of mods and modes that generally offer a challenging gameplay to people or highlight a certain type of gameplay. For A17 and beyond the aim is to bring back most if not all of the modes that existed before. This includes Core, Survival, Horde Mode, Last Stand, Necropolis and Nomad Mode. The mod is mostly xml driven but since A17 added support for easily importing external Unity assets those are being used as well. Gnamod also comes with it's own UI from now, which was released also as stand alone.
+
+Gnamod will come in some different forms and when available will be added to this list. 
+Stable: Means it will only recieve updates from now on when a minor or major version has been released that is tested and balanced enough for long term play. New versions will be announced on the forums.
+Dev: Means the version will recieve updates whenever something is ready for testing, this will happen without warning.
+Legacy: Means it is an older version that is no longer being worked on, most likely for an older Alpha. I intend to leave the last working version of an alpha to be available for a while.
+">
+<!-- A18 Dev -->
+<Server Name="Gnamod Core (Dev)" Logo="">
+<Description>
+===============Current Version 0.6.0===============
+WARNING A18 Experimental Version. This version is under development to port over to A18. Does not work with A17.
+
+</Description>
+<ReleaseNotes>https://7daystodie.com/forums/showthread.php?120925-Gnamod</ReleaseNotes>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>
+<DownloadMode>Clone</DownloadMode>
+<Downloads> 
+<Download>https://Gnamod@dev.azure.com/Gnamod/Core/_git/Dev</Download>
+<Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download>
+</Downloads>
+</Server>
+<Server Name="Gnamod UI (Dev)" Logo="">
+<Description>
+===============Current Version 0.6.0===============
+WARNING A18 Experimental Version. This version is under development to port over to A18. Does not work with A17.
+
+</Description>
+<ReleaseNotes>https://7daystodie.com/forums/showthread.php?119858-Gnamod-UI</ReleaseNotes>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>
+<DownloadMode>Clone</DownloadMode>
+<Downloads> <Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download> </Downloads>
+</Server>
+</ServerGroup>
+</Servers>
