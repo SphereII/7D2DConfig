@@ -1,3 +1,7 @@
+New Update: 2.1.9
+ - Fixed Database locking issue
+ - Fixed Locally installed Mods
+ 
 New Update: 2.1.6
  - Added mirror for database
  - fixed mod.xml not being picked up
