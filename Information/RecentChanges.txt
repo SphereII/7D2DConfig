@@ -1,3 +1,9 @@
+New Update: 2.1.11
+ - Fixed Installed Mods shortcut
+ - Fixed Modlet dependency download
+ - Added troubleshooting for Database Downloads
+ - Added clearing of Steam cache to download correct version
+ 
 New Update: 2.1.9
  - Fixed Database locking issue
  - Fixed Locally installed Mods
