@@ -11,6 +11,7 @@
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/SphereII/WinterProject-2019</Download>
+				<Download>https://gitlab.com/sphereii/winter-project-2019</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
