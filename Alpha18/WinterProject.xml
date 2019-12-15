@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental DMT Builds">
+		<Server Name="Winter Project" Logo="">
+			<Description>
+			Winter Project 2019
+			</Description>
+				<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/SphereII/WinterProject-2019</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+
+</Servers>
