@@ -9,8 +9,8 @@
 			<RSS/>
 				<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
-				<Exclude>/obj/</Exclude>
-				<Exclude>/bin/</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
 			</Excludes>
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
