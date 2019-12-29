@@ -1,3 +1,7 @@
+New Update: 2.1.12
+ - Fixed the Download From Steam option
+ - Added more resistant code for database download ( selected index error )
+ 
 New Update: 2.1.11
  - Fixed Installed Mods shortcut
  - Fixed Modlet dependency download
