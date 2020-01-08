@@ -33,7 +33,7 @@ Special thanks goes to Mumpfy for his texturing work.
 				<Version>Latest</Version>
 			<RSS/>
 				<Excludes>
-				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
 				<Exclude>\obj\</Exclude>
 				<Exclude>\bin\</Exclude>
 			</Excludes>
