@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental DMT Builds">
+		<Server Name="Winter Project" Logo="">
+			<Description>
+Welcome to the Winter Project 2019 by sphereii and xyth
+
+After many delays, the Winter Project 2019 arrived just in time to be fashionably late. 
+
+Enter in our cold and unforgiving world buried under a snow apocalypse. Find new challenges as you explore the desolate icy wasteland.
+
+In order to generate the world properly, please use the pre-generated worlds:
+
+	Winter Project 4K
+	Winter Project 6K
+	Winter Project 8K
+		
+
+Thank you to the following Modlet creators who helped shape out the world with their modlets:
+	Donovan's Better Bridges, Better Spears, Craft Jail and Craft Spikes modlets.
+	TormentedEmu's GUI Manager for Localization support for A18.2
+	JaxTeller718 for his Charcola, Eggs in Fridges, More Feathers, Working Stoves and Zombie Hand Adjustments
+	Mean Cloud's Scrap Bone Knives
+	Atlas' More Vanilla Food
+	Oignon's Vehicles Pack, Sittable Furniture
+	bdubyah's Rebar Club, and Wasteland Weapons
+	Stallionsden's Lootable Objects, Store Shelves, and his prots of Valmar's Expanded ammo types and cooking bowls
+	War2zuk's Disassemble Ammo
+
+Special thanks goes to Mumpfy for his texturing work.
+
+			</Description>
+				<Version>Latest</Version>
+			<RSS/>
+				<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/SphereII/WinterProject-2019</Download>
+				<Download>https://gitlab.com/sphereii/winter-project-2019</Download>
+			</Downloads>
+		</Server>
+		
+		
+
+	</ServerGroup>
+
+</Servers>
