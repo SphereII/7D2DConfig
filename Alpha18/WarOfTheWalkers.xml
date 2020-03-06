@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="War Of the Walkers" Logo="" Description="War of the Walkers">
+			<Server Name="War of the Walkers v7 Beta" Logo="">
+			<Description>The War of the Walkers 7.x - Public Beta
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?53190-War-of-the-Walkers-Mod-(Overhaul)</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V7/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
