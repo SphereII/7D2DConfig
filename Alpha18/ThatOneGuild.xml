@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="ThatOneGuild Overhaul" Logo="" Description="">
+		<Server Name="TOG Farm Horde" Logo="">
+			<Description>
+
+
+The following Pre-generated worlds are provided for faster loads:
+    CitiesMegeh
+    
+    
+Thank you to the following Modlet creators who helped shape out the world with their modlets:
+	Xyth for CCTV,Fun with Flags
+	Xyth/Drconfused for SteelBars
+	XythCommunity for CreaturePack Animals
+	308 For the 3 Slot Forge Input
+	Devrix for DeepPockets
+	EpicSpire for Vitamin Crafting
+	Guppycur for the Commcercial Blocks,Kitchen,Hospital,Misc,Misc2,Victorian Furniture
+	HighHope for MoreVehicleSeats
+	ShoudenKalferas for Pickup Plants
+	Zagan aka Lucifer for Tier6 Crafting
+	Lam for Vehicle Storage Mod
+	War3zuk for AIO Mod,Healing Bedroll
+	Squallz for Wireless Power
+	Lam for Solar Generator Power
+	bdubyah for Bdubs Vehicles
+	Stallionsden for No Digging Zombies
+	JaxTeller718 for Zombie Hand Adjustment
+	dcsobral for No Glancing Blows
+	Valmar for Expanded Traps,Working Sink and Oven, Survivor Notes,Door Lock Smash
+	stasis for FarmLifeV2
+	Ragsy for Better Gyro Handling,Take Out The Trash
+	lam for GoldDigger
+	
+
+
+			</Description>
+				<Version>Latest</Version>
+			<RSS/>
+				<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://gitlab.com/DeafCHIMP/tog-7dtd-modpack</Download>
+			</Downloads>
+		</Server>
+		
+		
+
+	</ServerGroup>
+
+</Servers>
