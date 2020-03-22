@@ -1,3 +1,8 @@
+New Update: 2.1.16
+ - Fixed Enabled / Disabled Modlets from being reset from user preference
+ - Improved error handling for SharpSVN.dll error
+ - Fixed incorrect log setting ( 7DaysToDie_Data\output_log.txt should work)
+ 
 New Update: 2.1.12
  - Fixed the Download From Steam option
  - Added more resistant code for database download ( selected index error )
