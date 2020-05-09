@@ -44,9 +44,9 @@ Credits
 *thanks to Snukfin and Robeloto for new zombies and questsounds
 
 *and everyone else I forgot			</Description>
-				<Version>Latest</Version>
+			<Version>Latest</Version>
 			<RSS/>
-				<Excludes>
+			<Excludes>
 				<Exclude>7DaysToDieServer_Data</Exclude>
 				<Exclude>/obj/</Exclude>
 				<Exclude>/bin/</Exclude>
@@ -55,6 +55,59 @@ Credits
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://git.memolp.de/MeMoLP/ExcitusXtremeV2</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="ExcitusXtremeV3" Logo="">
+			<Description>
+ExcitusXtreme (V3)
+Attention this version of ExcitusXtreme only runs under Alpha18.4 Stable
+*IMPORTANT!! You need start New Random World. You have all the Prefabs in your Random Wolrd
+
+ExcitusXtreme V3 is a very hard MOD with many surprises. The new V3 is even harder than the V2. Many new items and blocks have been added.
+
+installation Server
+download the link below and copy it in this structure on your server
+
+https://git.memolp.de/MeMoLP/ExcitusXtremeV3/archive/master.zip
+
+*Description
+
+You can find support and descriptions at: https://memolp.de
+
+Information for this version can you find under: https://memolp.de/forum/main-forum
+
+Credits
+thanks to Nachtschatten and Houzi for helping
+
+thanks to guppy for new zombies and green eyes and more
+
+thanks to Bdubs for Vehicles
+
+thanks to Scomar82 for Disamble Ammo
+
+thanks to Macinvisible and Zyncosa for the nice new Traders
+
+thanks to Xyth for Animals
+
+thanks to Claymore for Stainless Steel back
+
+thanks to MeanCloud for Cooper and Zink
+
+thanks to Snukfin and Robeloto for new zombies and questsounds
+
+and everyone else I forgot	</Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>/obj/</Exclude>
+				<Exclude>/bin/</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://git.memolp.de/MeMoLP/ExcitusXtremeV3</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
