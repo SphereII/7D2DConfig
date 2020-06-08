@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="ThatOneGuild Overhaul" Logo="" Description="">
-		<Server Name="TOG Farm Horde" Logo="">
+	<ServerGroup Name="Zombiedayz" Logo="" Description="">
+		<Server Name="Zombiedayz - stable" Logo="">
 			<Description>
 
 
@@ -46,7 +46,7 @@ Thank you to the following Modlet creators who helped shape out the world with t
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://gitlab.com/DeafCHIMP/tog-7dtd-modpack</Download>
+				<Download>https://gitlab.com/DeafCHIMP/zombiedayz</Download>
 			</Downloads>
 		</Server>
 		
