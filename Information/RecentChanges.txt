@@ -1,3 +1,8 @@
+New Update: 2.1.20
+- Added Experimental Git Support
+- Added performance enhancement for Modlets
+- New support for DMT A19
+
 New Update: 2.1.16
  - Fixed Enabled / Disabled Modlets from being reset from user preference
  - Improved error handling for SharpSVN.dll error
