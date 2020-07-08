@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental DMT Builds">
+		<Server Name="Performance Mod" Logo="">
+			<Description>
+Experimental mod to improve performance. 			
+
+This has the potential to drastically improve your FPS in-game, at the expense of using legacy distant terrain. Jumps of up to 30 to 60 FPS has been experienced. This is NOT an EAC safe mod.
+			</Description>
+				<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<Downloads>
+				<Download>https://raw.githubusercontent.com/7D2DMods/Profiles/master/PerformanceTest.txt</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+
+</Servers>

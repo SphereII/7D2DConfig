@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="War3zuk" Logo="" Description="">
+      <Server Name="War3zuk Alpha 19 AIO OverHaul" Logo="">
+         <Description>
+LINK BELOW IS FOR THOSE WHO ENJOY THE MOD AND WISH TO DONATE TO SAY THANKS https://tinyurl.com/ycl6w9qj
+
+War3zuk Alpha 19 AIO OverHaul
+
+What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons All of which have been bought from various stores to try to get the best looking and playing Mod I can manage, Its constantly being worked on and improved and should always be kept upto date with the latest version of the main core game, The AIO also adds many Blocks and Different items that require abit more learning in order to understand how it all works, A good example of this is the main weapons are no longer repaired using the default repair kits but instead use 4 Custom made varients that are crafted on the player to do with each type of gun.. The link above explains the Mod in much more detail.. Some of My Original Modlets that were used to create this AIO are as follows.. Around 20 or so more have been added directly to the AIO that cant be made into Modlets due to them needing certain bits of code from the AIO so would cause Conflicts..
+
+https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/
+
+Thank you to the following Modlet creators who helped shape out the world with their modlets:
+
+Bdubyah......................... BDubs Vehicles Pack 
+Khelldon........................ Screamer Bears 
+Sirillion....................... SMX UI System 
+Xipher7934...................... Health Halo (Updated, edited And integrated into the AIO for compatibility)
+
+Main War3zuk Overhaul Is As Follows.. War3zuk Alpha 19 AIO
+
+Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
+
+These Are Included In A Seprate Modlet So They Can Be Removed If Needed and Fall under the same Rules of agreement along with all Modlets starting with War3zuk. War3zuk Paintings XXX 2x3 War3zuk Suicide girls XXX
+
+License And Terms Of Use
+
+All files, Code, Models And Assets are soley bought And owned by myself War3zuk, You are free to download And play in Single Player, Your are also allowed to Upload those Files to a server in order to play Online Assuming you own a Legal Copy of the game (7 Days To Die)
+
+You are NOT Permitted to Alter any Code, Change or Rename any Models or Redistrabute without the Express permission of myself, War3zuk
+
+All mods released by Myself, War3zuk, will always start with War3zuk in its Folder Name, such as War3zuk Alpha 19 AIO. Users of War3zuk Alpha 19 AIO are also free to tailor their experience to their needs by altering the XML files. When hosting a server or game with such altered contents But Due to the Models being Held under Unity's Single User License and Being Owned by Me, War3zuk you are NOT permitted to Share these modifications without expression permission of myself, War3zuk. You MUST seek permission from myself before files, Code, Models or Assets that are contained within my Overhaul are shared other than on your PC or on a Dedicated server for private use.
+
+Users are NOT allowed to take the code from this mod to add to another mod in any way without first asking Me, War3zuk For explicit permission. This applies too taking (parts of) the code, XML or assets as well as altered versions of these. War3zuk is intended to be used as is and not to be broken down or redistributed in an altered form unless you have explplicit permission. This includes adding any part of War3zuk into any kind of overhaul mod or mod collection pack.
+
+All Rights Reserved, 2018,2019,2020..
+	 </Description>
+	      <DownloadMode>Clone</DownloadMode>
+	 <Version>Latest</Version>
+         <ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
+         <Downloads>
+			<Download>https://github.com/War3zuk/War3zuk-Alpha-19-AIO-Mod-Launcher</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
