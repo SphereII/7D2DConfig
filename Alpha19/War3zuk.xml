@@ -2,7 +2,8 @@
 <Servers>
    <ServerGroup Name="War3zuk" Logo="" Description="">
       <Server Name="War3zuk Alpha 19 AIO OverHaul" Logo="">
-         <Description>LINK BELOW IS FOR THOSE WHO ENJOY THE MOD AND WISH TO DONATE TO SAY THANKS
+         <Description>
+LINK BELOW IS FOR THOSE WHO ENJOY THE MOD AND WISH TO DONATE TO SAY THANKS
 https://tinyurl.com/ya4o2xvp
 
 War3zuk Alpha 19 AIO OverHaul
@@ -24,13 +25,15 @@ Bdubyah......................... BDubs Vehicles Pack,BDubs Nuka Colas
 Khelldon........................ Screamer Bears
 Sirillion....................... SMX UI System
 Éric Beaudon.................... Laotseu Moto Alt (Stripped Down Motorbike)
+Bison33......................... Zombie Phantom
+Valmar.......................... Valmars Buffed Crates Edited For Launcher
 
 Main War3zuk Overhaul Is As Follows..
 War3zuk Alpha 19 AIO
 
-Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the In-game Random Gen which uses a Modified Compo Pack RWGMixer file
+Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the In game Random Gen which uses a Modified Compo Pack RWGMixer file
 
-These Are Included In A Separate Modlet So They Can Be Removed If Needed and Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
+These Are Included In A Seprate Modlet So They Can Be Removed If Needed And Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
 War3zuk Paintings XXX 2x3
 War3zuk Suicide girls XXX
 War3zuk Extra Deco Ore
@@ -45,7 +48,7 @@ to Upload those Files to a server in order to play Online Assuming you own a Leg
 
 3) All mods released by Myself, War3zuk, will always start with War3zuk in its Folder Name, such as War3zuk Alpha 19 AIO.
 Users of War3zuk Alpha 19 AIO are also free to tailor their experience to their needs by altering the XML files. When hosting a server or game with such altered
-contents But Due to the Models being Held under Unity's Single User License and Being Owned by Me, War3zuk you are NOT permitted to Share these modifications without
+contents But Due to the Models being Held under Unity's Single User License And Being Owned by Me, War3zuk you are NOT permitted to Share these modifications without
 expression permission of myself, War3zuk. You MUST seek permission from myself before files, Code, Models or Assets that are contained within my Overhaul are
 shared other than on your PC or on a Dedicated server for private use.
 
@@ -53,8 +56,7 @@ shared other than on your PC or on a Dedicated server for private use.
 too taking (parts of) the code, XML or assets as well as altered versions of these. War3zuk is intended to be used as is and not to be broken down or redistributed
 in an altered form unless you have explicit permission. This includes adding any part of War3zuk into any kind of overhaul mod or mod collection pack.
 
-All Rights Reserved, 2018,2019,2020..
-	 </Description>
+All Rights Reserved, 2018,2019,2020..	 </Description>
 	      <DownloadMode>Clone</DownloadMode>
 	 <Version>Latest</Version>
          <ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
