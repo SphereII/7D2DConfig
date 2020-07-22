@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental DMT Builds">
-		<Server Name="Performance Mod" Logo="">
+		<Server Name="Performance Mod A19" Logo="">
 			<Description>
 Experimental mod to improve performance. 			
 
 This has the potential to drastically improve your FPS in-game, at the expense of using legacy distant terrain. Jumps of up to 30 to 60 FPS has been experienced. This is NOT an EAC safe mod.
+
+This version also turns all Terrain Textures to low ( you probably won't notice, but your FPS will thank you )
 			</Description>
-				<Version>Latest</Version>
+			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://raw.githubusercontent.com/7D2DMods/Profiles/master/PerformanceTest.txt</Download>
+				<Download>https://github.com/SphereII/PerformanceMod</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Fun With Caves" Logo="">
+			<Description>
+An unbalanced mod that introduces cave systems! Caves are all under neath you! This also includes the Performance Mod.
+			</Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/SphereII/FunWithCaves</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
