@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sergant1000" Logo="" Description="">
+		<Server Name="Experimental Recipes" Logo="">
+			<Description>
+Experimental Recipes mod for: improving gameplay, expanding the range of blocks, items, zombies, traps, additions and expansion
+variations of recipes, weapons, non-standard systems, etc. This mod brings the alpha game to a more playable form.
+			</Description>
+				<Version>latest_experimental</Version>
+			<RSS/>
+				<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://gitlab.com/Sergant1000/experimental-recipes</Download>
+			</Downloads>
+		</Server>
+		
+		
+
+	</ServerGroup>
+
+</Servers>
