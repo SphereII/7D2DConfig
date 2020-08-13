@@ -1,3 +1,7 @@
+New Update: 2.1.22
+- Fixed issue with some modlets not being installed
+- Fixed where Navezgane world files were being over-written
+
 New Update: 2.1.20
 - Added Experimental Git Support
 - Added performance enhancement for Modlets
