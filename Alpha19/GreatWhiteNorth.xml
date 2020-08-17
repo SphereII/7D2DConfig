@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Great White North" Logo="" Description="Great White North Server">
+		<Server Name="Great White North Server" Logo="">
+			<Description>All the mods needed to play on the Great White North server
+
+Special thanks to the following people for making these awesome mods!  If I leave anyone out by accident, let me know.
+
+Discord: Discord: https://discord.gg/zpvGNTu
+
+Ana - vehicle respawner
+Epic Spire - mod slot boost
+Khaine - 3 Slot forge
+       - 12 slot crafting queue
+       - 96 slot backpack
+       - log spikes
+       - HP Bars
+XythCommunityProject - For the animal, humane, and mech creature packs
+Bdubs - for the awesome vehicles mod
+Dough - Rabbit of Caerbannog
+DragonSoldierGJ - Food and drink recipe mod
+Stample - Dr. Prepper drink
+        - Frobscottle
+	- Mutations mod (skill point)
+	- Naked Gator
+Xyth 	- Fun with flags
+	- Radios (placable in game)
+	- Zombie pinups
+Gouki - GK storage
+Gyancher - Working ice machine
+         - Coffee
+Ragsy2145 - Hang glider
+Jax Teller	- Charcoal
+		- Iron Ore
+		- Less forest deco
+		- Trash destroys on loot
+		- Working microwave
+Karoti - Junction box for invisible wire
+Khelldon - Baby bears (so cute)
+Kodiak420 - Lootable zombies
+Erik3227 - Lootable medbox found in the wild
+Noblegases - Noble's Food plus
+PhDGaming - PhD better 30K stacks 1.4
+Russian Dood - grass cutter
+stedman420 - SimpleUI compass
+skullman678 - Skull lights (multi colour)
+Éric Beaudon - Spartan Blocks
+Stallion's Den	- Everything is sellable
+		- Extra recipes
+		- Lootable Objects
+		- Mining machine and raid catcher
+		- No armor encumberance
+		- Weapons
+		- I had to mod the mining machine to just give items like
+		  resource...  People were complaining/having issues with
+		  the ore being looted
+Xyth/Drconfused/Rewtrg - Steel bars
+Tallon - Generic ammo set mod
+Telric - Horses and Spiders
+HN - Unnecessary but Beautiful (using the 18.3 version, but it seems to work)
+Valmar	- Animal snars
+	- Auto walls
+	- Buffed supply crates
+	- Disable falling trees
+	- Expanded player storage
+	- Expanded traps
+	- Starter class system
+	- Working ovens and sinks
+	- Zombie pinups
+
+I seriously can't thank you all enough.  You have inspired me to make my own mods, start a server 4 years ago, etc.  Keep up the great work!!
+			</Description>
+			<Version>latest_experimental</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/Schizo69/Great-White-North-mods</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+
+</Servers>
