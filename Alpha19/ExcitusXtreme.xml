@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="ExcitusXtreme" Logo="" Description="">
+		<Server Name="ExcitusXtremeV4" Logo="">
+			<Description>
+ExcitusXtremeV4
+Attention this version of ExcitusXtreme only runs under Alpha19 Stable
+*IMPORTANT!! You need start own map (ExcitusXtreme8K) or new random world You have not all the Prefabs in your Random World but in own map
+
+installation Server
+download the link below and copy it in this structure on your server
+
+https://git.memolp.de/MeMoLP/ExcitusXtremeV4
+
+Description
+*V4 takes place in germany. Cars, POIs are like in Germany *over 110 new POIs *Biger Backpack *Completly new Loot Tempaltes *New Zombies *Powerfull Auger Nailgun... *Radiation *Snake Venom *Walk different on Biomes *New German Weapons G36, MP7, P99 *New Worbenches, Campfires, Forge... *New vegetables *New Food *New Agriculture with pigs, cows... *and a lot more
+
+You can find support and descriptions at: https://memolp.de
+
+Information for this version can you find under: https://memolp.de/forum/excitusxtreme/release
+
+Credits
+*thanks to Houzi, Fuffel, RactonLP LiiirumLarum *MeanCloud for Cooper and Zink *Sirillion for Z2 – HUD *and everyone else I forgot
+
+ </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>/obj/</Exclude>
+				<Exclude>/bin/</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://git.memolp.de/MeMoLP/ExcitusXtremeV4</Download>
+			</Downloads>
+		</Server>
+
+</ServerGroup>
+
+</Servers>
