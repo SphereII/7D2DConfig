@@ -1,5 +1,6 @@
 Latest
 latest_experimental
+alpha19.0
 alpha18.4
 alpha18.3
 alpha18.2
