@@ -1,3 +1,8 @@
+New Update: 2.1.23
+- Upload Log Files works again (oops)
+- Installed Mods should show up now (oops)
+- Overhaul Mods are read dynamically, rather than database backed. ( to work around the disappearing gitlab mods )
+
 New Update: 2.1.22
 - Fixed issue with some modlets not being installed
 - Fixed where Navezgane world files were being over-written
