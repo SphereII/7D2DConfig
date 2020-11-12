@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Apocalypse Now" Logo="" Description="">
+		<Server Name="Apocalypse Now" Logo="">
+			<Description>
+HP/Stamina Goes up to 300 
+
+•For every level you gain, your gamestage is increased with 2.4 instead of the 1.2 you gain in vanilla.
+
+• Added Ton of zombies and Hostile AnimalsAnimal
+
+• re-done horde-nights/sleepers/screamer hordes
+
+• Custom roaming hordes 
+
+• Toilet pistols are back + double shotgun
+
+• Night time is scary now Weak radiated zombies will show up
+• made the candy craftable 
+(to unlock it you need Master Chef Third perk)
+• Added Scrap tools/scarp iron club
+• added Stainless steel/scrap iron bars and steel bars
+• change Night vision Goggles color from green to red
+• Lowered all Armor Physical Resistance/Elemental Resistance
+so you won't be Immortal anymore
+• nerfed the amount of ammo you find it in loot 
+• crafting ammo now is much cheaper			
+			</Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/hamzahiary/ApocalypseModA19.2</Download>
+			</Downloads>
+		</Server>
+
+
+
+	</ServerGroup>
+
+</Servers>
