@@ -3,6 +3,9 @@
    <ServerGroup Name="War3zuk" Logo="" Description="">
       <Server Name="War3zuk Alpha 19 AIO OverHaul" Logo="">
          <Description>
+Re-Built the Gitlab Repo as I think it became Corrupt And was only grabbing a few hundred megs of the overhaul by accident.. Im working on
+making sure this all works so if for some reason it doesnt ill keep trying until it all works..
+
 LINK BELOW IS FOR THOSE WHO ENJOY THE MOD AND WISH TO DONATE TO SAY THANKS
 https://tinyurl.com/ya4o2xvp
 
@@ -35,7 +38,7 @@ Telric.......................... Telrics Iron Gates
 Main War3zuk Overhaul Is As Follows..
 War3zuk Alpha 19 AIO
 
-Included are around 30 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
+Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
 
 These Are Included In A Seprate Modlet So They Can Be Removed If Needed And Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
 War3zuk Paintings XXX 2x3
@@ -60,12 +63,13 @@ shared other than on your PC or on a Dedicated server for private use.
 too taking (parts of) the code, XML or assets as well as altered versions of these. War3zuk is intended to be used as is and not to be broken down or redistributed
 in an altered form unless you have explplicit permission. This includes adding any part of War3zuk into any kind of overhaul mod or mod collection pack.
 
-All Rights Reserved, 2018,2019,2020..	 </Description>
+All Rights Reserved, 2018,2019,2020.2021.
+	      </Description>
 	      <DownloadMode>Clone</DownloadMode>
 	 <Version>Latest</Version>
          <ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
          <Downloads>
-			<Download>https://github.com/War3zuk/War3zuk-Alpha-19-AIO-Mod-Launcher_2021_Mirror</Download>
+			<Download>https://gitlab.com/war3zuk/war3zuk-alpha-19-aio-mod-launcher_2021</Download>
          </Downloads>
 
       </Server>
