@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Darkness Falls" Logo="https://i.imgur.com/4kjLtAE.jpg" Description="">
+
+		<Server Name="Darkness Falls2" Logo="https://i.imgur.com/4kjLtAE.jpg">
+			<Description>
+This is a mod I originally created to fix a few "issues" myself, my wife and some friends felt the game had. Turns out I really enjoy modding so I've expanded on it quite a bit.
+
+Features.
+
+8 Classes to choose from, with 6 quests each! (Class quests take approx 60 mins to finish if you grind hard)
+Rewritten progression system compared to A17.
+Return of Action Skills!
+96 Slot Bigger back pack! 
+12 slot crafting queue!
+Custom UI. Health and Stamina on the left of the toolbelt, Food and Water on the right.
+
+7DTD Version Required: 19.3 Stable.
+Current Mod Version: 3.3
+			</Description>
+			<EAC>Disabled</EAC>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?80827-Darkness-Falls-They-mostly-come-out-at-night</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/KhaineGB/darknessfallsa19client.git</Download>
+			</Downloads> 
+			<AltDownload>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA19Client/_git/DarknessFallsA19Client</AltDownload>
+		</Server>
+		<!--
+		<Server Name="DF Experimental" Logo="https://i.imgur.com/4kjLtAE.jpg">
+			<Description>
+Experimental version of the Darkness Falls mod.
+
+DO NOT PLAY THIS IF YOU ARE NOT HAPPY WITH REGULAR, POSSIBLY GAME-BREAKING UPDATES.
+
+7DTD Version Required: 18.4 Stable.
+Current Mod Version: V2.51-DEV-B2
+			</Description>
+			<EAC>Disabled</EAC>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?80827-Darkness-Falls-They-mostly-come-out-at-night</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/KhaineGB/dfexperimentala18client.git</Download>
+			</Downloads>
+		</Server> -->
+	
+	</ServerGroup>
+</Servers>
+
