@@ -3,35 +3,96 @@
 	<ServerGroup Name="Apocalypse Now" Logo="" Description="">
 		<Server Name="Apocalypse Now" Logo="">
 			<Description>
-HP/Stamina Goes up to 300 
+• HP/Stamina Goes up to 400 
 
-•For every level you gain, your gamestage is increased with 2.4 instead of the 1.2 you gain in vanilla.
+•For every level you gain, your game-stage is increased with 2.4 instead of the 1.2 you gain in vanilla.
 
-• Added Ton of zombies and Hostile AnimalsAnimal
+•The player Starts with 4 Starter Kits
 
-• re-done horde-nights/sleepers/screamer hordes
+• new list of zombies and Hostile Animals
 
-• Custom roaming hordes 
+• Re-done horde-nights/sleepers/screamer hordes
 
-• Toilet pistols are back + double shotgun
+• Custom Wandering hordes 
 
-• Night time is scary now Weak radiated zombies will show up
-• made the candy craftable 
+. the candy is craft-able now 
+
 (to unlock it you need Master Chef Third perk)
-• Added Scrap tools/scarp iron club
-• added Stainless steel/scrap iron bars and steel bars
+
+. Action skills are back!
+
+•All the progression Perks Locked with Player Level
+
+• New Custom Food/Drinks
+
+• Added High Tier guns and tools
+
+• Added Research System
+
+•Basic Survival has been shortened to Crafting your Bed-Roll And placing it down 
+
+• Added Scrap tools And melee weapons 
+
+• Added 12 Generated Maps with Combo-pack 47
+• Added Stainless steel And Titanium Blocks 
 • change Night vision Goggles color from green to red
-• Lowered all Armor Physical Resistance/Elemental Resistance
-so you won't be Immortal anymore
-• nerfed the amount of ammo you find it in loot 
-• crafting ammo now is much cheaper			
+• Added Higher Tier For heave and Light Armor 
+
+. Traders re-stock every 3 days
+
+. Traders Now is destructible and Open all the time
+• Added new Ammo and explosive types
+
+ 
+
+. Increased zombie spawn/respawn rate!
+
+special thanks to bdubyah ,Xyth,JaxTeller718,KhaineGB, Sirillion,Telric,Unforgiven,War3zuk
+
+for those great modlets :
+
+ 
+
+• Bdubs Vehicles
+
+• CCTV
+
+• JaxTeller718_CarRespawner
+
+• KHA19-3SlotForge
+
+• KHA19-12CraftQueue
+
+• KHA19-96BBM
+
+• KHA19-Hornet
+
+• KHA19-KillTracking
+
+• KHA19-LockableInvSlots
+
+• KHA19-PickupPlants
+
+• SMXhud
+
+• SMXlib
+
+• TelricsDecorationsPackA19
+
+• Unforgivens Trader Materials
+
+• War3zuk Extra Deco Ore
+
+• ZMXhudCP
+
+• ZMXhudCPTHB
 			</Description>
 			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/hamzahiary/ApocalypseModA19.2</Download>
+				<Download>https://gitlab.com/hiarythebest96/Apo-now-Mod-2-0</Download>
 			</Downloads>
 		</Server>
 
