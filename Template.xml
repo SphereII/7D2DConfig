@@ -5,6 +5,7 @@
          <Description>Describe the mod here!
 	 </Description>
 	 <Version>Latest</Version>
+	 <DownloadMode>Clone</DownloadMod>
          <ReleaseNotes>## FORUM LINK ##</ReleaseNotes>
          <Downloads>
             <Download>## FILE LINK##</Download>
