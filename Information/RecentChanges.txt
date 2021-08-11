@@ -1,3 +1,6 @@
+New Update: 2.1.26
+ - Fixed a bug with mis-copying of the world folders.
+
 New Update: 2.1.23
 - Upload Log Files works again (oops)
 - Installed Mods should show up now (oops)
