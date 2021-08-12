@@ -51,6 +51,12 @@ special Thanks to Bdubyah , Xyth , JaxTeller718 , KhaineGB , Sirillion , Mythix 
 			</Description>
 			<Version>Latest</Version>
 			<RSS/>
+				<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
+				<Exclude>\.vs\</Exclude>
+			</Excludes>
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
