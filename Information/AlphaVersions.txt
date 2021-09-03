@@ -6,13 +6,8 @@ alpha19.3
 alpha19.2
 alpha19.0
 alpha18.4
-alpha18.3
-alpha18.2
-alpha18.1
-alpha18.0
 alpha17.4
 alpha16.4
-alpha16.2
 alpha15.2
 alpha14.7
 alpha13.8
