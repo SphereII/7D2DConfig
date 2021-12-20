@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Survive Enter At Your Own Risk" Logo="" Description="">
+		<Server Name="Survive Enter At Your Own Risk A20Ex DEV Branch" Logo="">
+			<Description>
+Experimental A20 mod
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>latest_experimental</Version>
+			<Downloads>
+				<Download>https://gitlab.com/army.bratt44/unforgivens-a20-modlets</Download>
+			</Downloads>
+		</Server>
+
+	</ServerGroup>
+</Servers>
