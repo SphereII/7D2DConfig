@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Age of Oblivion" Logo="" Description="">
+      <Server Name="Age of Oblivion" Logo="">
+         <Description>
+Age of Oblivion Alpha 4 Overhaul
+
+Note: 3.0 will require a new save over the 2.8 
+		 
+This Mod is still in Development and you will most likely experience some bugs and a Balance issues.
+
+Update Information can be found at https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/  and on our Discord https://discord.gg/4UX3HZ7gka
+
+Teaser: https://youtu.be/6FYPlzEl_60
+
+Main Features:
+
+Farming and Food!
+Many more Workstations
+Vehicle Overhaul
+New Creatures
+
+
+3rd PArty Mods Included:
+
+White River Tools of Citizenship
+Firearms Expansion
+Community Creature packs
+
+	 </Description>
+	 <Version>Latest</Version>
+	 <DownloadMode>Clone</DownloadMode>
+         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
+         <Downloads>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A20_Latest</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
