@@ -1,4 +1,5 @@
 Alpha19,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha19/Default.xml
+Alpha20,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha20/Default.xml
 Alpha18,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha18/Default.xml
 Alpha17,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha17/Default.xml
 Alpha16,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Default.xml
