@@ -1,0 +1,39 @@
+<Servers>
+	<ServerGroup Name="sphereii-mental" Logo="https://i.imgur.com/a7cg70E.png" Description="">
+		<Server Name="Undead Legacy Experimental" Logo="">
+			<Description>
+Requirements:
+  A20.0 (b238) and Easy AntiCheat must be turned OFF.
+		  
+Features:
+  - Unique User Interface with advanced quality of life improvements
+  - Unique weight based encumbrance system with 300 backpack slots
+  - Advanced lockpicking minigame and repairable vehicle system
+  - Advanced progression and crafting system with research and action skills
+  - Advanced world interaction system when gathering liquids like water, fuel, coffee, beer etc
+  - Over 800 new items and blocks, including things like weapons, tools, resources, building blocks etc
+  
+Website:
+  https://ul.subquake.com
+  
+Discord:
+  https://discord.gg/bGd5QTreUf
+  
+Donations:
+  https://www.paypal.me/Subquake
+  https://www.patreon.com/subquake
+  
+			</Description>
+			<Version>Latest</Version>
+			<EAC>Disabled</EAC>
+			<ReleaseNotes>https://ul.subquake.com/patch-notes</ReleaseNotes>
+			<Downloads>
+				<Download>https://ul.subquake.com/dl?v=ml_exp</Download>
+				<Download>https://gitlab.com/Subquake/UndeadLegacyExperimental.git?BRanch=main</Download>
+			</Downloads>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+			</Excludes>
+		</Server>
+	</ServerGroup>
+</Servers>
