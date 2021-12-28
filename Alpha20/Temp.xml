@@ -29,7 +29,7 @@ Donations:
 			<ReleaseNotes>https://ul.subquake.com/patch-notes</ReleaseNotes>
 			<Downloads>
 				<Download>https://ul.subquake.com/dl?v=ml_exp</Download>
-				<Download>https://gitlab.com/Subquake/UndeadLegacyExperimental.git?BRanch=main</Download>
+				<Download>https://gitlab.com/Subquake/UndeadLegacyExperimental.git?Branch=main</Download>
 			</Downloads>
 			<Excludes>
 				<Exclude>7DaysToDieServer_Data\</Exclude>
