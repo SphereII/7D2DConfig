@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+
+	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png" Description="">
+		<Server Name="Better Vanilla A20" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
+			<Description>
+
+
+It’s time! The Better Vanilla is now also available for the Alpha 20!
+Those who already know the Better Vanilla from the A19 know what to expect.
+Here is a small selection of the changes:
+- Better Vanilla Interface
+- 160 Slot Inventory
+- 30k Itemstack
+- more options for setting up
+- Customized zombies
+- a zombie-navigator
+- Customized weapons and tools
+- Autominer / charcoal furnace
+- completely revised hunger, thirst, food system
+- No screaming and aggressive animals in the wild
+. . and many little things that make 7 days different. Nevertheless, the vanilla part is present.
+
+The Better Vanilla is supported in German and English.
+Have fun!
+https://discord.gg/qdwbN9VW87
+
+
+			</Description>
+				<Version>Latest</Version>
+			<RSS/>
+				<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+				<Exclude>\obj\</Exclude>
+				<Exclude>\bin\</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://dev.azure.com/DeftCHIMP/_git/Better%20Vanilla?Branch=main</Download>
+			</Downloads>
+		</Server>
+		
+		
+
+	</ServerGroup>
+
+	
+
+	
+</Servers>
