@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Grabbys" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Various mods from the community, hosted by 7Days2Mod.">
+   <ServerGroup Name="Grabbys2" Logo="http://7days2mod.com/images/mods/7d2d/banner_01_vanilla.jpg" Description="Various mods from the community, hosted by 7Days2Mod.">
       <Server Name="Valmod Overhaul" Logo="https://github.com/7days2mod/Valmod-Expansion/blob/master/Banner.png?raw=true">
          <Description>Valmar's Overhaul Mod
 This is a relatively large mod pack I've gradually created over time. It's mainly a collaboration of all my smaller mods placed together into one larger file.
