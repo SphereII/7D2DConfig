@@ -38,10 +38,13 @@ Community Creature packs
 	  
 	      <Server Name="Age of Oblivion Experimental" Logo="">
          <Description>
+
+Requires latest experimental version of the game!		 
+
 This is  an experimental release of the upcoming  Alpha 5 release of Age of Oblivion. This build is meant for testing purposes and  may updated often.  use only for testing purposes at your own Risk.    This new version will require that you Create a new map with the Mod installed to  make sure that the Custom Trader Outposts are generated correctly. A new game is required.   If you chosse to test this build please join our discord and provide feedback https://discord.gg/J6C8K6Xs5x  If you choose to stream or make content with this build please just make sure your audience is aware that this is a test build.
 
 	 </Description>
-	 <Version>Latest</Version>
+	 <Version>latest_experimental</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
