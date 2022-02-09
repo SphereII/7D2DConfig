@@ -1,0 +1,40 @@
+<Servers>
+  <ServerGroup Name="Asia Mod" Logo="">
+    <Server Name="Asia Mod">
+		<Description>
+Asia Mod / Total Conversion
+Version 1.01.04
+Official Discord: https://discord.gg/3ejU2Ff4K2
+
+Recommended: 16GB RAM or higher
+Required: Alpha 19.6
+AntiCheat: Must be turned off.
+			
+Welcome to the Asia Mod. 
+
+This is our first project for 7 Days to Die, so don't be too hard on us if things don't work quite clean yet. The mod is not completely finished yet, we still have a lot of ideas we would like to realize.
+
+We want to give you a game experience that goes back to the roots of survival. Without fully automatic weapons and flamethrowers. The mod is set in medieval Asia and accordingly there are hardly any ranged weapons. The katana is the best weapon here, a sword that could only be carried by samurai. Your opponents are not deformed creatures but undead farmers and warriors. TIP: Follow and Read the messages of the basic survival starter quest! If anything goes wrong, go to the trader.
+
+All original buildings were removed and replaced by us with suitable Asian buildings. Since our team is not very large, we can currently only offer a 4k map, as we want to keep the number of duplicate buildings as small as possible. 
+
+We hope that you like our work in which we have invested a lot of heart and passion.
+
+Banzai. Giving up is not an option.
+		</Description>
+		<Version>alpha19.6</Version>
+		<RSS/>
+		<Excludes>
+			<Exclude>7DaysToDieServer_Data\</Exclude>
+			<Exclude>7DaysToDieServer_Data Linux\</Exclude>
+		</Excludes>
+		<ReleaseNotes/>
+		<Discord>https://discord.gg/3ejU2Ff4K2</Discord>
+		<Donate/>
+                <DownloadMode>Clone</DownloadMode>
+		<Downloads>
+			<Download>https://AsiaMod@dev.azure.com/AsiaMod/Stable/_git/Stable_A19</Download>
+		</Downloads>	  
+    </Server>
+  </ServerGroup>
+</Servers>
