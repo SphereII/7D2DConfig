@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="ExcitusXtreme" Logo="" Description="">
+		<Server Name="ExcitusXtremeV5" Logo="">
+			<Description>
+ExcitusXtreme
+For 7 Days To Die Alpha 20
+ExcitusXtreme ist ein Mod der alle Spieler gruppen ansprechen soll. ExcitusXtreme is a mod that aims to appeal to all player groups.
+
+Server version Download here: https://dev.azure.com/MeMoLPLive/_git/ExcitusXtreme-Alpha20 Server Dateien
+Support: https://www.mehmets.info 
+
+Besonderheiten / particularities:
+İch empfehle mindestens 16 GB ram - I recommend at least 16 GB of ram
+Über 110 neue POI's - Over 110 new POIs
+Grössere Rucksack - Bigger backpack
+Lebensmittel verderben - Food spoils
+Zerbrochene boden strahlt Radioaktivität aus - Broken ground emits radioactivity
+Neue Perks Schneller Herstellen, bauen... - New Perks Faster crafting, building...
+Erweiterte Werkbank - Extended workbench
+Erweiterte Schmiede - Advanced Forge
+Erweiterte Wrench - Extended Wrench
+Waffenwerbank - gun workbench
+Autowerkbank - car workbench
+Komplette Biom anpassung mit erze, wachstum und Wetter - Complete biome customization with ores, growth and weather
+Kebab Maschine um leckere Döner machen zu können - Kebab machine to make delicious doner kebabs
+Viele neue items die zum bau von neuen objeckten und Fahrzeuge gebraucht werden - Lots of new items needed to build new objects and vehicles
+Zombies verhalten geändert - Zombies behavior changed
+Spieler muss auf WC und mit Toilettenpapier putzen - Player must clean on toilet and with toilet paper
+Autominer um Erze automatisch abbauen zu können - Autominer to mine ores automatically
+Farmer Obst gemüse - Farmer fruit vegetables
+Farmer Kuhzucht - Farmer cow breeding
+Farmer Schweinezucht - Farmer pig breeding
+Neue Waffen - New Weapons
+Apfel, Birnen, Bananen Bäume - Apple, pear, banana trees
+Kiwi Bäume - kiwi trees
+Weizen, Aubergiene, Paprika, Gurken Weisskraut - Wheat, eggplant, paprika, cucumber white cabbage
+Smoothies mit verschiedene fähigkeiten - Smoothies with different skills
+Trader immer offen und zerstörbar - Trader always open and destructible
+Zombies lootbar - Zombies lootable
+Zombies zerlegbar - Zombies detachable
+Bücher baubar - books buildable
+Grosse zombie Horden - Big zombie hordes
+WiFi Strom Kabelloser strom - WiFi power Wireless power
+Stacheldraht herstellen - make barbed wire
+Performance optimierung - performance optimization
+Pflanzenwachstum verändert - altered plant growth
+Stacks erhöht - Stack increased
+Waffen brauchen eigene Repkits - Weapons need their own repkits
+Osmium Rüstung. Hoher schutz gegen zombies und schutz gegen Radioaktivität - osmium armor. High protection against zombies and protection against radioactivity
+Radivin gegen Radioaktivität - Radivin against radioactivity
+Crotalin gegen schlangengift - Crotalin against snake venom
+Mehr optionen bei spielerstellung (24 stunden tage usw.) - More options in game creation (24 hour days etc.)
+Crotalin gegen schlangengift - Crotalin against snake venom
+Pin, Waypoinys
+VehicleMadness
+QuickStack
+Und noch viel mehr... - And much more...
+Credits - Thanks
+Thanks Zoochamp for testing and prestreaming
+
+Pin, Waypoinys - by ocbMaurice
+
+VehicleMadness - by Ragsy, ActiniumTiger
+
+QuickStack - by Westwud
+
+Z2 Hud - Sirillion
+
+Lockpicking - xyth
+
+0-SCore and SphereII Legacy Distant Terrain - by sphereii
+
+SS_Terrain - by SrslySunshine
+
+and thanks to everyone i forgot
+
+ </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+				<Exclude>/obj/</Exclude>
+				<Exclude>/bin/</Exclude>
+			</Excludes>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://dev.azure.com/MeMoLPLive/ExcitusXtreme/_git/ExcitusXtreme-Alpha20</Download>
+			</Downloads>
+		</Server>
+
+</ServerGroup>
+
+</Servers>
