@@ -1,67 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-
 	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png" Description="">
 		<Server Name="Better Vanilla Normal Version" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
 			<Description>
 
+Update A20.3.2 for the Better Vanilla.
 
-Update A20.3.1 for the Better Vanilla.
+What is different compared to Vanilla and the latest version of Better Vanilla? Everything in (brackets) before the entry has been edited, expanded or is completely new in this version!
 
-What is different compared to Vanilla and the latest version of Better Vanilla?
-Everything in (brackets) before the entry has been edited, expanded or is completely new in this version!
-- (new) There is now an "Easy Version" with the standard zombies (HP) from the Vanilla
-- (new) ESC / Pausescreen
-- (new) There is now a fax machine where you get quests via fax
-- (new) Twitch interaction added hordes
-- (new) 5 own maps (6k and 10k)
-- (new) over 100 new POIs
-- (new) world generation has been changed
-- (new) Performance Improvement
-- (new) Wasteland has other Zombie Spawn
-- (new) very rare rain, clove and storm
-- (new) A19 Farming has been added (seeds remain in the soil)
-- (extended) Arrows, grenades and ammunition have been re-adjusted
-- (extended) completely revised Hunger, Thirst, Eating System
-- Better Vanilla Interface
-- Mod is supported in English and German
-- 128 horde, 6h days and number of zombies and animal adjustable
-- Start-EQ is available in the initial quests / Max Level 3000
-- 160 Slot Inventory / 30k Itemstack
-- Customized zombies = HP values increased! So weapons skillen is necessary
-- increased zombie spawn
-- Zombies Harvestable and lootable
-- Zombie HP display and new names
-- No screaming and aggressive animals in the wild, excluded in hordes of hordes and the hordes night
-- Demolisher weakened and only come in the hordes night
-- Hunger and thirst display
-- More eggs in nests
-- Nests and garbage destroy themselves after Loot
-- Autominer / Charcoal furnace
-- Gas stove with gas cylinder cooks twice as fast as the campfire
-- 3 slots in the forge
-- Acid and measuring cup can be produced
-- Edit tools / weapons (endurance, DMG, speed)
-- 6 weapons/tools/clothing can be produced
-- Bags mods have been adapted to the inventory size
-- Blessed metal lootable and now also manufacturable
-- a katana has been inserted
-. . . and many little things. . .
+(new) There is now an "Easy Version" with the standard zombies (HP) from the Vanilla
+(new) ESC / Break-Screen
+(new) There is now a fax machine where you get quests via fax
+(new) Twitch interaction added hordes
+(new) 5 own maps (6k and 10k)
+(new) over 100 new POIs
+(new) world generation has been changed
+(new) Performance Improvement
+(new) Wasteland has other Zombie Spawn
+(new) very rare rain, clove and storm
+(new) A19 Farming has been added (seeds remain in the soil)
+(extended) Arrows, grenades and ammunition have been re-adjusted
+(extended) completely revised Hunger, Thirst, Eating System
+(extended) Zombies Loot- and Harvestable
+Better Vanilla Interface
+Mod is supported in English and German
+128 horde, 6h days and number of zombies and animal adjustable
+Max Level 3000
+Start-EQ is available in the initial quests
+160 Slot Inventory
+30k Itemstack
+Customized zombies = HP values increased! So weapon skill is necessary
+increased zombie spawn
+Zombie HP display
+Zombies have new names
+No screaming zombies due to heat and volume
+Demolisher weakened and only come in the hordes of night
+Hunger and thirst display
+More eggs in nests
+Nests and garbage destroy themselves after Loot
+Pots in cupboards lootable
+Autominer
+Charcoal furnace
+gas stove that boils twice as fast as the campfire with gas cylinder
+3 slots in the forge
+Acid and measuring cup can be produced
+Edit tools / weapons (endurance, DMG, speed)
+level 6 weapons/tools/clothing can be produced
+Bags mods have been adapted to the inventory size
+Blessed Metal lootable and now also manufacturable
+a katana has been inserted - this is the most powerful melee weapon ... and many little things ...
+If you have any questions or want to report a bug, just join my discord. Have fun in the Better Vanilla! Best Regards, Saxe82
 
-All reported bugs have been fixed:
-- Umlaute Fix for Server
+Discord: https://discord.gg/qdwbN9VW87 
 
-If you have any questions or want to report a bug, just join my discord.
-Have fun in the Better Vanilla!
-Best Regards, Saxe82
+Update A20.3.2 für die Better Vanilla. Die bekannten Bugs wurden behoben und viel Neues ist dazu gekommen. Was zeichnet die Better Vanilla aus? Alles in (Klammern) vor dem Eintrag wurde in dieser Version bearbeitet, erweitert oder ist komplett neu!
 
-Discord: https://discord.gg/qdwbN9VW87
+(neu) Es gibt nun eine "Easy Version" mit den Standard Zombies aus der Vanilla
+(neu) ESC / Pause-Screen
+(neu) Es gibt jetzt ein Faxgerät wo du Quests per Fax bekommst
+(neu) Twitch-Interaktion wurden Horden hinzugefügt
+(neu) 5 eigene Karten (6k und 10k)
+(neu) über 100 neue POIs
+(neu) Weltgeneration wurde verändert
+(neu) Performanceverbesserung
+(neu) Wasteland wurde der Zombiespawn verändert
+(neu) sehr selten Regen, Sturm und Nebel
+(neu) A19 Farmimng hinzugefügt (Saatgut bleibt im Boden)
+(erweitert) Pfeile, Granaten und Munition wurden neu eingestellt
+(erweitert) komplett überarbeitet Hunger, Durst, Esssystem
+(erweitert) Zombies Loot- und Erntebar
+Better Vanilla Interface
+Mod wird auf English und Deutsch unterstützt
+128er Horde, 6h Tage und Anzahl Zombies und Tier einstellbar
+Max Level 3000
+Start-EQ gibt es in den Anfangsquesten
+160 Slot Inventar
+30k Itemstack
+Angepasste Zombies = HP Werte erhöht! Also Waffen skillen ist notwendig
+erhöhter Zombie spawn
+Zombie HP Anzeige
+Zombies haben neue Namen
+Keiner Schreier-Zombies durch Hitze und Lautstärke
+Demolisher abgeschwächt und kommen nur noch in der Horden-Nacht
+Hunger und Durst anzeige
+Mehr Eier in Nestern
+Nester und Müll zerstören sich nach Loot
+Töpfe in Schränken lootbar
+Autominer
+Holzkohle-Ofen
+Gas-Herd der mit Gasflasche doppelt so schnell kocht wie das Lagerfeuer
+3 Slots in der Schmiede
+Säure und Messbecher herstellbar
+Werkzeuge / Waffen bearbeitet (Ausdauer, DMG, speed)
+6er Waffen/Werkzeug/Kleidung herstellbar
+Taschen Mods wurden angepasst auf die Inventargröße
+Gesegnetes Metall lootbar und nun auch Herstellbar
+ein Katana wurde eingefügt ... und viele Kleinigkeiten ...
+Wenn du Fragen hast oder einen Fehler melden willst, tritt einfach meinem Discord bei. Viel Spaß in der Better Vanilla! Mit freundlichen Grüßen, Saxe82
 
+Discord: https://discord.gg/qdwbN9VW87 
 
 			</Description>
-				<Version>Latest</Version>
+			<Discord>https://discord.gg/qdwbN9VW87</Discord>
+			<Version>Latest</Version>
 			<RSS/>
-				<Excludes>
+			<Excludes>
 				<Exclude>7DaysToDieServer_Data\</Exclude>
 				<Exclude>\obj\</Exclude>
 				<Exclude>\bin\</Exclude>
@@ -72,68 +115,107 @@ Discord: https://discord.gg/qdwbN9VW87
 				<Download>https://dev.azure.com/saxe1982/BetterVanilla/_git/BetterVanilla</Download>
 			</Downloads>
 		</Server>
-
-
 		<Server Name="Better Vanilla Easy Version" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
 			<Description>
+Update A20.3.2 for the Better Vanilla.
 
+What is different compared to Vanilla and the latest version of Better Vanilla? Everything in (brackets) before the entry has been edited, expanded or is completely new in this version!
 
-Update A20.3.1 for the Better Vanilla.
+(new) There is now an "Easy Version" with the standard zombies (HP) from the Vanilla
+(new) ESC / Break-Screen
+(new) There is now a fax machine where you get quests via fax
+(new) Twitch interaction added hordes
+(new) 5 own maps (6k and 10k)
+(new) over 100 new POIs
+(new) world generation has been changed
+(new) Performance Improvement
+(new) Wasteland has other Zombie Spawn
+(new) very rare rain, clove and storm
+(new) A19 Farming has been added (seeds remain in the soil)
+(extended) Arrows, grenades and ammunition have been re-adjusted
+(extended) completely revised Hunger, Thirst, Eating System
+(extended) Zombies Loot- and Harvestable
+Better Vanilla Interface
+Mod is supported in English and German
+128 horde, 6h days and number of zombies and animal adjustable
+Max Level 3000
+Start-EQ is available in the initial quests
+160 Slot Inventory
+30k Itemstack
+increased zombie spawn
+Zombie HP display
+Zombies have new names
+No screaming zombies due to heat and volume
+Demolisher weakened and only come in the hordes of night
+Hunger and thirst display
+More eggs in nests
+Nests and garbage destroy themselves after Loot
+Pots in cupboards lootable
+Autominer
+Charcoal furnace
+gas stove that boils twice as fast as the campfire with gas cylinder
+3 slots in the forge
+Acid and measuring cup can be produced
+Edit tools / weapons (endurance, DMG, speed)
+level 6 weapons/tools/clothing can be produced
+Bags mods have been adapted to the inventory size
+Blessed Metal lootable and now also manufacturable
+a katana has been inserted - this is the most powerful melee weapon ... and many little things ...
+If you have any questions or want to report a bug, just join my discord. Have fun in the Better Vanilla! Best Regards, Saxe82
 
-What is different compared to Vanilla and the latest version of Better Vanilla?
-Everything in (brackets) before the entry has been edited, expanded or is completely new in this version!
-- (new) There is now an "Easy Version" with the standard zombies (HP) from the Vanilla
-- (new) ESC / Pausescreen
-- (new) There is now a fax machine where you get quests via fax
-- (new) Twitch interaction added hordes
-- (new) 5 own maps (6k and 10k)
-- (new) over 100 new POIs
-- (new) world generation has been changed
-- (new) Performance Improvement
-- (new) Wasteland has other Zombie Spawn
-- (new) very rare rain, clove and storm
-- (new) A19 Farming has been added (seeds remain in the soil)
-- (extended) Arrows, grenades and ammunition have been re-adjusted
-- (extended) completely revised Hunger, Thirst, Eating System
-- Better Vanilla Interface
-- Mod is supported in English and German
-- 128 horde, 6h days and number of zombies and animal adjustable
-- Start-EQ is available in the initial quests / Max Level 3000
-- 160 Slot Inventory / 30k Itemstack
-- Customized zombies = HP values increased! So weapons skillen is necessary
-- increased zombie spawn
-- Zombies Harvestable and lootable
-- Zombie HP display and new names
-- No screaming and aggressive animals in the wild, excluded in hordes of hordes and the hordes night
-- Demolisher weakened and only come in the hordes night
-- Hunger and thirst display
-- More eggs in nests
-- Nests and garbage destroy themselves after Loot
-- Autominer / Charcoal furnace
-- Gas stove with gas cylinder cooks twice as fast as the campfire
-- 3 slots in the forge
-- Acid and measuring cup can be produced
-- Edit tools / weapons (endurance, DMG, speed)
-- 6 weapons/tools/clothing can be produced
-- Bags mods have been adapted to the inventory size
-- Blessed metal lootable and now also manufacturable
-- a katana has been inserted
-. . . and many little things. . .
+Discord: https://discord.gg/qdwbN9VW87 
 
-All reported bugs have been fixed:
-- Umlaute Fix for Server
+Update A20.3.2 für die Better Vanilla. Die bekannten Bugs wurden behoben und viel Neues ist dazu gekommen. Was zeichnet die Better Vanilla aus? Alles in (Klammern) vor dem Eintrag wurde in dieser Version bearbeitet, erweitert oder ist komplett neu!
 
-If you have any questions or want to report a bug, just join my discord.
-Have fun in the Better Vanilla!
-Best Regards, Saxe82
+(neu) Es gibt nun eine "Easy Version" mit den Standard Zombies aus der Vanilla
+(neu) ESC / Pause-Screen
+(neu) Es gibt jetzt ein Faxgerät wo du Quests per Fax bekommst
+(neu) Twitch-Interaktion wurden Horden hinzugefügt
+(neu) 5 eigene Karten (6k und 10k)
+(neu) über 100 neue POIs
+(neu) Weltgeneration wurde verändert
+(neu) Performanceverbesserung
+(neu) Wasteland wurde der Zombiespawn verändert
+(neu) sehr selten Regen, Sturm und Nebel
+(neu) A19 Farmimng hinzugefügt (Saatgut bleibt im Boden)
+(erweitert) Pfeile, Granaten und Munition wurden neu eingestellt
+(erweitert) komplett überarbeitet Hunger, Durst, Esssystem
+(erweitert) Zombies Loot- und Erntebar
+Better Vanilla Interface
+Mod wird auf English und Deutsch unterstützt
+128er Horde, 6h Tage und Anzahl Zombies und Tier einstellbar
+Max Level 3000
+Start-EQ gibt es in den Anfangsquesten
+160 Slot Inventar
+30k Itemstack
+erhöhter Zombie spawn
+Zombie HP Anzeige
+Zombies haben neue Namen
+Keiner Schreier-Zombies durch Hitze und Lautstärke
+Demolisher abgeschwächt und kommen nur noch in der Horden-Nacht
+Hunger und Durst anzeige
+Mehr Eier in Nestern
+Nester und Müll zerstören sich nach Loot
+Töpfe in Schränken lootbar
+Autominer
+Holzkohle-Ofen
+Gas-Herd der mit Gasflasche doppelt so schnell kocht wie das Lagerfeuer
+3 Slots in der Schmiede
+Säure und Messbecher herstellbar
+Werkzeuge / Waffen bearbeitet (Ausdauer, DMG, speed)
+6er Waffen/Werkzeug/Kleidung herstellbar
+Taschen Mods wurden angepasst auf die Inventargröße
+Gesegnetes Metall lootbar und nun auch Herstellbar
+ein Katana wurde eingefügt ... und viele Kleinigkeiten ...
+Wenn du Fragen hast oder einen Fehler melden willst, tritt einfach meinem Discord bei. Viel Spaß in der Better Vanilla! Mit freundlichen Grüßen, Saxe82
 
-Discord: https://discord.gg/qdwbN9VW87
-
+Discord: https://discord.gg/qdwbN9VW87 
 
 			</Description>
-				<Version>Latest</Version>
+			<Discord>https://discord.gg/qdwbN9VW87</Discord>
+			<Version>Latest</Version>
 			<RSS/>
-				<Excludes>
+			<Excludes>
 				<Exclude>7DaysToDieServer_Data\</Exclude>
 				<Exclude>\obj\</Exclude>
 				<Exclude>\bin\</Exclude>
@@ -144,9 +226,5 @@ Discord: https://discord.gg/qdwbN9VW87
 				<Download>https://dev.azure.com/saxe1982/BetterVanilla/_git/BetterVanillaEasy</Download>
 			</Downloads>
 		</Server>
-
-
 	</ServerGroup>
-
-	
 </Servers>
