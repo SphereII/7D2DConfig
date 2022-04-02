@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 
-	<ServerGroup Name="YourGrou" Logo="" Description="">
-		<Server Name="YourMOd" Logo="">
+	<ServerGroup Name="YourGroup" Logo="" Description="">
+		<Server Name="YourMod" Logo="">
 			<Description>
 
 			</Description>
