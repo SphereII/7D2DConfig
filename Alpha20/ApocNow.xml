@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Apocalypse Now" Logo="" Description="">
+      <Server Name="Apocalypse Now Experimental" Logo="">
+         <Description>
+Apocalypse Now Overhaul Mod For 7 Days To Die
+
+Features:--
+
+-Progression Tree Overhaul
+-7 new Classes " Engineer, Survivalist, Hunter, Medic, Farmer, Miner and Scavenger"
+-144 slot backpack! 24 slot crafting queue.!
+-Custom UI! Food/Water bars.
+-Increased zombie spawn/respawn rate.!
+-Night time is now Hell. Don't Blame Me if you died. ;p
+-Titanium Nodes added! Can be found in the wasteland. 
+-wasteland is now radiated.
+-More crops! Grow Apple, Cherry, Banana, Coconut and Lemon trees, plus strawberries, cabbage, carrot, cucumber and tomatoes.
+-Big list of melee weapons have been added , from Swords, Bats, Pitchforks, Maces, Frying Pan, Cleaver and more
+-Added New Custom Food/Drinks• 
+-Added Higher Tier Weapons And Tools
+-Added Scrap Tier Tools•
+-Added 27 New item_modifiers
+-Legendary Tier weapons have been added
+-Gun parts are back
+-Added 4 Generated Maps With ZZTong Prefabs• 
+-Added Stainless Steel, Titanium and Reinforced Titanium Blocks •
+-Traders are Destructible and open all the time• 
+-Added New Ammo and explosives
+-Added few New zombie Bosses Including the behemoth
+-The Candy is Craft-able Now
+-8 new workstations , 2 Advanced Forges, 2 Advanced Workbenches 
+An Advanced chemistry Station, Advanced Cement Mixer And Upgrade Bench
+-Added Research Desk
+
+Class Information :-
+
+Engineer Class Training Grants you :- Bicycle Chassis and Handlebars.
+
+Survivalist Class Training Grants you :- Cloth Armor Bundle.
+
+Hunter Class Training Grants you :- Hunting Rifle Bundle.
+
+Medic Class Training Grants you :- 4 First Aid Bandage, 2 First Aid Kit, 2 Painkillers, 2 Herbal Antibiotics and 2 Plaster Cast.
+
+Farmer Class Training Grants you :- Food Bundle 01.
+
+Miner Class Training Grants you :- Scrap Armor Bundle.
+
+Scavenger Class Training Grants you :- (150) 7.62mm Ammo,(150) 9mm Ammo and (150) Shotgun Shell.
+--------------------------------------
+Apocalypse Now Mod Creadits 
+
+1) A20-GameStage Difficulty Bonus By Bar0th 
+
+2) Bdubs Vehicles Modlet By Bdubyah
+
+3) Block Buff AOE By Alter
+
+4) Supply Drops By Chickun / JustDoAsIDo 
+
+5) Disable Trader Protection By Khaine
+
+6) Improved RWG By Magedaddy
+
+7) 12 Slots Toolbelt By Khaine
+
+8) TFP Hornet  By Khaine
+
+9) TFP Behemoths By Khaine
+
+10) Vehicle Damage Patch By Khaine
+
+11) Zombie Fall Damage By Khaine
+
+12) No Zombie Rage By mythix
+
+13) Ocb Pin Recipes 0.4.1 By ocbMaurice
+
+14) Items Quality Rework By KillerBunny/ @Bar0th 
+
+15) Active Ingredients By Redbeard 
+
+16) Scouts Mod By mythix 
+
+17) SWU Farming Mod By Zeeeeeeniiiiiii 
+
+18) Wandering Horde GameStage  patch By mythix 
+
+19) Menu Music By Yakov 
+
+20) Advanced Forge And Advanced Chemistry Station By Zilox 
+
+Discord Server : https://discord.gg/GS3wGQTu6U
+
+Twitter : https://twitter.com/killerbunny264
+	 </Description>
+	 <Discord>https://discord.gg/GS3wGQTu6U</Discord>
+	 <Twitter>https://twitter.com/killerbunny264</Twitter>
+	 <Version>Latest</Version>
+	 <DownloadMode>Clone</DownloadMode>
+         <Downloads>
+			<Download>https://gitlab.com/killerbunny264/7dtd-ApocNowModA20</Download>
+         </Downloads>
+      </Server>
+	  </ServerGroup>
+	    
+</Servers>
