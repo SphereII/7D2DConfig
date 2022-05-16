@@ -1,0 +1,37 @@
+<Servers>
+	<ServerGroup Name="Darkness Falls" Logo="https://i.imgur.com/4kjLtAE.jpg">
+		<Server Name="Darkness Falls">
+			<Description>This is a mod I originally created to fix a few "issues" myself, my wife and some friends felt the game had. Turns out I really enjoy modding so I've expanded on it quite a bit.
+
+Features.
+
+8 Classes to choose from, with 6 quests each! (Class quests take approx 60 mins to finish if you grind hard)
+Rewritten progression system compared to A17.
+Return of Action Skills!
+96 Slot Bigger back pack! 
+12 slot crafting queue!
+Custom UI. Health and Stamina on the left of the toolbelt, Food and Water on the right.
+
+7DTD Version Required: 20.4/20.5
+Current Mod Version: 4.03A </Description>
+			<Version>alpha20.4</Version>
+			<Version>alpha20.5</Version>
+			<RSS/>
+			
+			<ReleaseNotes/>
+			
+            <!-- Social Lists Optional -->
+            <Discord>https://discord.gg/m3UGP4hpdw</Discord>
+            <WebSite>https://community.7daystodie.com/topic/4941-darkness-falls-they-mostly-come-out-at-night/</WebSite>
+            <Twitter>https://twitter.com/KhainesKorner</Twitter>
+            <Donate>https://www.patreon.com/darknessfallsmod</Donate>
+			
+			<DownloadMode>Clone</DownloadMode>
+			
+			<Downloads>
+				<Download>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA20/_git/DarknessFallsA20</Download>
+				<AltDownload>https://gitlab.com/KhaineGB/darkness-falls-a20.git</AltDownload>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
