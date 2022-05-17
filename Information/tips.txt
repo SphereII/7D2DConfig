@@ -1,2 +1,12 @@
-Tip: Add the ModLauncher.exe to Steam as a non-Steam game to get access to your steam overlay, and friends!
-Tip: Want to use a controller? Add the ModLauncher.exe to Steam as a non-Steam game.
+Tip: [ Steam ] Add the ModLauncher.exe to Steam as a non-Steam game to get access to your steam overlay, and friends!
+Tip: [ Steam ] Want to use a controller? Add the ModLauncher.exe to Steam as a non-Steam game.
+Tip: Don't eat yellow snow
+Tip: [ Game Pass ] In the XBox app, click on Create Desktop Shortcut, then click on ADD DEFAULTS
+Tip: Not seeing your game instals? Click on ADD DEFAULTS. Still not there? Clickon MANAGE, and add it!
+Tip: A Commit ID is a unique ID for each version, of each mod. Select the Latest to be up to date for your choice of mod!
+Tip: By default, the Mod Launcher will download all Mods to C:\7D2D. Click on SETTINGS to change this. 
+Tip: Want to change the label that the Mod Launcher is using? Click on the Manage button, then Rename.
+Tip: Want to remove a game folder in your listing? Click on the Manage button, then Remove. 
+Tip: Want to delete a game folder? Click on the Manage button, then Delete.
+Tip: [ Steam ] Want to make a copy of your game to add different mods? Click on the Manage button, then Clone
+Tip: [ Steam ] Need a different version of the game? In Steam, right click on the game and go to Manage, then select a Beta
