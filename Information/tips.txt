@@ -2,7 +2,7 @@ Tip: [ Steam ] Add the ModLauncher.exe to Steam as a non-Steam game to get acces
 Tip: [ Steam ] Want to use a controller? Add the ModLauncher.exe to Steam as a non-Steam game.
 Tip: Don't eat yellow snow
 Tip: [ Game Pass ] In the XBox app, click on Create Desktop Shortcut, then click on ADD DEFAULTS
-Tip: Not seeing your game instals? Click on ADD DEFAULTS. Still not there? Clickon MANAGE, and add it!
+Tip: Not seeing your game installs? Click on ADD DEFAULTS. Still not there? Clickon MANAGE, and add it!
 Tip: A Commit ID is a unique ID for each version, of each mod. Select the Latest to be up to date for your choice of mod!
 Tip: By default, the Mod Launcher will download all Mods to C:\7D2D. Click on SETTINGS to change this. 
 Tip: Want to change the label that the Mod Launcher is using? Click on the Manage button, then Rename.
