@@ -1,5 +1,4 @@
 C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die
-C:\XboxGames\7 Days To Die\Content
 ~/.steam/steamapps/common/7 Days To Die
 D:\SteamFolder\Steam\steamapps\common\7 Days To Die
 E:\SteamFolder\Steam\steamapps\common\7 Days To Die
