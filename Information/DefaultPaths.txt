@@ -1,5 +1,6 @@
 C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die
 ~/.steam/steamapps/common/7 Days To Die
+~/.steam/debian-installation/steamapps/common/7 Days To Die
 D:\SteamFolder\Steam\steamapps\common\7 Days To Die
 E:\SteamFolder\Steam\steamapps\common\7 Days To Die
 D:\SteamLibrary\steamapps\common\7 Days To Die
