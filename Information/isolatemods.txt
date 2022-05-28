@@ -6,3 +6,6 @@ Spencer Mansion Incident
 The Vanilla Project A20
 Back To Origins
 War of the Walkers
+War of the Walkers v20.1.x.x Stable
+War of the Walkers v20.1.x.x Exp
+War of the Walkers v20.1.x.x Client
