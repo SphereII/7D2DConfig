@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="War of the Walkers" Logo="https://gitlab.com/dwallorde/war-of-the-walkers-mod-v7-exp/-/raw/master/Mods/WaroftheWalkersMod/UIAtlases/logo/wotw_logo.png" Description="War of the Walkers">
+			
+		<Server Name="War of the Walkers v20.1.x.x Stable" Logo="https://gitlab.com/dwallorde/war-of-the-walkers-mod-v7-exp/-/raw/master/Mods/WaroftheWalkersMod/UIAtlases/logo/wotw_logo.png">
+			<Description>The War of the Walkers v20.1.x.x - Stable Branch
+			Latest Stable Version of the War of the Walkers Mod.  Release Notes Link will take you to the official discord for the mod.
+			For those who would like to donate here is the link: https://www.paypal.me/dwallorde
+			Contains the following modlets:
+						-0-SCore 		-Author: Xyth Community Project
+						-0-XNPCCore 		-Author: Xyth Community Project
+						-1-GansSpecialZombies 		-Author: GanTheGrey
+						-1-GansStandardZombies 		-Author: GanTheGrey
+						-1-khzmusik_Zombies			-Author: khzmusik
+						-1-NPCXBirdPack 		-Author: Xyth Community Project
+						-1-NPCXSpiderPack 		-Author: Xyth Community Project
+						-1-PitFighterzPack		-Author: Darkstardragon
+						-1-RaiderGurlzPack 		-Author: Darkstardragon
+						-1-RaiderzPack 		-Author: Darkstardragon
+						-1-RobotzPack 		-Author: Darkstardragon
+						-1-SoldierPack 		-Author: Darkstardragon
+						-1-VaultDwellerzPack 		-Author: Darkstardragon
+						-1-ZombiezPack 		-Author: Darkstardragon
+						-2-RaiderGurlzPack_Friendly 		-Author: mr.devolver
+						-CCTV		-Author: Xyth
+						-KHA20-15SlotToolbelt		-Author: Khaine
+						-NerdScurvy_Toybox			-Author: NerdScurvy
+						-SMXhud		-Author: Sirillion
+						-SMXlib		-Author: Sirillion
+						-SMXui		-Author: Sirillion
+						-Ragsy Vehicles		-Author: Ragsy
+						-Ragsy Better Gryo Handling	-Author: Ragsy
+						-ZMXhudCPTB15		-Author: Robear
+						-ZMXhudCP			-Author: Sirillion
+			7DTD Version Required: A20.4
+			Current Mod Version: 20.1.1.6 Stable
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://discord.gg/bQdP6cH</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/dwallorde/war-of-the-walkers-stable-v20/-/archive/master/war-of-the-walkers-stable-v20-master.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="War of the Walkers v20.1.x.x Exp" Logo="https://gitlab.com/dwallorde/war-of-the-walkers-mod-v7-exp/-/raw/master/Mods/WaroftheWalkersMod/UIAtlases/logo/wotw_logo.png">
+			<Description>The War of the Walkers v20.1.x.x - Experimental (Warning!  May contain game breaking bugs!)
+			Latest Experimental Version of the War of the Walkers Mod.  Release Notes Link will take you to the official discord for the mod.
+			For those who would like to donate here is the link: https://www.paypal.me/dwallorde
+			Contains the following modlets:
+						-0-SCore 		-Author: Xyth Community Project
+						-0-XNPCCore 		-Author: Xyth Community Project
+						-1-GansSpecialZombies 		-Author: GanTheGrey
+						-1-GansStandardZombies 		-Author: GanTheGrey
+						-1-khzmusik_Zombies			-Author: khzmusik
+						-1-NPCXBirdPack 		-Author: Xyth Community Project
+						-1-NPCXSpiderPack 		-Author: Xyth Community Project
+						-1-PitFighterzPack		-Author: Darkstardragon
+						-1-RaiderGurlzPack 		-Author: Darkstardragon
+						-1-RaiderzPack 		-Author: Darkstardragon
+						-1-RobotzPack 		-Author: Darkstardragon
+						-1-SoldierPack 		-Author: Darkstardragon
+						-1-VaultDwellerzPack 		-Author: Darkstardragon
+						-1-ZombiezPack 		-Author: Darkstardragon
+						-2-RaiderGurlzPack_Friendly 		-Author: mr.devolver
+						-CCTV		-Author: Xyth
+						-KHA20-15SlotToolbelt		-Author: Khaine
+						-NerdScurvy_Toybox			-Author: NerdScurvy
+						-SMXhud		-Author: Sirillion
+						-SMXlib		-Author: Sirillion
+						-SMXui		-Author: Sirillion
+						-Ragsy Vehicles		-Author: Ragsy
+						-Ragsy Better Gryo Handling	-Author: Ragsy
+						-ZMXhudCPTB15		-Author: Robear
+						-ZMXhudCP			-Author: Sirillion
+			7DTD Version Required: A20.4
+			Current Mod Version: 20.1.1.6 Exp
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://discord.gg/bQdP6cH</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/dwallorde/war-of-the-walkers-exp-v20/-/archive/master/war-of-the-walkers-exp-v20-master.zip</Download>
+			</Downloads>
+		</Server>
+		
+		<Server Name="War of the Walkers v20.1.x.x Client" Logo="https://gitlab.com/dwallorde/war-of-the-walkers-mod-v7-exp/-/raw/master/Mods/WaroftheWalkersMod/UIAtlases/logo/wotw_logo.png">
+			<Description>The War of the Walkers v20.1.x.x - Client (For playing on WotW Servers Only.  No SP)
+			Latest Experimental Version of the War of the Walkers Mod.  Release Notes Link will take you to the official discord for the mod.
+			For those who would like to donate here is the link: https://www.paypal.me/dwallorde
+			Contains the following modlets:
+						-0-SCore 		-Author: Xyth Community Project
+						-0-XNPCCore 		-Author: Xyth Community Project
+						-1-GansSpecialZombies 		-Author: GanTheGrey
+						-1-GansStandardZombies 		-Author: GanTheGrey
+						-1-khzmusik_Zombies			-Author: khzmusik
+						-1-NPCXBirdPack 		-Author: Xyth Community Project
+						-1-NPCXSpiderPack 		-Author: Xyth Community Project
+						-1-PitFighterzPack		-Author: Darkstardragon
+						-1-RaiderGurlzPack 		-Author: Darkstardragon
+						-1-RaiderzPack 		-Author: Darkstardragon
+						-1-RobotzPack 		-Author: Darkstardragon
+						-1-SoldierPack 		-Author: Darkstardragon
+						-1-SurvivorzPack	-Author: Darkstardragon
+						-1-VaultDwellerzPack 		-Author: Darkstardragon
+						-1-ZombiezPack 		-Author: Darkstardragon
+						-1-OrczPackAlpha	-Author: Darkstardragon
+						-1-KnightzNPeasantzPackAlpha	-Author: Darkstardragon
+						-1-FantasticBeastz		-Author: Darkstardragon
+						-1-YeOldeUndeadPack		-Author: Darkstardragon
+						-2-RaiderGurlzPack_Friendly 		-Author: mr.devolver
+						-2-OrczPackBeta		-Author: Darkstardragon
+						-2-GoblinzPack		-Author: Darkstardragon
+						-Bdubs Vehicles		-Author: bdubyah
+						-CCTV		-Author: Xyth
+						-KHA20-15SlotToolbelt		-Author: Khaine
+						-NerdScurvy_Toybox			-Author: NerdScurvy
+						-OcbPinRecipes		-Author: ocbMaurice
+						-SMXhud		-Author: Sirillion
+						-SMXlib		-Author: Sirillion
+						-SMXui		-Author: Sirillion
+						-Ragsy Vehicles		-Author: Ragsy
+						-Ragsy Better Gryo Handling	-Author: Ragsy
+						-ZMXhudCPTB15		-Author: Robear
+						-ZMXhudCP			-Author: Sirillion
+			7DTD Version Required: A20.5
+			Current Mod Version: 20.5.2.0 Exp
+			</Description>
+			<Version/>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://discord.gg/bQdP6cH</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/dwallorde/war-of-the-walkers-client-v20/-/archive/master/war-of-the-walkers-client-v20-master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
