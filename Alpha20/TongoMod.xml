@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="TongoMod" Logo="" Description="">
-      <Server Name="TongoMod_A20" Logo="">
-         <Description>
+	<ServerGroup Name="TongoMod" Logo="" Description="">
+		<Server Name="TongoMod_A20" Logo="">
+			<Description>
 Tongomod 2.0 arrives with tons of new features. Level adjustment, new objects, consumables, machines, quest, recipes, and a new system to unlock recipes.
 
 Rapid character development, and not limited by levels or recipes that don't want to come out.
@@ -41,14 +41,13 @@ Twitter: https://twitter.com/tekjagameplays
 
 Discord: https://discord.gg/9G3JeVnJS5 
 	 </Description>
-	 <Discord>https://discord.gg/9G3JeVnJS5</Discord>
-	 <Twitter>https://twitter.com/tekjagameplays</Twitter>
-	 <Version>Latest</Version>
-	 <DownloadMode>Clone</DownloadMode>
-         <Downloads>
-			<Download>https://github.com/TekjaGameplays/TongoModA20</Download>
-         </Downloads>
-      </Server>
-	  </ServerGroup>
-	    
+			<Discord>https://discord.gg/9G3JeVnJS5</Discord>
+			<Twitter>https://twitter.com/tekjagameplays</Twitter>
+			<Version>Latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/TekjaGameplays/TongoModA20</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
 </Servers>
