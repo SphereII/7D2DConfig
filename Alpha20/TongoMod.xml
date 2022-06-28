@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="TongoMod" Logo="" Description="">
+      <Server Name="TongoMod_A20" Logo="">
+         <Description>
+Tongomod 2.0 arrives with tons of new features. Level adjustment, new objects, consumables, machines, quest, recipes, and a new system to unlock recipes.
+
+Rapid character development, and not limited by levels or recipes that don't want to come out.
+
+
+Short detail main features.
+
+
+Leveled loot stage in all biomes
+
+Reduced percentage of experience points per level
+
+2 skill points gained per level
+
+Over 70 new objects
+
+8 classes with 5 quests each
+
+Recipes are not unlocked by level
+
+7 new machines
+
+All recipes and books are unlocked by blue papers
+
+Mods are included to improve the loot stage
+
+
+
+There is a lot of content in the mod, but I better let you discover it.
+
+
+
+
+
+Twitter: https://twitter.com/tekjagameplays 
+
+Discord: https://discord.gg/9G3JeVnJS5 
+	 </Description>
+	 <Discord>https://discord.gg/9G3JeVnJS5</Discord>
+	 <Twitter>https://twitter.com/tekjagameplays</Twitter>
+	 <Version>Latest</Version>
+	 <DownloadMode>Clone</DownloadMode>
+         <Downloads>
+			<Download>https://github.com/TekjaGameplays/TongoModA20</Download>
+         </Downloads>
+      </Server>
+	  </ServerGroup>
+	    
+</Servers>
