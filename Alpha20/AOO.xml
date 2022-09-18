@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-      <Server Name="Age of Oblivion" Logo="">
+  <!--    <Server Name="Age of Oblivion A5.25" Logo="">
          <Description>
-Age of Oblivion Alpha 4 Overhaul
+		 
+This is Provided for legacy reasons. We highly Reccomend you Use A6!		 
+		 
+		 
+Age of Oblivion Alpha 5.25 Overhaul
 
-Note: 3.0 will require a new save over the 2.8 
+
+
+
+
+Version 5.25 Released
+
+Fixed Issues with UI: Scrolling inventory and retrievign backpack
+Adjusted Mother Clucker Spawning from Nests. Less chance of happening and now you need to be closer to the nests.
+
+7dtd Alpha 20.4 is required!  
+
+
+
+
+Version 5.2 - Released  April 19 2022
+
+Removed Telporting doors from Traders (eratic behavior in Multiplayer)
+Updated NPC Mod (Improved performanced)
+UI Improvements - 15 Slot Toolbelt, Searchable Inventory
+
+New vehicles from Upcoming A6 release can be previewed using the creative menu.
+
+In order to  have  the fixes to the  teleporters in traders you will need to start a new game. 
+
+
+
+Version 5.11 - Released March 18 2022
+
+Fixed Blocked door in Trader Dungeon
+Added Mega Crush recipe to the Drink dispenser
+Add Begginer mode Starting Item.  Read this to get Boost  while you are level 1-10.
+Fixed Pet Rabbit Spawner
+Fixed zombies that were trying to attack others.
+Made adjustments on the frequencly of some sounds
+
+
+Version 5.1 - Released March 14 2022
+
+Provides Optimized and tweaked zombies/Creatures
+Adds 20 new Creatures.
+Otehr small fixes
+
+
+
+This is the most Stable release of AOO
 		 
 This Mod is still in Development and you will most likely experience some bugs and a Balance issues.
 
@@ -20,37 +68,112 @@ Many more Workstations
 Vehicle Overhaul
 New Creatures
 
-
-3rd PArty Mods Included:
-
-White River Tools of Citizenship
-Firearms Expansion
-Community Creature packs
+IMPORTANT:   This  Release Requires that you  Create a new map or use one of the included AOO Pregen Maps.  If you experience Traders that are 20 blocks in the air it is becuse you are not using a newly generated map.
 
 	 </Description>
 	 <Version>Latest</Version>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A20_Latest?Branch=main</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_%20A20_A5_Stable</Download>
          </Downloads>
-      </Server>
+      </Server> -->
 	  
-	      <Server Name="Age of Oblivion Experimental" Logo="">
+	      <Server Name="Age of Oblivion  A6.1 - Mostly Stable" Logo="">
          <Description>
 
-Requires latest experimental version of the game!		 
 
-This is  an experimental release of the upcoming  Alpha 5 release of Age of Oblivion. This build is meant for testing purposes and  may updated often.  use only for testing purposes at your own Risk.    This new version will require that you Create a new map with the Mod installed to  make sure that the Custom Trader Outposts are generated correctly. A new game is required.   If you chosse to test this build please join our discord and provide feedback https://discord.gg/J6C8K6Xs5x  If you choose to stream or make content with this build please just make sure your audience is aware that this is a test build.
+
+
+A6.1
+
+- If you have 5k Dukes you can now ask the trader to reset the Chamber Below him!
+- Fish!   you can now find Fish in Water!   Stun them with a weapon and then loot them to get a spawnable version that you can put in your own private pond/aquarium!  (Net yet able to be used for food)
+- Added Military APC and Apache Helicopter that with working Weapons!
+- Made Air Drops GOOD!!
+-Adjusted the way Oblivion crates Spawn Enemies,  Different enemies and possibly even an npc for you to hire!  IF they spawn something then Crate is destroyed.... no loot for you!
+- you no longer get as many vehicle tokens for trading in Rickshaws. you now get 1 token for every pair of rickshaws you trade in.  (It was way to easy to get a RW vehicle too early)  this is just the first change to see how it makes a difference.  Vehicle cost may need to also go up.
+
+
+A6.001
+Had a couple of tinty fixes, added some core files for future compatibility and Added the Tigr Jeep With Working Machine Gun.
+
+
+
+A6 - Mostly Stable!
+
+We say Mostly stable since we never really know for sure until a lot more people start playing!
+
+Fixed  Burnt Zombies spawning like crazy in RC5
+Fixed Water not Stacking (Unfortunatley water jars cannot be used to put out fires now)
+Fixe loot in Crates found in Dark Castle.
+
+
+
+
+Release candidate 5 for the A6 version of AOO!
+ - Fire
+ - Bobo
+ - Fixes
+ 
+ 
+ 
+Release candidate 4 for the A6 version of AOO!
+
+-Fixed issue with Forges only being able to craft one at a time!
+-Craft from Containers now has to be turned on in your storage container.  There is a buttone to enable th estorage to be used for the feature.
+
+
+Release candidate 3 for the A6 version of AOO!
+- Multipoint Teleporters are removed.   Issues with them on servers. (they are made as a SP Modlet)
+- Teleporters that were causing errors on Servers have been fixed.
+- Craft from containers a is back and should work properly!
+- Helicoptors fixed
+
+
+
+Release Candidate 2 for the A6 version of AOO!	
+
+Fixed some issues with enemy spawning in Trader Dungeons.
+Temporary Changes:
+Craft from Storage is disabled (Was allowing for infinate Crafting)
+Soda and Juice dispensers no longer require Power as it was no working on Servers. 
+Auto miner no longer need to be place on Forest Ground. (Wasnt working on Servers)
+
+ note:  When on Server the Dispenser and the miner need to be closed to operate. (another odd server bug)
+ When the code is fixed these features will be back.
+
+
+
+Release Candidate 1 for the A6 version of AOO!	 
+It is finally here with big improvements and Additions!
+
+Not Limited to:
+End Game POI's!  Dark Castle and Turdlingers Research Facility!  
+Teleporters
+Monsters
+Caves
+Vehicle Trader with 9 Road Warrior  Vehicles that you can only get by trading in other vehicles!
+New type of Auto miner and Drink Workstations
+Changes to what animals can be pets. Pets can be found in wild and hired witht he appropriate food!  Cats need Cat food, dogs need Dog food!
+
+Lots  of Changes!
+
+This will 100% require a new game and you MUST use the included Pregen Map "AOOPregen8k_01"  More Maps will be coming!
+
+Remember to Disable EAC and  all file must be on both the server and the Client!
+
+
+Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>latest_experimental</Version>
+	 <Version>A6.1 - Mostly Stable</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A5_Experimental?Branch=main</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_MostlyStable</Download>
          </Downloads>
-      </Server>
+      </Server> 
    </ServerGroup>
 </Servers>
