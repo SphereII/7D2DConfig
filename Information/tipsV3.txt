@@ -1,0 +1,5 @@
+Tip: [ Steam ] Add the ModLauncher.exe to Steam as a non-Steam game to get access to your steam overlay, and friends!
+Tip: [ Steam ] Want to use a controller? Add the ModLauncher.exe to Steam as a non-Steam game.
+Tip: Don't eat yellow snow
+Tip: By default, the Mod Launcher will download all Mods to C:\7D2D. Click on GEAR for Settings to change this. 
+Tip: [ Steam ] Need a different version of the game? Click on REINSTALL to replace your game copy.
