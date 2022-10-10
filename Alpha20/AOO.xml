@@ -79,8 +79,37 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
          </Downloads>
       </Server> -->
 	  
-	      <Server Name="Age of Oblivion  A6.1 - Mostly Stable" Logo="">
+	      <Server Name="Age of Oblivion  A6.2 - Mostly Stable" Logo="">
          <Description>
+
+
+
+A6.2
+
+- Fixed Helicopter Ammo (Recipe caused Errors)
+- Removed Trader Teleport from Vehicle trader and Temple Trader (Traders that are aleady revealed in a save game will not be affected by this change)
+- Treasure and Boss Totems are now indestructable (no constantly repairing)
+- Increase Broadcast range of Storage
+- Fixed Broadcast button on Storage
+- Made the "Oaks" storage fire proof
+- Fixed space on Clone chambers so upgrading wont  destroy nearby items.
+- Fixed the displaying of Transmogrifier Recipes
+- Changes to Drink Dispense, Auto Miner and Buther Table to use new code. this is beginiing of changes to many stations.
+- One Drink dispenser with 2 models.  Makes Both Juice and Soda. Jucie requires the Juicer tool and Soda requires CO2.  Station requires power but now power can  be hooked directly up to the Station (No relay required)
+- New Miner works basically the same but Requires there be Stone nearby to operate.
+- New Butcher table:  Harvesting AOO Wild animals is no longer required. When a wild AOO animal dies there will be a carcass that you can pick up. you place the carcass on the butcher table  to get all of it resources.
+
+- UI Improvments have finally come back. Locking slots are  available again. Including locking individual slots!
+- Many Changes to Stack sizes and more items can now be sold to the trader.
+- Adjusted cost of some items from the Elite trader.
+- Added Aquarium Glass (you need to make Bullet proof glass and then convert it.  Normal glass will leak Water trhough it. This glass can be used if you want to build an aquarium for your fish)
+- Added recipe to make Water Blocks from Buckets of Water.  These blocks will make it easier if you want to fill something with water. (like an Aquarium)
+- Fixed  Rib and and Chili Recipes to craft the correct amount.
+
+- there will be many  Food Adjustments coming but not in this release.
+
+
+NOTE: In Order to use an existing save you MUST remove all Autominers,Butcher Tables and Juice/Soda dispensers from your game!
 
 
 
