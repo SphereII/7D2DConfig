@@ -1,194 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-  <!--    <Server Name="Age of Oblivion A5.25" Logo="">
-         <Description>
-		 
-This is Provided for legacy reasons. We highly Reccomend you Use A6!		 
-		 
-		 
-Age of Oblivion Alpha 5.25 Overhaul
+ 
 
 
-
-
-
-Version 5.25 Released
-
-Fixed Issues with UI: Scrolling inventory and retrievign backpack
-Adjusted Mother Clucker Spawning from Nests. Less chance of happening and now you need to be closer to the nests.
-
-7dtd Alpha 20.4 is required!  
-
-
-
-
-Version 5.2 - Released  April 19 2022
-
-Removed Telporting doors from Traders (eratic behavior in Multiplayer)
-Updated NPC Mod (Improved performanced)
-UI Improvements - 15 Slot Toolbelt, Searchable Inventory
-
-New vehicles from Upcoming A6 release can be previewed using the creative menu.
-
-In order to  have  the fixes to the  teleporters in traders you will need to start a new game. 
-
-
-
-Version 5.11 - Released March 18 2022
-
-Fixed Blocked door in Trader Dungeon
-Added Mega Crush recipe to the Drink dispenser
-Add Begginer mode Starting Item.  Read this to get Boost  while you are level 1-10.
-Fixed Pet Rabbit Spawner
-Fixed zombies that were trying to attack others.
-Made adjustments on the frequencly of some sounds
-
-
-Version 5.1 - Released March 14 2022
-
-Provides Optimized and tweaked zombies/Creatures
-Adds 20 new Creatures.
-Otehr small fixes
-
-
-
-This is the most Stable release of AOO
-		 
-This Mod is still in Development and you will most likely experience some bugs and a Balance issues.
-
-Update Information can be found at https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/  and on our Discord https://discord.gg/4UX3HZ7gka
-
-Teaser: https://youtu.be/6FYPlzEl_60
-
-Main Features:
-
-Farming and Food!
-Many more Workstations
-Vehicle Overhaul
-New Creatures
-
-IMPORTANT:   This  Release Requires that you  Create a new map or use one of the included AOO Pregen Maps.  If you experience Traders that are 20 blocks in the air it is becuse you are not using a newly generated map.
-
-	 </Description>
-	 <Version>Latest</Version>
-	 <DownloadMode>Clone</DownloadMode>
-         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
-         <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_%20A20_A5_Stable</Download>
-         </Downloads>
-      </Server> -->
-	  
-	      <Server Name="Age of Oblivion  A6.2 - Mostly Stable" Logo="">
+     <Server Name="Age of Oblivion  A6.5 - Stable" Logo="">
          <Description>
 
+A6.5 will be the last version until 7 Days A21 is released.
+
+This Version will Require a new game . (this is why it is a seperate download) 
+
+A bunch if little fixes and adjustment and also a major cleanup of Food and Crops.  Many food items and  an crops have been removed in order to make them more usable. Removed many redundant  items and  added additional buffs to almost all food. Making some food much more beneficial to eat. Removed the refridgerator and the Ice Maker.
 
 
-A6.2
+Reminder: Existing Maps will not work with AOO. they will result in elevated traders and will be missing critical poi's.
+RWG worlds may work but may be missing  POI's.  there are two pregen maps included: AOOPregen8k_01 and AOOPregen10k_01.
 
-- Fixed Helicopter Ammo (Recipe caused Errors)
-- Removed Trader Teleport from Vehicle trader and Temple Trader (Traders that are aleady revealed in a save game will not be affected by this change)
-- Treasure and Boss Totems are now indestructable (no constantly repairing)
-- Increase Broadcast range of Storage
-- Fixed Broadcast button on Storage
-- Made the "Oaks" storage fire proof
-- Fixed space on Clone chambers so upgrading wont  destroy nearby items.
-- Fixed the displaying of Transmogrifier Recipes
-- Changes to Drink Dispense, Auto Miner and Buther Table to use new code. this is beginiing of changes to many stations.
-- One Drink dispenser with 2 models.  Makes Both Juice and Soda. Jucie requires the Juicer tool and Soda requires CO2.  Station requires power but now power can  be hooked directly up to the Station (No relay required)
-- New Miner works basically the same but Requires there be Stone nearby to operate.
-- New Butcher table:  Harvesting AOO Wild animals is no longer required. When a wild AOO animal dies there will be a carcass that you can pick up. you place the carcass on the butcher table  to get all of it resources.
+10K map is reccomended as it has a bunch of new poi's.
 
-- UI Improvments have finally come back. Locking slots are  available again. Including locking individual slots!
-- Many Changes to Stack sizes and more items can now be sold to the trader.
-- Adjusted cost of some items from the Elite trader.
-- Added Aquarium Glass (you need to make Bullet proof glass and then convert it.  Normal glass will leak Water trhough it. This glass can be used if you want to build an aquarium for your fish)
-- Added recipe to make Water Blocks from Buckets of Water.  These blocks will make it easier if you want to fill something with water. (like an Aquarium)
-- Fixed  Rib and and Chili Recipes to craft the correct amount.
-
-- there will be many  Food Adjustments coming but not in this release.
-
-
-NOTE: In Order to use an existing save you MUST remove all Autominers,Butcher Tables and Juice/Soda dispensers from your game!
-
-
-
-
-A6.1
-
-- If you have 5k Dukes you can now ask the trader to reset the Chamber Below him!
-- Fish!   you can now find Fish in Water!   Stun them with a weapon and then loot them to get a spawnable version that you can put in your own private pond/aquarium!  (Net yet able to be used for food)
-- Added Military APC and Apache Helicopter that with working Weapons!
-- Made Air Drops GOOD!!
--Adjusted the way Oblivion crates Spawn Enemies,  Different enemies and possibly even an npc for you to hire!  IF they spawn something then Crate is destroyed.... no loot for you!
-- you no longer get as many vehicle tokens for trading in Rickshaws. you now get 1 token for every pair of rickshaws you trade in.  (It was way to easy to get a RW vehicle too early)  this is just the first change to see how it makes a difference.  Vehicle cost may need to also go up.
-
-
-A6.001
-Had a couple of tinty fixes, added some core files for future compatibility and Added the Tigr Jeep With Working Machine Gun.
-
-
-
-A6 - Mostly Stable!
-
-We say Mostly stable since we never really know for sure until a lot more people start playing!
-
-Fixed  Burnt Zombies spawning like crazy in RC5
-Fixed Water not Stacking (Unfortunatley water jars cannot be used to put out fires now)
-Fixe loot in Crates found in Dark Castle.
-
-
-
-
-Release candidate 5 for the A6 version of AOO!
- - Fire
- - Bobo
- - Fixes
- 
- 
- 
-Release candidate 4 for the A6 version of AOO!
-
--Fixed issue with Forges only being able to craft one at a time!
--Craft from Containers now has to be turned on in your storage container.  There is a buttone to enable th estorage to be used for the feature.
-
-
-Release candidate 3 for the A6 version of AOO!
-- Multipoint Teleporters are removed.   Issues with them on servers. (they are made as a SP Modlet)
-- Teleporters that were causing errors on Servers have been fixed.
-- Craft from containers a is back and should work properly!
-- Helicoptors fixed
-
-
-
-Release Candidate 2 for the A6 version of AOO!	
-
-Fixed some issues with enemy spawning in Trader Dungeons.
-Temporary Changes:
-Craft from Storage is disabled (Was allowing for infinate Crafting)
-Soda and Juice dispensers no longer require Power as it was no working on Servers. 
-Auto miner no longer need to be place on Forest Ground. (Wasnt working on Servers)
-
- note:  When on Server the Dispenser and the miner need to be closed to operate. (another odd server bug)
- When the code is fixed these features will be back.
-
-
-
-Release Candidate 1 for the A6 version of AOO!	 
-It is finally here with big improvements and Additions!
-
-Not Limited to:
-End Game POI's!  Dark Castle and Turdlingers Research Facility!  
-Teleporters
-Monsters
-Caves
-Vehicle Trader with 9 Road Warrior  Vehicles that you can only get by trading in other vehicles!
-New type of Auto miner and Drink Workstations
-Changes to what animals can be pets. Pets can be found in wild and hired witht he appropriate food!  Cats need Cat food, dogs need Dog food!
-
-Lots  of Changes!
-
-This will 100% require a new game and you MUST use the included Pregen Map "AOOPregen8k_01"  More Maps will be coming!
 
 Remember to Disable EAC and  all file must be on both the server and the Client!
 
@@ -196,13 +26,44 @@ Remember to Disable EAC and  all file must be on both the server and the Client!
 Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>A6.1 - Mostly Stable</Version>
+	 <Version>A6.5 - Stable</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_MostlyStable</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6.5</Download>
          </Downloads>
       </Server> 
+
+
+
+	  
+        <Server Name="Age of Oblivion A6.8 Experimental" Logo="">
+         <Description>
+Age of Oblivion Alpha 6.8(7) Experimental
+
+Last Update Unitl A21!
+
+ Many Balance cchanges and fixes. Skull tokens and vehicle keys are harder early on  and increase with loot stage.
+ NEW Amusement PArk/Circus POI (its about 90% done, Improvements will be made for A21)
+ New Skills Weaponsmith and Advanced Power
+ New Weapons
+ Minor Improvements to all Trader Chambers
+ New Wandering Hordes!
+ 
+ Only Map that can be used right now is AOOPregen10k_01
+ 
+
+
+
+	 </Description>
+	 <Version>Experimental</Version>
+	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>	 
+	 <DownloadMode>Clone</DownloadMode>
+         <ReleaseNotes></ReleaseNotes>
+         <Downloads>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/A7-Experimental</Download>
+         </Downloads>
+      </Server>
    </ServerGroup>
 </Servers>
