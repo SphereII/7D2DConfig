@@ -3,7 +3,8 @@ https://raw.githubusercontent.com/SphereII/7D2DConfig/master/TheFunPimps.xml
 https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha20/War3zuk.xml
 https://ul.subquake.com/data/modlauncher/configA20.xml
 https://pastebin.com/raw/TrA78gg0
-https://raw.githubusercontent.com/7d2d-sorcery/Sorcery/master/SorceryMod.xml
+#https://raw.githubusercontent.com/7d2d-sorcery/Sorcery/master/SorceryMod.xml
+https://dev.azure.com/sorcerymod/Sorcery%20Mod/_apis/git/repositories/Sorcery%20Mod/items/items?path=/SorceryMod.xml&versionDescriptor[version]=master&resolveLfs=true&download=true
 https://gitlab.com/RizzoMF/jokemodv2/-/raw/main/JokeModLauncherConfig.xml
 https://gitlab.com/ganthegrey/greys-prophecy-config/-/raw/master/Experimental.xml
 https://gitlab.com/dwallorde/war-of-the-walkers-client-v20/-/raw/master/Mods/Z-WotW-Master/WarOfTheWalkers.xml
