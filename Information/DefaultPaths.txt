@@ -7,4 +7,4 @@ E:\SteamFolder\Steam\steamapps\common\7 Days To Die
 D:\SteamLibrary\steamapps\common\7 Days To Die
 E:\SteamLibrary\steamapps\common\7 Days To Die
 /run/media/mmcblk0p1/steamapps/common/7 Days To Die/
-%HOME%/Library/Application Support/Steam/steamapps/common/7 Days To Die
+"%HOME%/Library/Application Support/Steam/steamapps/common/7 Days To Die"
