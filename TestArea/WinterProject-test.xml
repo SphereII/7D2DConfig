@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental DMT Builds">
+		<Server Name="Winterween2" Logo="">
+			<Description>
+Recommended: 12G of RAM or higher.
+
+Recommended: Default difficulty.
+
+Required: Alpha 20.6
+        
+Welcome to the Winterween Project by sphereii and xyth, the unholy combination of Winter Project and the ancient Valoween!
+
+Steel your nerves. Steady your hands. Keep your wits about you, and you just may survive Winterween...
+
+We invite you to once more explore a special sphereii-mental release, and challenge yourself to unlock its secrets.
+        
+Thank you to the following Modlet creators who helped shape out the world with their modlets.
+
+JaxTeller718's Bigger Wandering Hordes, BirdsNestAndTrashDestroyedOnLoot, and IncrasedZombies
+Khaine for his HP Bar Mod, Dangerous Cities, and Lockable Slots
+ocbMaurice for his Enclosed Space, pin recipes, Crooked Decoration and his startup optimizer.
+AuroraGiggleFairy for the HUD mods
+Guppycur for his Card modlet
+
+Big kudos to Alter for the Snow Falling and Accumulation work.
+
+Special thanks goes to Mumpfy for his texturing work.
+
+      </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/SphereII/WinterProject-A20/releases</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
