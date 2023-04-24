@@ -18,7 +18,7 @@
 			<ReleaseNotes/>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
-				<Download>https://gitlab.com/sphereii/SphereII-Mods/-/releases/</Download>
+				<Download>https://gitlab.com/api/v4/projects/15118685/releases</Download>
 			</Downloads>
 		</Server>
 		
