@@ -6,7 +6,7 @@
 			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
-			<DownloadMode>Clone</DownloadMode>
+			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/SphereII/WinterProject-A20/releases</Download>
 			</Downloads>
@@ -16,7 +16,7 @@
 			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
-			<DownloadMode>Clone</DownloadMode>
+			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://gitlab.com/sphereii/SphereII-Mods/-/releases/</Download>
 			</Downloads>
