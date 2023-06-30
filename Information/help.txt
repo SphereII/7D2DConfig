@@ -12,5 +12,4 @@ Want to Play an Alpha 20 overhaul, but you only have Alpha 21?
   - Click On Install when you have selected you overhaul.
   - Click on Clone to make a copy of alpha20.7 for that Mod.
   - Back in Steam, repeat the step to set Beta to None to get back to Alpha 21.
-  
-https://www.twitch.tv/ayreframer?referrer=raid
+ 
