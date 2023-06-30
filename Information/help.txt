@@ -1,0 +1,15 @@
+Quick Start!
+------------
+
+  1) Pick a Default Folder. This is where all the mods will install. It should NOT be the your game copy.
+  2) Click on Install New Mod to find an overhaul. Or, click on Install Modlets to set up a place to play with modlets.
+
+Want to Play an Alpha 20 overhaul, but you only have Alpha 21?
+  - In Steam, right click on 7 Days To Die, and select Manage
+  - Click on Beta, and select alpha20.7
+  - When the update finishes, go back to the Mod Launcher
+  - Click on Install New Mod, and change the Alpha to Alpha 20
+  - Click On Install when you have selected you overhaul.
+  - Click on Clone to make a copy of alpha20.7 for that Mod.
+  - Back in Steam, repeat the step to set Beta to None to get back to Alpha 21.
+  
