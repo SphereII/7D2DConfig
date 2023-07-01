@@ -1,0 +1,65 @@
+To Have Modlets Added To The 7D2D Mod Launcher
+----------------------------------------------
+
+For indexing, Modlets must be stored on github.com or gitlab.com. No other site is supported.
+
+### How The Mod Launcher Works
+
+The Mod Launcher maintains a master profile ( https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Information/ModletProfiles.txt ).
+
+This master profile is used to display modlets for the correct version of the game.
+
+Example:
+	Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha21/DefaultProfile.txt
+	Alpha21,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha21/DefaultProfile.txt
+	Alpha20,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha20/DefaultProfile.txt
+
+Default is which folder will be displayed if no particular version is selected.
+
+A Profile for an Alpha will look similar to this:
+
+	# No tailing slashes
+	https://github.com/SphereII/SphereII.Mods
+	https://github.com/RevenantWit/7D2D_A21_Modlets
+
+	# A refenrece to a text file, which itself contains a list of repos. 
+	# This allows the mod author to have a single point of maintenance when their modlets are spread across
+	# multiple repos, and avoid having to reach out to the mod launcher maintainer to update.
+	# The File name does not matter, but it is a text file.
+	https://raw.githubusercontent.com/DonovanMods/donovan-7d2d-modlets/stable/profile.txt
+	https://gitlab.com/karlgiesing/7d2d-a21-modlets?46761604
+
+
+Indexing occurs when Mod Launcher users do a Fetch. The Mod Launcher will read one of the above profiles, and does API calls to find ModInfo.xml's.
+
+In order to reduce rate limits, the mod launcher sorts and collects all the github repos, and tries to do it in as few queries as possible.
+
+For gitlab, we specify the project id as a parameter, and then makes the query.
+
+The Mod Launcher does not support branches for modlets.
+
+### For Modders
+
+A Modlet Repository can be set up in a few different ways:
+
+1) Multiple Modlets in a single repo, each in their own directory.
+2) One modlet per repo, either in its own directory, or in the root of the repos.
+
+Recommended: Multiple Modlets in a single repo, each in their own directory.
+
+If you have one modlet per repo, and you have many repos, consider creating a text file with a link to all the repos:
+
+Example: profile.txt
+	https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/donovan-aio
+	https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/donovan-betterblades
+	https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/donovan-betterbridges
+	https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/donovan-betterbuffs
+
+Once you have your repo created, and ready, send the link to sphereii. Either on discord, or through email at Support@7D2DModLauncher.org.
+
+If you use Multiple Modlets in a single repo, you may add and remove modlets as necessary without contacting sphereii. It is updated automatically.
+
+If you use one modlet per repo, and use a profile.txt, then update your file. It is not necessary to contact sphereii.
+
+If you use one modlet per repo, and you do not use a profile.txt, you will need to contact sphereii for each new repo to be added.
+
