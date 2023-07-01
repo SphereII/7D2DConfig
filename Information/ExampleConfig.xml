@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Mod Group" Logo="" Description="I made cool mods!">
+		<Server Name="Mod-Stable" Logo="">
+			<Description>
+This is my stable version!
+
+It can be multiple lines
+
+			</Description>
+			
+			<!-- Who made -->
+			<Author>sphereii and xyth</Author>
+			
+			<!-- 
+				This forces the mod launcher to make a copy of the game for the mod. 
+				Mod that use BepInEx, and relative paths should use this setting.
+				Remove Deploy or change it to Partial to skip that step
+			-->
+			<Deploy>Full</Deploy>
+			
+			<!-- This is the alpha version you last tested with -->
+			<!-- You can use Latest if you just want the current one -->
+			<Version>alpha21.0</Version>
+			
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/...</Discord>
+			<!-- Got a website -->
+	        <WebSite>https://...</WebSite>
+			
+			<!-- Twitter? -->
+            <Twitter>https://twitter.com/...</Twitter>
+			
+			<!-- Want to give people an option to donate? -->
+            <Donate>https://www.patreon.com/ or paypal, etc</Donate>		
+
+			<!-- Got some release notes you want people to view? -->
+			<ReleaseNotes>https://...</ReleaseNotes>
+			
+			<!-- Only the first download is used -->
+			<Downloads>
+				<Download>https://gitURL</Download>
+				<!-- Examples 
+				Darkness Falls, using the master branch
+				<Download>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA20/_git/DarknessFallsA20?Branch=master</Download>
+				
+				Apocalypse Now on gitlab
+				<Download>https://gitlab.com/killerbunny264/Apoc-Now-V3-1-Stable</Download>
+				
+				Winter Project on Github
+				<Download>https://github.com/SphereII/WinterProject-A20</Download>
+			
+				-->
+			</Downloads>
+		</Server>
+		
+		<Server name="My mod -experimental" >
+			<Description>This is my experimental version! Play at your own risk!</Description>
+			<!-- Include the other attributes from above in here too! -->
+		</Server>
+	</ServerGroup>
+</Servers>
