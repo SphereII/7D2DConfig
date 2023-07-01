@@ -52,6 +52,15 @@ It can be multiple lines
 				
 				Winter Project on Github
 				<Download>https://github.com/SphereII/WinterProject-A20</Download>
+				
+				Begining with V5 of the mod launcher, it can also support Github / GitLab Releases.
+				The Mod Launcher will download the first link in the Release.
+				Github Release :
+				<Download>https://github.com/SphereII/WinterProject-A20/releases</Download>
+					
+				GitLab Release : ( web reference : https://gitlab.com/sphereii/SphereII-Mods/-/releases )
+				<Download>https://gitlab.com/api/v4/projects/15118685/releases</Download>
+
 			
 				-->
 			</Downloads>
