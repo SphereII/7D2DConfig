@@ -3,7 +3,7 @@
 	<!-- Logo is a direct link to a jpg /png file. This logo will be used if an individual mod does not have one. -->
 	<!-- If logo is not specified, the mod launcher's default will be shown. -->
 	<ServerGroup Name="Mod Group" Logo="" Description="I made cool mods!">
-		<!-- Logo is a direct link to a jpg /png file -->
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
 		<Server Name="Mod-Stable" Logo="https://">
 			<Description>
 This is my stable version!
