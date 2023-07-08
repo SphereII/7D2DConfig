@@ -107,7 +107,10 @@ Credits
 <!--	        <WebSite>https://...</WebSite>-->			
 <!--			<ReleaseNotes>https://...</ReleaseNotes>-->			
 			<Downloads>
-				<Download>https://dev.azure.com/Zilox135/_git/DistrictZeroA21?Branch=master</Download>
+
+				<Download>https://dev.azure.com/Zilox135/DistrictZeroA21/_git/DistrictZeroA21?Branch=master</Download>
+
+				
 			</Downloads>
 		</Server>
 	</ServerGroup>
