@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="District Zero" Logo="" Description="A Sci-Fi overhaul mod for 7 days to die">
+		<Server Name="District Zero - Stable" Logo="https://i.imgur.com/4bO0lHa.jpg">
+			<Description>
+- This is a sci-fi themed overhaul mod that aims to give the player a new experience. The zombies and animals have been replaced by robots, mechs and drones. It is inspired by Sci-Fi games such as Generation Zero and Detroit: Become Human.
+
+- This mod is still a work in progress and has plans to be expanded upon in the future. If you find any bugs please report them in the discord server linked below.
+
+Requirements
+- 16GB of RAM or higher
+- EAC must be OFF on the client and server
+
+Discord Server
+- Join the discord server: https://discord.gg/5HrpRdGxKd
+
+Entities
+- All zombies have been replaced by robots. Androids and cyborgs take the place of regular zombies, juggernauts replace the boss zombies, mechs take the place of feral and radiated zombies, and animals. And finally, drones take the place of birds and screamers. 
+
+- All traders have also been replaced with new models to fit with the theme. 
+
+- There are plans to expand the number of entity types for the next major release.
+
+Progression
+- The skill tree has been reworked into 6 class-style perk trees, with an additional general perk tree added. Each class has a maximum of 5 levels, spending points into the main tree of each class will unlock the perks contained in that class, except for the general perk tree, which is free for all. The deep cuts perk has been reworded and renamed to Lethal Blade.
+
+- Universal Perks - Universal perks contain a wide number of skills that one can learn.
+
+- Empath - The Empath is widely known as an intellectual for their mental ability and charismatic nature.Governed weapons are rifles and stun batons.
+
+- Cybernetician - The cybernetician specialises in the manufacture and repair of heavy duty weapons and robots. Governed weapons are machine guns and robotic turrets.
+
+- Cosmotech - The cosmotech specialises in the repair and creation of vehicles and salvage of materials. Governed weapons are clubs and shotguns.
+
+- Exomedic - The exomedic specialises in fitness and treating injuries. Governed weapons are blades and handguns.
+
+- Astrominer - The astrominer specialises in mining and resource extraction. Governed weapons are sledgehammers and explosives.
+
+- Neonaut - The neonaut specialises in multiplanetary exploration and the discovery of new species. Governed weapons are bows and spears.
+
+Status Effects
+- Infection has been removed and replaced with a radiation metre, which shows up on the UI. Your radiation level increases slowly over time but will increase significantly if you come into contact with a radiation source or adverse weather conditions in the wasteland. Anti rad pills can be found or crafted to reduce radiation effects.
+
+Weapons
+- 20+  new sci-fi-themed guns with three different tiers of progression; each tier has their own special particle effects as well.
+
+- 18 new sci-fi-themed melee weapons with three different tiers of progression have been added.
+
+- 8 new sci-fi-themed tools have been added, including new power tools such as an auger and a laser mining gun.
+
+Farming
+- Farming has been changed so that the seed stays when you harvest the crop, like it used to be in previous alphas. Plants can be grown in farm plots or directly in the ground by using the Farming Multitool. Mushrooms are now only planted in farm plots or in fertile ground.
+
+Water
+- Empty glass jars have been added back, and can be filled at water sources and many blocks in the world such as sinks, faucets, fire hydrants, collapsed dew collectors and water machines. Empty glass jars can also be crafted in the forge, and are returned to the players inventory when they consume a drink.
+
+Workstations
+- A few new workstations have been added and can perform various tasks
+
+- Blast Furnace - The blast furnace is an upgraded version of the regular forge, it can craft and smelt faster than the regular forge.
+
+- Hydro Organic Fabricator - Produces raw meat over time that can be used for cooking.
+
+- Auto Miner - An auto miner will mine resources for you overtime, resources can be collected every so often.
+
+Resources
+- Cobalt has been added as a high tier resource, and is used to craft many high tech items, it can also be used to fortify bases as it is much stronger than steel. It is a blue looking rock and can only be found, and mined in the wasteland.
+
+- Charcoal has been added and is the primary ingredient used for crafting flare rounds, which can be used to call for airdrops by firing them from a flare gun when outdoors.
+
+Biomes
+- The forest biome has been completely overhauled with new trees, rocks, tree stumps, log piles, sticks, branches, and more.
+
+- The snow biome has received some new trees.
+
+- Many new sci-fi themed vehicles have been added to populate the roads
+
+Traders
+- Trader loot has been rebalanced and focuses on each trader's specialisation more closely than vanilla.
+
+- Trader protection and invisible trader walls have been removed for a more realistic experience. Land claim blocks can be placed at traders in single player only. Traders are open all the time for easier questing.
+
+Vehicles
+- 5 new driveable Sci-Fi-themed vehicles have been added, some land and also some air vehicles such as flying and hover cars.
+
+UI
+- The HUD has been overhauled with a sci-fi look and displays health, stamina and radiation on the left, and food and water on the right. Many other UI elements also have a new look.
+
+- The backpack has been increased to 96 slots, and has the option to lock slots. Locked slots are saved upon reloading the game.
+
+Extras
+- POI lights have a limited amount of power and can be interacted with and recharged to increase their remaining power. They can also be customised in terms of colour, intensity, range and many more options to choose from.
+
+- Many decorative items in the world can be picked up by holding down E, and selecting the Take option from the interaction wheel. This serves as a way for people to decorate their bases without needing to craft decorative items. Items such as storage containers can also be picked up and moved for convenience.
+
+Credits
+- Custom Particle Loader - by closer_ex
+
+- Legacy Distant Terrain - by sphereii
+			</Description>			
+			<Author>zilox</Author>
+			<Deploy>Partial</Deploy>
+			<Version>Latest</Version>
+			<Discord>https://discord.gg/5HrpRdGxKd</Discord>
+            <Twitter>https://twitter.com/Zilox135</Twitter>
+            <Donate>https://www.paypal.com/donate/?hosted_button_id=S96TPW9B2MSBW</Donate>	
+<!--	        <WebSite>https://...</WebSite>-->			
+<!--			<ReleaseNotes>https://...</ReleaseNotes>-->			
+			<Downloads>
+				<Download>https://dev.azure.com/Zilox135/_git/DistrictZeroA21?Branch=master</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
