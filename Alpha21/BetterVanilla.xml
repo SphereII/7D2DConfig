@@ -55,7 +55,7 @@ Saxe82
 			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
-			<DownloadMode>Clone</DownloadMode>
+			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/Saxe82/BetterVanillaA21/releases</Download>
 			</Downloads>
