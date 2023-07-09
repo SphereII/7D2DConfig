@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png" Description="">
-		<Server Name="Better Vanilla Normal Version" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
+		<Server Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
 			<Description>
 About Better Vanilla A21
 What Is the Difference Between the Vanilla and the Better Vanilla?
@@ -57,7 +57,7 @@ Saxe82
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/Saxe82/BetterVanillaA21/releases/</Download>
+				<Download>https://github.com/Saxe82/BetterVanillaA21/releases</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
