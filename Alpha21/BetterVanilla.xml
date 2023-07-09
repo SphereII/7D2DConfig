@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png" Description="">
+		<Server Name="Better Vanilla Normal Version" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
+			<Description>
+About Better Vanilla A21
+What Is the Difference Between the Vanilla and the Better Vanilla?
+
+• The Better Vanilla is supported in German and English
+• 5 custom maps (4k, 6k and 10k) with Red’s POIs
+• 3 maps by DirkillerGaming (Germany, Great Britain and New York)
+• No wild animals in free range. Still available in POIs.
+• More setting options
+• Changed starting EQ in the starting quests
+• Extended starting quests to get the WLan cable for the fax
+• Max level 3000
+• Rarely rain, storm and fog
+• Hunger and thirst indicator
+• 90 slot inventory
+• 30k item stack (+ blocks/frames)
+• 3 slots in the forge
+• Increased zombie spawn
+• Zombie HP Bar
+• Zombies have new names
+• No screaming zombies from heat and volume
+• Added A19 farming (seeds stay in the ground)
+• Completely revised hunger, thirst, food system
+• Empty glasses can be restored and you can use them to draw water
+• Pots in cabinets loot bar
+• Measuring cup in campfire reduces cooking time
+• Stove with a gas bottle that allows you to cook twice as fast
+• Acid and measuring cup craftable
+• Autominer
+• Charcoal stove
+• There is a fax machine where you can get quests by fax (45 fax quests)
+• Level 6 weapons/tools/clothes craftable
+• Tools, melee weapons, and ammo are barred with the BetterVanillaItem level
+• Added additional melee weapon (Katana).
+• Blessed Metal and Divine Blade mod added
+• Trader quest rewards have been reduced
+• Wasteland added heavy zombies as spawn
+• In Wasteland you get radiation damage
+• Radiation suit craftable
+• Wandering hordes have been increased
+• Hordes will run until daybreak
+• Added twitch interaction hordes of 5
+… and many, many little things!
+
+Have fun at Better Vanilla!
+Best regards,
+Saxe82
+
+			</Description>
+			<Discord>https://discord.gg/qdwbN9VW87</Discord>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/Saxe82/BetterVanillaA21/releases/</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
