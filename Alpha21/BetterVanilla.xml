@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png" Description="">
-		<Server Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/922123234076405770/922125779729543218/logo.png">
+	<ServerGroup Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/883154737439072316/1128269195013005332/logo.png" Description="">
+		<Server Name="Better Vanilla" Logo="https://cdn.discordapp.com/attachments/883154737439072316/1128269195013005332/logo.png">
 			<Description>
 About Better Vanilla A21
 What Is the Difference Between the Vanilla and the Better Vanilla?
@@ -52,6 +52,7 @@ Saxe82
 
 			</Description>
 			<Discord>https://discord.gg/qdwbN9VW87</Discord>
+			<Donate>https://streamlabs.com/saxe82/tip</Donate>
 			<Version>Latest</Version>
 			<RSS/>
 			<ReleaseNotes/>
