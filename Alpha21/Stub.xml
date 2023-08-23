@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
+	<ServerGroup Name="Testing" Logo="" Description="Testing">
+
 	<Server Name="TestDontInstall" Logo="">
 			<Description>
 
@@ -11,4 +13,5 @@
 				
 			</Downloads>
 		</Server>
+		</ServerGroup>
 </Servers>
