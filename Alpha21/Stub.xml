@@ -2,16 +2,5 @@
 <Servers>
 	<ServerGroup Name="Testing" Logo="" Description="Testing">
 
-	<Server Name="TestDontInstall" Logo="">
-			<Description>
-
-			</Description>			
-			<Author>sphereii</Author>
-			<Deploy>Partial</Deploy>
-			<Version>Latest</Version>
-			<Downloads>
-				
-			</Downloads>
-		</Server>
-		</ServerGroup>
+	</ServerGroup>
 </Servers>
