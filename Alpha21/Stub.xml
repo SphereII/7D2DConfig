@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
+	<Server Name="TestDontInstall" Logo="">
+			<Description>
 
+			</Description>			
+			<Author>sphereii</Author>
+			<Deploy>Partial</Deploy>
+			<Version>Latest</Version>
+			<Downloads>
+				
+			</Downloads>
+		</Server>
 </Servers>
