@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Testing" Logo="" Description="">
+        <Server Name="Testing Do Not Install" Logo="">
+            <Description>
+            </Description>
+            <EAC>Disabled</EAC>
+            <Version>Latest</Version>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a21?Branch=main</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
+</Servers>
