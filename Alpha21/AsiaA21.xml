@@ -1,0 +1,36 @@
+<Servers>
+  <ServerGroup Name="Asia Mod" Logo="">
+    <Server Name="Asia Mod A21 Stable">
+		<Description>
+Asia Mod / Total Conversion
+Version 3
+Official Discord: https://discord.gg/3ejU2Ff4K2
+
+Recommended: 16GB RAM or higher
+Required: Alpha 21.1
+AntiCheat: Must be turned off.
+			
+Welcome to the Asia Mod. 
+
+This is the second version of the Asia Mod. We have integrated many new ideas into this version, but it is still in the status of development. If there are any small bugs, please let us know. There is a bug report section in our Discord and we will keep you informed about updates and changes there.
+
+All original buildings were removed and replaced by us with suitable Asian buildings. Since our team is not very large, we can currently only offer a 2k and a 4k map, as we want to keep the number of duplicate buildings as small as possible. 
+
+We hope that you like our work in which we have invested a lot of heart and passion.
+
+Banzai. Giving up is not an option.
+
+		</Description>
+		<Version>alpha21.1</Version>
+		<RSS/>
+		<Excludes></Excludes>
+		<ReleaseNotes></ReleaseNotes>
+		<Discord>https://discord.gg/3ejU2Ff4K2</Discord>
+		<Donate></Donate>
+         <DownloadMode>Clone</DownloadMode>
+		<Downloads>
+			<Download>https://AsiaMod@dev.azure.com/AsiaMod/Stable/_git/Stable_A21</Download>
+		</Downloads>	  
+    </Server>
+  </ServerGroup>
+</Servers>
