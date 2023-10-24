@@ -63,7 +63,8 @@ LINK BELOW IS FOR THOSE WHO ENJOY THE MOD AND WISH TO DONATE TO SAY THANKS https
 			<Version>alpha21.1</Version>
 			<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
 			<Downloads>
-				<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-21-AIO-Mod-Launcher_2023</Download>
+			<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-Alpha-21-AIO-Mod-Launcher_2023/_git/War3zuk-Alpha-21-AIO-Mod-Launcher_2023</Download>
+				<!--<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-21-AIO-Mod-Launcher_2023</Download>-->
 			</Downloads>
 		</Server>
 	</ServerGroup>
