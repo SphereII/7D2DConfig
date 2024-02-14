@@ -1,0 +1,694 @@
+<!--Created using the 7 Days To Dialog Application-->
+<configs>
+  <append xpath="/dialogs">
+    <dialog id="CursesDialog" startstatementid="start">
+      <statement id="start" text="dialog_trader_statement_start">
+        <response_entry id="response_-286444739" ref_text="I have the diary" />
+        <response_entry id="response_-151122301" ref_text="I lost the diary" />
+        <response_entry id="response_-1149064645" ref_text="[ Samara Morgan ]" />
+        <response_entry id="responseID_-2088969424" ref_text="Something strange happened to me." />
+        <response_entry id="shop" ref_text="dialog_trader_response_shop" />
+      <response_entry id="jobsnone" />
+      <response_entry id="jobshave1" />
+      <response_entry id="jobshave2" />
+      <response_entry id="jobshave3" />
+      <response_entry id="jobshave4" />
+      <response_entry id="jobshave5" />
+      <response_entry id="jobshave6" />
+      <response_entry id="specialjobshave" />
+
+        <response_entry id="admin" ref_text="dialog_trader_response_admin" />
+        <response_entry id="done" ref_text="dialog_trader_response_nevermind" />
+      </statement>
+      <statement id="background" text="dialog_trader_statement_background">
+        <response_entry id="navezgane" ref_text="dialog_trader_response_navezgane" />
+        <response_entry id="theduke" ref_text="dialog_trader_response_theduke" />
+        <response_entry id="cassadores" ref_text="dialog_trader_response_cassadores" />
+        <response_entry id="noah" ref_text="dialog_trader_response_noah" />
+        <response_entry id="nevermind" ref_text="dialog_trader_response_nevermind" />
+      </statement>
+      <statement id="navezgane" text="dialog_trader_statement_navezgane" nextstatementid="background" />
+      <statement id="theduke" text="dialog_trader_statement_theduke" nextstatementid="background" />
+      <statement id="cassadores" text="dialog_trader_statement_cassadores" nextstatementid="background" />
+      <statement id="noah" text="dialog_trader_statement_noah" nextstatementid="background" />
+     <statement id="currentjobs1" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="1" />
+      <quest_entry listindex="1" tier="1" />
+      <quest_entry listindex="2" tier="1" />
+      <quest_entry listindex="3" tier="1" />
+      <quest_entry listindex="4" tier="1" />
+      <response_entry id="jobsnext2" uniqueid="next" />
+      <response_entry id="jobsnext3" uniqueid="next" />
+      <response_entry id="jobsnext4" uniqueid="next" />
+      <response_entry id="jobsnext5" uniqueid="next" />
+      <response_entry id="jobsnext6" uniqueid="next" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobs2" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="2" />
+      <quest_entry listindex="1" tier="2" />
+      <quest_entry listindex="2" tier="2" />
+      <quest_entry listindex="3" tier="2" />
+      <quest_entry listindex="4" tier="2" />
+      <response_entry id="jobsprev1" uniqueid="prev" />
+      <response_entry id="jobsnext3" uniqueid="next" />
+      <response_entry id="jobsnext4" uniqueid="next" />
+      <response_entry id="jobsnext5" uniqueid="next" />
+      <response_entry id="jobsnext6" uniqueid="next" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobs3" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="3" />
+      <quest_entry listindex="1" tier="3" />
+      <quest_entry listindex="2" tier="3" />
+      <quest_entry listindex="3" tier="3" />
+      <quest_entry listindex="4" tier="3" />
+      <response_entry id="jobsprev2" uniqueid="prev" />
+      <response_entry id="jobsprev1" uniqueid="prev" />
+      <response_entry id="jobsnext4" uniqueid="next" />
+      <response_entry id="jobsnext5" uniqueid="next" />
+      <response_entry id="jobsnext6" uniqueid="next" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobs4" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="4" />
+      <quest_entry listindex="1" tier="4" />
+      <quest_entry listindex="2" tier="4" />
+      <quest_entry listindex="3" tier="4" />
+      <quest_entry listindex="4" tier="4" />
+      <response_entry id="jobsprev3" uniqueid="prev" />
+      <response_entry id="jobsprev2" uniqueid="prev" />
+      <response_entry id="jobsprev1" uniqueid="prev" />
+      <response_entry id="jobsnext5" uniqueid="next" />
+      <response_entry id="jobsnext6" uniqueid="next" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobs5" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="5" />
+      <quest_entry listindex="1" tier="5" />
+      <quest_entry listindex="2" tier="5" />
+      <quest_entry listindex="3" tier="5" />
+      <quest_entry listindex="4" tier="5" />
+      <response_entry id="jobsprev4" uniqueid="prev" />
+      <response_entry id="jobsprev3" uniqueid="prev" />
+      <response_entry id="jobsprev2" uniqueid="prev" />
+      <response_entry id="jobsprev1" uniqueid="prev" />
+      <response_entry id="jobsnext6" uniqueid="next" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobs6" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry listindex="0" tier="6" />
+      <quest_entry listindex="1" tier="6" />
+      <quest_entry listindex="2" tier="6" />
+      <quest_entry listindex="3" tier="6" />
+      <quest_entry listindex="4" tier="6" />
+      <response_entry id="jobsprev5" uniqueid="prev" />
+      <response_entry id="jobsprev4" uniqueid="prev" />
+      <response_entry id="jobsprev3" uniqueid="prev" />
+      <response_entry id="jobsprev2" uniqueid="prev" />
+      <response_entry id="jobsprev1" uniqueid="prev" />
+      <response_entry id="nevermind" />
+    </statement>
+    <statement id="currentjobsspecial" text="dialog_trader_statement_currentjobs" nextstatementid="start">
+      <quest_entry type="special" listindex="0" />
+      <quest_entry type="special" listindex="1" />
+      <quest_entry type="special" listindex="2" />
+      <quest_entry type="special" listindex="3" />
+      <quest_entry type="special" listindex="4" />
+      <response_entry id="nevermind" />
+    </statement>
+	   <response id="jobsnone" text="dialog_trader_response_jobsnone" nextstatementid="nojobs">
+      <requirement type="QuestStatus" value="InProgress" requirementtype="Hide" />
+    </response>
+    <response id="jobshave1" text="dialog_trader_response_jobshave" nextstatementid="currentjobs1">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="1" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobshave2" text="dialog_trader_response_jobshave" nextstatementid="currentjobs2">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="2" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobshave3" text="dialog_trader_response_jobshave" nextstatementid="currentjobs3">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="3" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobshave4" text="dialog_trader_response_jobshave" nextstatementid="currentjobs4">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="4" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobshave5" text="dialog_trader_response_jobshave" nextstatementid="currentjobs5">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="5" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobshave6" text="dialog_trader_response_jobshave" nextstatementid="currentjobs6">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" />
+      <requirement type="QuestTierHighest" value="6" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+    <response id="jobsprev1" text="dialog_trader_response_prevtier" nextstatementid="currentjobs1">
+      <requirement type="QuestTier" value="1" requirementtype="Hide" />
+    </response>
+    <response id="jobsprev2" text="dialog_trader_response_prevtier" nextstatementid="currentjobs2">
+      <requirement type="QuestTier" value="2" requirementtype="Hide" />
+    </response>
+    <response id="jobsprev3" text="dialog_trader_response_prevtier" nextstatementid="currentjobs3">
+      <requirement type="QuestTier" value="3" requirementtype="Hide" />
+    </response>
+    <response id="jobsprev4" text="dialog_trader_response_prevtier" nextstatementid="currentjobs4">
+      <requirement type="QuestTier" value="4" requirementtype="Hide" />
+    </response>
+    <response id="jobsprev5" text="dialog_trader_response_prevtier" nextstatementid="currentjobs5">
+      <requirement type="QuestTier" value="5" requirementtype="Hide" />
+    </response>
+    <response id="jobsnext2" text="dialog_trader_response_nexttier" nextstatementid="currentjobs2">
+      <requirement type="QuestTier" value="2" requirementtype="Hide" />
+    </response>
+    <response id="jobsnext3" text="dialog_trader_response_nexttier" nextstatementid="currentjobs3">
+      <requirement type="QuestTier" value="3" requirementtype="Hide" />
+    </response>
+    <response id="jobsnext4" text="dialog_trader_response_nexttier" nextstatementid="currentjobs4">
+      <requirement type="QuestTier" value="4" requirementtype="Hide" />
+    </response>
+    <response id="jobsnext5" text="dialog_trader_response_nexttier" nextstatementid="currentjobs5">
+      <requirement type="QuestTier" value="5" requirementtype="Hide" />
+    </response>
+    <response id="jobsnext6" text="dialog_trader_response_nexttier" nextstatementid="currentjobs6">
+      <requirement type="QuestTier" value="6" requirementtype="Hide" />
+    </response>
+    <response id="specialjobshave" text="dialog_trader_response_specialjobshave" nextstatementid="currentjobsspecial">
+      <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" tag="special" />
+      <requirement type="QuestsAvailable" value="special" requirementtype="Hide" />
+      <action type="AddJournalEntry" id="questTip" />
+    </response>
+      <statement id="nojobs" text="dialog_trader_statement_nojobs" nextstatementid="start" />
+      <statement id="admin" text="dialog_trader_statement_admin">
+        <response_entry id="restock" ref_text="dialog_trader_response_restock" />
+        <response_entry id="resetquests" ref_text="dialog_trader_response_resetquests" />
+        <response_entry id="nevermind" ref_text="dialog_trader_response_nevermind" />
+      </statement>
+      <statement id="statement_-911053284" text="statement_-911053284">
+        <response_entry id="response_1544326785" ref_text="I seen a very strange video." />
+        <response_entry id="response_1374956358" ref_text="I heard a loud scream. It hurt my ears." />
+        <response_entry id="response_1277759608" ref_text="Never mind. I don't want to talk about it." />
+      </statement>
+      <statement id="statement_1825662454" text="statement_1825662454">
+        <response_entry id="responseID_-2044119719" ref_text="No, it wasn't from a girl." />
+        <response_entry id="response_1949193699" ref_text="Yes! It was a little girl." />
+        <response_entry id="responseID_-1816999489" ref_text="I don't want to talk about it." />
+      </statement>
+      <statement id="statement_570755" text="statement_570755">
+        <response_entry id="response_-1619478389" ref_text="I haven't felt right since I heard the scream. What does it do?" />
+        <response_entry id="responseID_-1620771424" ref_text="What's her story?" />
+      </statement>
+      <statement id="statement_-934124723" text="statement_-934124723">
+        <response_entry id="response_172563136" ref_text="Thanks... you've been a big help." />
+      </statement>
+      <statement id="statement_1709391836" text="statement_1709391836">
+        <response_entry id="response_-908346532" ref_text="They still do..." />
+      </statement>
+      <statement id="statement_-1964541540" text="statement_-1964541540">
+        <response_entry id="response_1159530012" ref_text="The undead come." />
+      </statement>
+      <statement id="statement_2042917692" text="statement_2042917692">
+        <response_entry id="responseID_1785660431" ref_text="You need to get out more." />
+        <response_entry id="response_2032191363" ref_text="Ha! I get it. That was a joke!" />
+      </statement>
+      <statement id="statement_-1296294849" text="statement_-1296294849">
+        <response_entry id="responseID_-1144522923" ref_text="That seems a bit far fetch." />
+        <response_entry id="response_172128771" ref_text="How can I get rid of it?" />
+      </statement>
+      <statement id="statement_-1186374644" text="statement_-1186374644">
+        <response_entry id="response_1743203988" ref_text="Thank you. I'll be careful." />
+      </statement>
+      <statement id="statement_113540401" text="statement_113540401">
+        <response_entry id="responseID_1232077073" ref_text="Their stories aren't the only things unhinged around here." />
+        <response_entry id="responseID_-1127505608" ref_text="I don't believe it." />
+        <response_entry id="response_1949206230" ref_text="I believe you." />
+        <response_entry id="responseID_1776533721" ref_text="Thanks" />
+      </statement>
+      <statement id="statement_1278125788" text="statement_1278125788">
+        <response_entry id="response_1691070598" ref_text="Thanks" />
+      </statement>
+      <statement id="statement_696519040" text="statement_696519040">
+        <response_entry id="responseID_845310413" ref_text="I think you are eating with only one chopstick, my friend." />
+        <response_entry id="responseID_-1518495351" ref_text="I think you are as crazy as a bag of hammers." />
+        <response_entry id="responseID_1914720825" ref_text="Nothing, your gate door was a bit loose. I fixed it for you." />
+      </statement>
+      <statement id="statement_-1817427719" text="statement_-1817427719">
+        <response_entry id="responseID_-581876162" ref_text="Any time." />
+      </statement>
+      <statement id="statement_-425807045" text="statement_-425807045">
+        <response_entry id="response_1110710329" ref_text="I'll find sub-par hammers elsewhere then." />
+      </statement>
+      <statement id="statement_219039082" text="statement_219039082">
+        <response_entry id="response_-514234855" ref_text="Thanks. I'll accept the gift." />
+        <response_entry id="responseID_1303045766" ref_text="No thank you. I don't want it. It'll probably break." />
+      </statement>
+      <statement id="statement_1590747344" text="statement_1590747344">
+        <response_entry id="response_1230984892" ref_text="There was a strange glowing ring." />
+        <response_entry id="responseID_233506901" ref_text="Never mind" />
+      </statement>
+      <statement id="statement_-1609352553" text="statement_-1609352553">
+        <response_entry id="response_-293129496" ref_text="How can I get rid of it?" />
+        <response_entry id="response_-1130590735" ref_text="Who is Samara Morgan?" />
+        <response_entry id="responseID_-510829499" ref_text="Never mind" />
+      </statement>
+      <statement id="statement_-763794064" text="statement_-763794064">
+        <response_entry id="response_-1331421506" ref_text="Thank you for the information." />
+      </statement>
+      <statement id="statement_-1138598353" text="statement_-1138598353">
+        <response_entry id="response_-881605692" ref_text="I have the diary. " />
+        <response_entry id="response_-1454898946" ref_text="I lost the diary." />
+        <response_entry id="response_246289760" ref_text="I will look for it." />
+        <response_entry id="response_-1572949998" ref_text="I don't have time for this." />
+      </statement>
+      <statement id="statement_-111266730" text="statement_-111266730">
+        <response_entry id="response_626516940" ref_text="Thank you." />
+      </statement>
+      <statement id="statement_632825439" text="statement_632825439">
+        <response_entry id="responseID_-947362790" ref_text="Yeah... I won't lose this one." />
+      </statement>
+      <statement id="statement_-1601191281" text="statement_-1601191281">
+        <response_entry id="response_131981184" ref_text="Wait, no! I was kidding!" />
+        <response_entry id="responseID_-1415535068" ref_text="I don't need luck." />
+      </statement>
+      <statement id="statement_-317566110" text="statement_-317566110">
+        <response_entry id="response_-1520921594" ref_text="[ WAIT ]" />
+      </statement>
+      <statement id="statement_-1845266020" text="statement_-1845266020">
+        <response_entry id="response_-236901975" ref_text="What does it say about Anna and Richard Morgan?" />
+        <response_entry id="response_2045784180" ref_text="What does she say about her adoption?" />
+        <response_entry id="response_1359039742" ref_text="Thanks" />
+      </statement>
+      <statement id="statement_1243736811" text="statement_1243736811">
+        <response_entry id="response_-639509777" ref_text="What other things are written about her adoption?" />
+        <response_entry id="response_264446954" ref_text="Who would have told her about her adoption?" />
+        <response_entry id="response_1038183931" ref_text="Okay" />
+      </statement>
+      <statement id="statement_-1563528298" text="statement_-1563528298">
+        <response_entry id="response_2024934934" ref_text="Why would they tell her that her mother tried to kill her?" />
+        <response_entry id="response_1439182572" ref_text="Okay" />
+      </statement>
+      <statement id="statement_-83934518" text="statement_-83934518">
+        <response_entry id="response_1525419981" ref_text="Okay" />
+      </statement>
+      <statement id="statement_83608389" text="statement_83608389">
+        <response_entry id="response_602165134" ref_text="Do you think knowing more would help?" />
+      </statement>
+      <statement id="statement_655574936" text="statement_655574936">
+        <response_entry id="response_1145339368" ref_text="Okay" />
+      </statement>
+      <statement id="statement_786933789" text="statement_786933789">
+        <response_entry id="response_-495717349" ref_text="Anything more about Richard?" />
+        <response_entry id="response_1264363158" ref_text="Anything more about Anna?" />
+        <response_entry id="responseID_-1885425916" ref_text="Okay." />
+      </statement>
+      <statement id="statement_816304593" text="statement_816304593">
+        <response_entry id="response_1360727416" ref_text="Samara disappeared before Anna jumped off the cliff." />
+        <response_entry id="responseID_2030476192" ref_text="Okay" />
+      </statement>
+      <statement id="statement_-1432676731" text="statement_-1432676731">
+        <response_entry id="response_657063919" ref_text="[ WAIT ]" />
+      </statement>
+      <statement id="statement_778325609" text="statement_778325609">
+        <response_entry id="response_298672081" ref_text="Why wouldn't anyone care?" />
+      </statement>
+      <statement id="statement_2100192137" text="statement_2100192137">
+        <response_entry id="response_-1603940508" ref_text="Okay" />
+      </statement>
+      <statement id="statement_-1610564841" text="statement_-1610564841">
+        <response_entry id="response_-1209839653" ref_text="What kind of troubles did they have?" />
+        <response_entry id="response_1034513739" ref_text="Okay" />
+      </statement>
+      <statement id="statement_341531454" text="statement_341531454">
+        <response_entry id="response_1559341662" ref_text="Okay" />
+      </statement>
+      <statement id="statement_1371118153" text="statement_1371118153">
+        <response_entry id="response_1990407042" ref_text="I have the DVD now." />
+        <response_entry id="response_1554810611" ref_text="I have the spare parts" />
+        <response_entry id="responseID_-207980305" ref_text="[ Shelter Mountain ]" />
+        <response_entry id="response_1312085215" ref_text="[ Diary ]" />
+        <response_entry id="responseID_1507843966" ref_text="[ Pictures ]" />
+        <response_entry id="responseID_76486222" ref_text="[ Samara's Memories ]" />
+        <response_entry id="response_-1271784871" ref_text="[ Horses ] " />
+        <response_entry id="response_60838677" ref_text="Never mind" />
+      </statement>
+      <statement id="statement_2008929533" text="statement_2008929533">
+        <response_entry id="response_1587852243" ref_text="What do I need to do?" />
+        <response_entry id="response_1190592597" ref_text="Okay" />
+      </statement>
+      <statement id="statement_507174621" text="statement_507174621">
+        <response_entry id="response_-480646321" ref_text="What do I need to do?" />
+        <response_entry id="response_-188593867" ref_text="Okay" />
+      </statement>
+      <statement id="statement_358750944" text="statement_358750944">
+        <response_entry id="response_1536622570" ref_text="What should I do?" />
+        <response_entry id="response_-1277426001" ref_text="Okay" />
+      </statement>
+      <statement id="statement_926736863" text="statement_926736863">
+        <response_entry id="response_-1989035189" ref_text="I'll find some. What should I do with them?" />
+        <response_entry id="responseID_600718190" ref_text="I'm not wasting my time on horses." />
+      </statement>
+      <statement id="statement_843620287" text="statement_843620287">
+        <response_entry id="responseID_158919345" ref_text="Thank you" />
+      </statement>
+      <statement id="statement_277047307" text="statement_277047307">
+        <response_entry id="response_-969323264" ref_text="Never mind" />
+      </statement>
+      <statement id="statement_-1653767314" text="statement_-1653767314">
+        <response_entry id="response_-499484581" ref_text="Thank you. I will." />
+      </statement>
+      <statement id="statement_310153262" text="statement_310153262">
+        <response_entry id="response_-948836419" ref_text="I'll search for them" />
+      </statement>
+      <statement id="statement_207420822" text="statement_207420822">
+        <response_entry id="response_-452610220" ref_text="[ Samara's Body ]" />
+        <response_entry id="response_966181413" ref_text="[ Shelter Mountain Inn ]" />
+        <response_entry id="response_-1108602506" ref_text="[ Horses ]" />
+        <response_entry id="response_-11941819" ref_text="Never mind" />
+      </statement>
+      <statement id="statement_604703902" text="statement_604703902">
+        <response_entry id="response_-1137698064" ref_text="Why did she hate the horses?" />
+      </statement>
+      <statement id="statement_-641915930" text="statement_-641915930">
+        <response_entry id="response_-1241857627" ref_text="How did she kill the horses? She was only small." />
+      </statement>
+      <statement id="statement_-1588651119" text="statement_-1588651119">
+        <response_entry id="response_-1883435463" ref_text="What was Samara?" />
+      </statement>
+      <statement id="statement_995560205" text="statement_995560205">
+        <response_entry id="response_-869412315" ref_text="Thanks... I think." />
+      </statement>
+      <statement id="statement_-511015206" text="statement_-511015206">
+        <response_entry id="response_8881699" ref_text="Thank you. I'll go right now." />
+      </statement>
+      <statement id="statement_1792478159" text="statement_1792478159">
+        <response_entry id="response_1023446245" ref_text="I will." />
+      </statement>
+      <statement id="statement_1047462225" text="statement_1047462225">
+        <response_entry id="responseID_-1589115627" ref_text="The ring in the video was from the well lid closing" />
+        <response_entry id="response_-1161418790" ref_text="So Samara was murdered..." />
+      </statement>
+      <statement id="statement_-1028949693" text="statement_-1028949693">
+        <response_entry id="response_1357038434" ref_text="I guess she had enough" />
+      </statement>
+      <statement id="statement_-1054903595" text="statement_-1054903595">
+        <response_entry id="response_1747011035" ref_text="How long do you think she was alive for?" />
+      </statement>
+      <statement id="statement_531574442" text="statement_531574442">
+        <response_entry id="response_2139702701" ref_text="She probably couldn't live with herself anymore" />
+      </statement>
+      <statement id="statement_-64306763" text="statement_-64306763">
+        <response_entry id="response_-1653223472" ref_text="[ Next ]" />
+      </statement>
+      <statement id="statement_-824755831" text="statement_-824755831">
+        <response_entry id="response_170492573" ref_text="If she died at the bottom of that well, how did she make the video?" />
+      </statement>
+      <statement id="statement_808268362" text="statement_808268362">
+        <response_entry id="response_692561290" ref_text="Why did she make the video?" />
+      </statement>
+      <statement id="statement_759720541" text="statement_759720541">
+        <response_entry id="response_-2145927645" ref_text="Couldn't or wouldn't?" />
+      </statement>
+      <statement id="statement_-1960440832" text="statement_-1960440832">
+        <response_entry id="response_1507659575" ref_text="Know about her? She's dead. Why would she care?" />
+      </statement>
+      <statement id="statement_1929307888" text="statement_1929307888">
+        <response_entry id="response_1958032391" ref_text="It's not dead then? With everything I've done, it lives?" />
+      </statement>
+      <statement id="statement_-1778677533" text="statement_-1778677533">
+        <response_entry id="response_-1384724228" ref_text="She is still coming for me?" />
+      </statement>
+      <statement id="statement_-2054310279" text="statement_-2054310279">
+        <response_entry id="response_-92236955" ref_text="I've wasted all this time listening to you when I could have been running." />
+      </statement>
+      <statement id="statement_-1114866312" text="statement_-1114866312">
+        <response_entry id="response_-204844403" ref_text="To what end? I'm still dead when she comes for me." />
+      </statement>
+      <statement id="statement_-586293420" text="statement_-586293420">
+        <response_entry id="response_-2064346467" ref_text="You want me to write a book?" />
+        <response_entry id="response_-2062358013" ref_text="You know. Isn't that enough?" />
+        <response_entry id="response_-780212454" ref_text="I'm done with you. You've killed me." />
+      </statement>
+      <statement id="statement_1491270808" text="statement_1491270808">
+        <response_entry id="response_1441135985" ref_text="It was just an idea..." />
+      </statement>
+      <statement id="statement_272570392" text="statement_272570392">
+        <response_entry id="response_-1829292311" ref_text="What do you mean? How is the video the key?" />
+      </statement>
+      <statement id="statement_1345208007" text="statement_1345208007">
+        <response_entry id="response_949223669" ref_text="How do we do that?" />
+      </statement>
+      <statement id="statement_1790083874" text="statement_1790083874">
+        <response_entry id="response_1043406159" ref_text="I'll find some." />
+      </statement>
+      <statement id="statement_335517511" text="statement_335517511">
+        <response_entry id="response_1082666055" ref_text="[ WAIT ]" />
+      </statement>
+      <statement id="statement_-1547291539" text="statement_-1547291539">
+        <response_entry id="responseID_-1176316112" ref_text="I don't have the DVD." />
+        <response_entry id="response_-622069112" ref_text="I have the DVD" />
+      </statement>
+      <statement id="statement_-443382724" text="statement_-443382724">
+        <response_entry id="response_2127147936" ref_text="Thank you for doing this for me." />
+      </statement>
+      <statement id="statement_258652666" text="statement_258652666">
+        <response_entry id="response_1601539022" ref_text="I'm not done yet..." />
+      </statement>
+      <statement id="statement_843248462" text="statement_843248462">
+        <response_entry id="response_1658290028" ref_text="Who did you send it to?" />
+      </statement>
+      <statement id="statement_1450290941" text="statement_1450290941">
+        <response_entry id="response_1753254079" ref_text="Did we just kill someone?" />
+      </statement>
+      <statement id="statement_305002939" text="statement_305002939">
+        <response_entry id="response_1977811390" ref_text="Okay..." />
+      </statement>
+      <response id="shop" text="dialog_trader_response_shop">
+        <action type="Trader" id="trade" />
+      </response>
+      <response id="jobsnone" text="dialog_trader_response_jobsnone" nextstatementid="nojobs">
+        <requirement type="QuestStatus" value="InProgress" requirementtype="Hide" Hash="Requirement_1318699843" />
+      </response>
+      <response id="jobshave" text="dialog_trader_response_jobshave" nextstatementid="currentjobs">
+        <requirement type="QuestStatus" value="NotStarted" requirementtype="Hide" Hash="Requirement_1079517332" />
+        <action type="AddJournalEntry" id="questTip" />
+      </response>
+
+      <response id="background" text="dialog_trader_response_background" nextstatementid="background" />
+      <response id="navezgane" text="dialog_trader_response_navezgane" nextstatementid="navezgane" />
+      <response id="theduke" text="dialog_trader_response_theduke" nextstatementid="theduke" />
+      <response id="cassadores" text="dialog_trader_response_cassadores" nextstatementid="cassadores" />
+      <response id="noah" text="dialog_trader_response_noah" nextstatementid="noah" />
+      <response id="whiteriveroutposts" text="dialog_trader_response_whiteriveroutposts" nextstatementid="whiteriveroutposts" />
+      <response id="nevermind" text="dialog_trader_response_nevermind" nextstatementid="start" />
+      <response id="admin" text="dialog_trader_statement_admin" nextstatementid="admin">
+        <requirement type="Admin" requirementtype="Hide" Hash="Requirement_-666464561" />
+      </response>
+      <response id="restock" text="dialog_trader_response_restock">
+        <action type="Trader" id="restock" />
+      </response>
+      <response id="resetquests" text="dialog_trader_response_resetquests">
+        <action type="Trader" id="reset_quests" />
+      </response>
+      <response id="done" text="Done" />
+      <response id="responseID_-2088969424" text="responseID_-2088969424" nextstatementid="statement_-911053284">
+        <requirement type="HasBuffSDX, SCore" value="buffCursed" requirementtype="Hide" Hash="Requirement_-1434088733" />
+      </response>
+      <response id="response_1374956358" text="response_1374956358" nextstatementid="statement_1825662454">
+        <requirement type="HasBuffSDX, SCore" value="buffScreamerCursed" requirementtype="Hide" Hash="Requirement_1335115275" />
+      </response>
+      <response id="response_1277759608" text="response_1277759608" nextstatementid="start" />
+      <response id="response_1949193699" text="response_1949193699" nextstatementid="statement_570755" />
+      <response id="responseID_-2044119719" text="responseID_-2044119719" nextstatementid="statement_-934124723" />
+      <response id="responseID_-1816999489" text="responseID_-1816999489" nextstatementid="start" />
+      <response id="response_172563136" text="response_172563136" nextstatementid="start" />
+      <response id="responseID_-1620771424" text="responseID_-1620771424" nextstatementid="statement_1709391836" />
+      <response id="response_-908346532" text="response_-908346532" nextstatementid="statement_-1964541540" />
+      <response id="response_1159530012" text="response_1159530012" nextstatementid="statement_2042917692" />
+      <response id="response_2032191363" text="response_2032191363" nextstatementid="statement_570755" />
+      <response id="responseID_1785660431" text="responseID_1785660431" nextstatementid="statement_570755" />
+      <response id="response_-1619478389" text="response_-1619478389" nextstatementid="statement_-1296294849" />
+      <response id="response_172128771" text="response_172128771" nextstatementid="statement_-1186374644" />
+      <response id="response_1743203988" text="response_1743203988" nextstatementid="start" />
+      <response id="responseID_-1144522923" text="responseID_-1144522923" nextstatementid="statement_113540401" />
+      <response id="response_1949206230" text="response_1949206230" nextstatementid="start" />
+      <response id="responseID_-1127505608" text="responseID_-1127505608" nextstatementid="statement_1278125788" />
+      <response id="responseID_1232077073" text="responseID_1232077073" nextstatementid="statement_696519040" />
+      <response id="responseID_1776533721" text="responseID_1776533721" nextstatementid="start" />
+      <response id="response_1691070598" text="response_1691070598" />
+      <response id="responseID_1914720825" text="responseID_1914720825" nextstatementid="statement_-1817427719" />
+      <response id="responseID_-1518495351" text="responseID_-1518495351" nextstatementid="statement_-425807045">
+        <action type="AddBuff" id="buffBadAttitude" />
+      </response>
+      <response id="responseID_-581876162" text="responseID_-581876162" nextstatementid="start" />
+      <response id="response_1110710329" text="response_1110710329" />
+      <response id="responseID_845310413" text="responseID_845310413" nextstatementid="statement_219039082">
+        <action type="AddBuff" id="buffBadAttitude" />
+      </response>
+      <response id="response_-514234855" text="response_-514234855">
+        <action type="AddItemSDX, SCore" id="dvd04" />
+        <action type="AddItemSDX, SCore" id="VideoPlayer" />
+        <action type="AddBuff" id="buffBadAttitude" />
+      </response>
+      <response id="responseID_1303045766" text="responseID_1303045766">
+        <action type="AddBuff" id="buffBadAttittude" />
+      </response>
+      <response id="response_1544326785" text="response_1544326785" nextstatementid="statement_1590747344">
+        <requirement type="HasBuffSDX, SCore" value="buffCursedSamaraMorgan" requirementtype="Hide" Hash="Requirement_-101666296" />
+      </response>
+      <response id="response_1230984892" text="response_1230984892" nextstatementid="statement_-1609352553" />
+      <response id="responseID_233506901" text="responseID_233506901" nextstatementid="start" />
+      <response id="response_-1130590735" text="response_-1130590735" nextstatementid="statement_-763794064" />
+      <response id="responseID_-510829499" text="responseID_-510829499" nextstatementid="start" />
+      <response id="response_-1331421506" text="response_-1331421506" nextstatementid="statement_-1609352553" />
+      <response id="response_-293129496" text="response_-293129496" nextstatementid="statement_-1138598353" />
+      <response id="response_246289760" text="response_246289760" nextstatementid="statement_-111266730">
+        <action type="GiveQuestSDX, SCore" id="quest_Samara_Diary01" />
+      </response>
+      <response id="response_-1454898946" text="response_-1454898946" nextstatementid="statement_632825439">
+        <requirement type="HasFailedQuestSDX, SCore" value="quest_Samara_Diary01" requirementtype="Hide" Hash="Requirement_367752210" />
+        <action type="GiveQuestSDX, SCore" id="quest_Samara_Diary01" />
+      </response>
+      <response id="response_-1572949998" text="response_-1572949998" nextstatementid="statement_-1601191281" />
+      <response id="response_131981184" text="response_131981184" nextstatementid="statement_-1138598353" />
+      <response id="responseID_-1415535068" text="responseID_-1415535068" nextstatementid="start" />
+      <response id="response_626516940" text="response_626516940" nextstatementid="start" />
+      <response id="responseID_-947362790" text="responseID_-947362790" nextstatementid="start" />
+      <response id="response_-881605692" text="response_-881605692" nextstatementid="statement_-317566110">
+        <requirement type="HasItemSDX, SCore" value="1" requirementtype="Hide" id="SamaraMorganDiary01" Hash="Requirement_-1630047385" />
+        <action type="AddCVar, SCore" id="quest_Samara_Diary" value="1" operator="set" />
+        <action type="GiveToNPC, SCore" id="SamaraMorganDiary01" value="1" />
+      </response>
+      <response id="response_-1520921594" text="response_-1520921594" nextstatementid="statement_-1845266020" />
+      <response id="response_2045784180" text="response_2045784180" nextstatementid="statement_1243736811" />
+      <response id="response_264446954" text="response_264446954" nextstatementid="statement_-1563528298" />
+      <response id="response_1439182572" text="response_1439182572" nextstatementid="statement_1243736811" />
+      <response id="response_1038183931" text="response_1038183931" nextstatementid="statement_-1845266020" />
+      <response id="response_2024934934" text="response_2024934934" nextstatementid="statement_-83934518" />
+      <response id="response_1525419981" text="response_1525419981" nextstatementid="statement_1243736811" />
+      <response id="response_-639509777" text="response_-639509777" nextstatementid="statement_83608389" />
+      <response id="response_602165134" text="response_602165134" nextstatementid="statement_655574936" />
+      <response id="response_1145339368" text="response_1145339368" nextstatementid="statement_-1845266020" />
+      <response id="response_-236901975" text="response_-236901975" nextstatementid="statement_786933789" />
+      <response id="response_1264363158" text="response_1264363158" nextstatementid="statement_816304593" />
+      <response id="response_1360727416" text="response_1360727416" nextstatementid="statement_-1432676731" />
+      <response id="responseID_2030476192" text="responseID_2030476192" nextstatementid="statement_-1845266020" />
+      <response id="response_657063919" text="response_657063919" nextstatementid="statement_778325609" />
+      <response id="response_298672081" text="response_298672081" nextstatementid="statement_2100192137" />
+      <response id="response_-1603940508" text="response_-1603940508" nextstatementid="statement_-1845266020" />
+      <response id="response_-495717349" text="response_-495717349" nextstatementid="statement_-1610564841" />
+      <response id="responseID_-1885425916" text="responseID_-1885425916" nextstatementid="statement_-1845266020" />
+      <response id="response_-1209839653" text="response_-1209839653" nextstatementid="statement_341531454" />
+      <response id="response_1559341662" text="response_1559341662" nextstatementid="statement_-1610564841" />
+      <response id="response_1034513739" text="response_1034513739" nextstatementid="statement_-1845266020" />
+      <response id="response_1359039742" text="response_1359039742" nextstatementid="start" />
+      <response id="response_-1149064645" text="response_-1149064645" nextstatementid="statement_1371118153">
+        <requirement type="HasBuffSDX, SCore" value="buffCursedSamaraMorgan" requirementtype="Hide" Hash="Requirement_-101666296" />
+        <requirement type="HasCVarSDX, SCore" value="1" requirementtype="Hide" operator="GTE" id="quest_Samara_Diary" Hash="Requirement_-2138114132" />
+        <requirement type="HasCompletedQuestSDX, SCore" value="quest_Samara_Diary01" requirementtype="Hide" Hash="Requirement_1047643823" />
+      </response>
+      <response id="response_-1271784871" text="response_-1271784871" nextstatementid="statement_2008929533" />
+      <response id="response_60838677" text="response_60838677" nextstatementid="start" />
+      <response id="responseID_76486222" text="responseID_76486222" nextstatementid="statement_507174621" />
+      <response id="responseID_1507843966" text="responseID_1507843966" nextstatementid="statement_358750944" />
+      <response id="response_-188593867" text="response_-188593867" nextstatementid="statement_1371118153" />
+      <response id="response_-1277426001" text="response_-1277426001" nextstatementid="statement_1371118153" />
+      <response id="response_1190592597" text="response_1190592597" nextstatementid="statement_1371118153" />
+      <response id="response_1587852243" text="response_1587852243" nextstatementid="statement_926736863" />
+      <response id="response_-1989035189" text="response_-1989035189" nextstatementid="statement_843620287" />
+      <response id="responseID_600718190" text="responseID_600718190" nextstatementid="statement_277047307" />
+      <response id="response_-969323264" text="response_-969323264" nextstatementid="statement_1371118153" />
+      <response id="responseID_158919345" text="responseID_158919345" nextstatementid="statement_1371118153" />
+      <response id="response_-480646321" text="response_-480646321" nextstatementid="statement_-1653767314" />
+      <response id="response_-499484581" text="response_-499484581" nextstatementid="statement_1371118153" />
+      <response id="response_1536622570" text="response_1536622570" nextstatementid="statement_310153262" />
+      <response id="response_-948836419" text="response_-948836419" nextstatementid="statement_1371118153" />
+      <response id="responseID_-207980305" text="responseID_-207980305" nextstatementid="statement_207420822">
+        <requirement type="HasCVarSDX, SCore" value="4" requirementtype="Hide" operator="GTE" id="curseSamaraMorganHorses" Hash="Requirement_1614479756" />
+        <requirement type="HasCVarSDX, SCore" value="2" requirementtype="Hide" operator="GTE" id="curseSamaraMorganMemories" Hash="Requirement_-1134006478" />
+        <requirement type="HasCVarSDX, SCore" value="4" requirementtype="Hide" operator="GTE" id="curseSamaraMorganPictures" Hash="Requirement_-2118896807" />
+      </response>
+      <response id="response_-1108602506" text="response_-1108602506" nextstatementid="statement_604703902" />
+      <response id="response_-1137698064" text="response_-1137698064" nextstatementid="statement_-641915930" />
+      <response id="response_-1241857627" text="response_-1241857627" nextstatementid="statement_-1588651119" />
+      <response id="response_-1883435463" text="response_-1883435463" nextstatementid="statement_995560205" />
+      <response id="response_-869412315" text="response_-869412315" nextstatementid="statement_207420822" />
+      <response id="response_966181413" text="response_966181413" nextstatementid="statement_-511015206" />
+      <response id="response_8881699" text="response_8881699" nextstatementid="statement_1792478159">
+        <action type="GiveQuestSDX, SCore" id="quest_Samara_Well" />
+      </response>
+      <response id="response_1023446245" text="response_1023446245" nextstatementid="statement_207420822" />
+      <response id="response_-452610220" text="response_-452610220" nextstatementid="statement_1047462225">
+        <requirement type="HasCVarSDX, SCore" value="1" requirementtype="Hide" operator="GTE" id="SamaraBodyFound" Hash="Requirement_3869298" />
+        <requirement type="HasCompletedQuestSDX, SCore" value="quest_Samara_Well" requirementtype="Hide" Hash="Requirement_-1095810338" />
+        <requirement type="HasItemSDX, SCore" value="1" requirementtype="Hide" id="SamaraMorganBody" Hash="Requirement_-1077699792" />
+        <action type="GiveToNPC, SCore" id="SamaraMorganBody" value="1" />
+      </response>
+      <response id="response_-1161418790" text="response_-1161418790" nextstatementid="statement_-1028949693" />
+      <response id="responseID_-1589115627" text="responseID_-1589115627" nextstatementid="statement_-1054903595" />
+      <response id="response_1357038434" text="response_1357038434" nextstatementid="statement_531574442" />
+      <response id="response_2139702701" text="response_2139702701" nextstatementid="statement_-64306763" />
+      <response id="response_-1653223472" text="response_-1653223472" nextstatementid="statement_1047462225" />
+      <response id="response_1747011035" text="response_1747011035" nextstatementid="statement_-824755831" />
+      <response id="response_170492573" text="response_170492573" nextstatementid="statement_808268362" />
+      <response id="response_692561290" text="response_692561290" nextstatementid="statement_759720541" />
+      <response id="response_-2145927645" text="response_-2145927645" nextstatementid="statement_-1960440832" />
+      <response id="response_1507659575" text="response_1507659575" nextstatementid="statement_1929307888" />
+      <response id="response_1958032391" text="response_1958032391" nextstatementid="statement_-1778677533" />
+      <response id="response_-1384724228" text="response_-1384724228" nextstatementid="statement_-2054310279" />
+      <response id="response_-92236955" text="response_-92236955" nextstatementid="statement_-1114866312" />
+      <response id="response_-204844403" text="response_-204844403" nextstatementid="statement_-586293420" />
+      <response id="response_-2064346467" text="response_-2064346467" nextstatementid="statement_1491270808" />
+      <response id="response_1441135985" text="response_1441135985" nextstatementid="statement_-586293420" />
+      <response id="response_-780212454" text="response_-780212454">
+        <action type="AddBuff" id="buffBadAttitude" />
+      </response>
+      <response id="response_-2062358013" text="response_-2062358013" nextstatementid="statement_272570392" />
+      <response id="response_-1829292311" text="response_-1829292311" nextstatementid="statement_1345208007" />
+      <response id="response_949223669" text="response_949223669" nextstatementid="statement_1790083874" />
+      <response id="response_1043406159" text="response_1043406159">
+        <action type="AddCVar, SCore" id="cvarSamaraSpareParts" value="1" operator="set" />
+      </response>
+      <response id="response_1554810611" text="response_1554810611" nextstatementid="statement_335517511">
+        <requirement type="HasCVarSDX, SCore" value="1" requirementtype="Hide" operator="GTE" id="cvarSamaraSpareParts" Hash="Requirement_-257165338" />
+        <requirement type="HasItemSDX, SCore" value="10" requirementtype="Hide" id="resourceMechanicalParts" Hash="Requirement_1536938656" />
+        <action type="GiveToNPC, SCore" id="resourceMechanicalParts" value="10" />
+      </response>
+      <response id="response_1082666055" text="response_1082666055" nextstatementid="statement_-1547291539">
+        <action type="AddCVar, SCore" id="cvarSamaraMorganDuplicator" value="1" operator="set" />
+      </response>
+      <response id="response_-622069112" text="response_-622069112" nextstatementid="statement_-443382724">
+        <requirement type="HasItemSDX, SCore" value="1" requirementtype="Hide" id="dvd04" Hash="Requirement_-482570986" />
+      </response>
+      <response id="responseID_-1176316112" text="responseID_-1176316112" nextstatementid="statement_258652666" />
+      <response id="response_1601539022" text="response_1601539022" />
+      <response id="response_1990407042" text="response_1990407042" nextstatementid="statement_-443382724">
+        <requirement type="HasCVarSDX, SCore" value="1" requirementtype="Hide" operator="GTE" id="cvarSamaraMorganDuplicator" Hash="Requirement_-2112646631" />
+      </response>
+      <response id="response_2127147936" text="response_2127147936" nextstatementid="statement_843248462">
+        <action type="RemoveBuffSDX, SCore" id="buffCursedSamaraMorgan" />
+      </response>
+      <response id="response_1658290028" text="response_1658290028" nextstatementid="statement_1450290941" />
+      <response id="response_1753254079" text="response_1753254079" nextstatementid="statement_305002939" />
+      <response id="response_1977811390" text="response_1977811390" nextstatementid="statement_843248462" />
+      <response id="response_1312085215" text="response_1312085215" nextstatementid="statement_-1845266020" />
+      <response id="response_-151122301" text="response_-151122301" nextstatementid="statement_632825439">
+        <requirement type="HasFailedQuestSDX, SCore" value="quest_Samara_Diary01" requirementtype="Hide" Hash="Requirement_367752210" />
+        <requirement type="HasBuffSDX, SCore" value="buffCursedSamaraMorgan" requirementtype="Hide" Hash="Requirement_-101666296" />
+        <action type="GiveQuestSDX, SCore" id="quest_Samara_Diary01" />
+      </response>
+      <response id="response_-11941819" text="response_-11941819" nextstatementid="start" />
+      <response id="response_-286444739" text="response_-286444739" nextstatementid="statement_-317566110">
+        <requirement type="HasItemSDX, SCore" value="1" requirementtype="Hide" id="SamaraMorganDiary01" Hash="Requirement_-1630047385" />
+        <action type="AddCVar, SCore" id="quest_Samara_Diary" value="1" operator="set" />
+        <action type="GiveToNPC, SCore" id="SamaraMorganDiary01" value="1" />
+      </response>
+    </dialog>
+  </append>
+</configs>
