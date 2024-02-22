@@ -1,0 +1,23 @@
+<Servers>
+  <ServerGroup Name="Outback Roadies (A21)">
+    <Server Name="Outback Roadies (A21)" Logo="https://i.imgur.com/wg3RBYv.jpeg">
+      <Description>Outback Roadies is a post-poco mod with an Australian theme.
+	  
+Features Include:
+- Custom Entities and Vehicles from the EndZ creators May Red and Thee Legion 
+- Unique Hand Crafted 10K Australia World by FluffyPanda
+- Integration for the NPC Mod
+- Community Quality of Life Mods
+- and a few other bits...
+	  </Description>
+        <Version>alpha21</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord>https://discord.gg/3aWeEGrjJK</Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download>https://github.com/arramus/A21-OutbackRoadies</Download></Downloads>      
+    </Server>
+  </ServerGroup>
+</Servers>
