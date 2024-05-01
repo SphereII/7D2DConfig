@@ -1,0 +1,133 @@
+<Servers>
+	<!-- Logo is a direct link to a jpg /png file. This logo will be used if an individual mod does
+	not have one. -->
+	<!-- If logo is not specified, the mod launcher's default will be shown. -->
+	<ServerGroup Name="IceRogue" Logo="" Description="Did you Hear that noise?!">
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
+		<Server Name="Never Alone Experimental" Logo="">
+			<Description> 
+The experimental release of Never Alone, a mod inspired by Project Zomboid.
+You are surrounded by a never ending horde and you have no hope for survival. 
+Maybe you can take on the giant skyscrapers in the distance before they finally overtake you, or maybe not ... 
+
+- Built in Rogue-Like respawn mechanics make down time between lives short to keep you in the fight more, and maybe you will find the base of a past life to give yourself a boost. 
+- Wandering hordes are frequent and large 
+- POIs are infested and dangerous to enter 
+- Nights and interiors are very dark to enhance the danger
+- Even the trash on the ground can cause you pain if not careful
+
+Recommendations
+- Must have Shadow Distance (Settings: Quality) set to at least Low for proper experience
+- Jog or Walk speed as PZ is influenced by Romero and thus the difficulty comes from the numbers not the speed
+- First time playing choose a difficulty one step below your normal difficulty. This is a challenging mod that will take some adjusting of strategies
+- Randomly generate a new world, anything bigger than 5k should have all 4 skyscrapers for you to attempt the final goals and will have the custom RWG
+- Some (most) players may benifit from adding the mod "Torch" by Laydor2 available on Nexus. This optimizes the lighting engine using DX11. (https://www.nexusmods.com/7daystodie/mods/3287)
+
+
+Credits
+- w00kie n00kie
+  - Reduce Spawn Distance Of Wandering Spawns
+  - Loot Respawn Timer
+  - Persist Game Options
+  - Random Zombie Names
+  - Stash Backpack
+  - Workstation Material Timer
+  - 12 Slot Tool Bar
+  - Increase Dew Collector Container Size
+- AuroraGiggleFairy (AGF)
+ - 72 Slot backpack
+ - HUD - Plus
+ - HUDPlus Addon
+ - HUDPlus Skulls on HUD
+ - A21 Vanilla Plus 
+	- Core
+	- AutomobilesRespawn
+	- CompactTrees
+	- BetterEggChance
+	- DecorationBlock
+	- JunkTurretPlus
+	- TacticalRiflePlus
+	- Tires2Wheels
+	- ToolImprovments
+	- VehicleStorageSizes
+- KhaineGB
+  - Zombie Reach Adjustment
+  - Zombie Stutter Stop
+  - Night Vision Goggles Change
+  - 3 Slot Forge
+  - 12 Slot Crafting Queue
+- ocbMaurice
+  - OCB Crooked Deco (A21)
+  - OCB Leveling Tool (A21)
+  - OCB Plant Grow Info (A21)
+  - OCB Remote Description (A21)
+- aedenthorn
+  - Pick Locked Doors
+  - Craft From Containers
+- RedBeard
+  - Path smoothing Mod
+- Khelldon
+  - Custom Menu Art
+- Djtriplexmr
+  - Repair With
+- MajDash
+  - PuP - Pick up Props (A21)
+- Razor
+  - Skill Magazine Scrap
+- PULLMYLEVER
+  - NoTradersMod
+
+			</Description>
+			<!-- Who made -->
+			<Author>IceRogue and MaliceVampire</Author>
+			<!-- 
+				This forces the mod launcher to make a copy of the game for the mod. 
+				Mod that use BepInEx, and relative paths should use this setting.
+				Remove Deploy or change it to Partial to skip that step
+			
+			<Deploy>Full</Deploy>-->
+			<!-- This is the alpha version you last tested with -->
+			<!-- You can use Latest if you just want the current one -->
+			<Version>alpha21.2</Version>
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/ShQRrXjZJn</Discord>
+			<!-- Got a website 
+			<WebSite>https://...</WebSite>-->
+			<!-- Twitter?
+			<Twitter>https://twitter.com/...</Twitter> -->
+			<!-- Want to give people an option to donate? 
+			<Donate>https://www.patreon.com/ or paypal, etc</Donate>-->
+			<!-- Got some release notes you want people to view? 
+			<ReleaseNotes>https://...</ReleaseNotes> -->
+			<!-- Only the first download is used -->
+			<Downloads>
+				<Download>https://gitlab.com/Ice.Rogue/7d2d-never-alone</Download>
+				<!-- Examples 
+				Darkness Falls, using the master branch
+				<Download>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA20/_git/DarknessFallsA20?Branch=master</Download>
+				
+				Apocalypse Now on gitlab
+				<Download>https://gitlab.com/killerbunny264/Apoc-Now-V3-1-Stable</Download>
+				
+				Winter Project on Github
+				<Download>https://github.com/SphereII/WinterProject-A20</Download>
+				
+				Begining with V5 of the mod launcher, it can also support Github / GitLab Releases.
+				The Mod Launcher will download the first link in the Release.
+				Github Release :
+				<Download>https://github.com/SphereII/WinterProject-A20/releases</Download>
+					
+				GitLab Release : ( web reference : https://gitlab.com/sphereii/SphereII-Mods/-/releases )
+				<Download>https://gitlab.com/api/v4/projects/15118685/releases</Download>
+
+			
+				-->
+			</Downloads>
+		</Server>
+		<!-- <Server name="My mod -experimental">-->
+		<!--<Description>This
+		is my experimental version! Play at your own risk!</Description>-->
+		<!-- Include the other attributes from above in here too! -->
+		<!--</Server> -->
+	</ServerGroup>
+</Servers>
