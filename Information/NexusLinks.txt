@@ -1,0 +1,2 @@
+https://next.nexusmods.com/settings/api-keys
+https://api.nexusmods.com/v1/games/7daystodie/mods/updated.json?period=1d
