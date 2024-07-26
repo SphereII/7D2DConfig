@@ -1,0 +1,2 @@
+# No tailing slashes
+https://github.com/SphereII/SphereII.Mods

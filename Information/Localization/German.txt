@@ -1,0 +1,66 @@
+Dieses Modul ist bereits installiert.
+Löschen
+Herunterladen
+Schließen
+Öffne Modlet-Ordner
+Externe Modlets verwalten
+Modlets aktualisieren
+Ausstehende Modlets werden verzögert angezeigt, wenn die Rate-Limits auf der Hosting-Seite ausgelöst werden. Der Mod-Launcher wird weiterhin nach ihnen suchen, bis keine ausstehenden Modlets mehr vorhanden sind.
+Installieren
+Aktivieren
+Deaktivieren
+Hinweis: Dieses Modul lädt andere Module aus derselben Online-Quelle herunter, installiert sie jedoch nicht.
+Vorherige
+Nächste
+Cache leeren
+Standardordner
+Verfügbarer Speicherplatz
+Verbindungsstatus
+Beenden
+Einstellungen
+Protokolldateien
+YouTube-Tutorials
+Neues Modul installieren
+Modlets installieren...
+Download-Manager
+Schnelle Hilfe
+Über
+Update verfügbar!
+Abbrechen
+Bestätigen
+Dem 7D2D Mod Launcher Discord beitreten
+Paypal Spende
+Sie können eine andere Version des Mods auswählen, um zu spielen. Wenn Sie beispielsweise eine ältere Version des Mods spielen möchten, können Sie hier eine frühere auswählen.
+Diese Version löschen
+Diese Version herunterladen
+Diese Version erneut herunterladen
+Speichern
+Hinzufügen...
+Entfernen
+Deinstallieren
+Standard
+Mittel
+Groß
+Vollbild umschalten
+Mods für Alpha 20 laden
+Ausgewählte löschen
+Ausgewählte wiederherstellen
+Generierte Welten wiederherstellen
+Download-Manager schließen
+Keine aktiven Downloads
+Auf installierte Spiele erneut scannen
+Keine Mods gefunden. Klicken Sie auf "Neues Modul installieren", um Mods hinzuzufügen. Wenn Sie erwartet haben, Mods zu haben, überprüfen Sie Ihren Standardordner in den Mod Launcher-Einstellungen.
+Aktualisieren
+Modlets verarbeiten
+Discord
+Spenden
+Twitter
+Website
+Mod-Einstellungen
+Spielen
+Spiel ist bereit zu spielen
+Spieleprotokoll anzeigen
+Klonen
+Modlets verwalten
+Vorsynchronisieren
+Erneut installieren

@@ -1,0 +1,66 @@
+This mod is already installed.
+Delete
+Download
+Close
+Open Modlet Folder
+Manage External Modlets
+Refresh Modlets
+Pending Modlets are delayed from appearing when the rate limits are triggered from the hosting site.  The mod launcher will continue to search for them until there are no more pending modlets.
+Install
+Enable
+Disable
+Note: This mod will download other mods from the same online source, but it will not install them.
+Previous
+Next
+Clear Cache
+Default Folder
+Available Disk Space
+Connection Status
+Quit
+Settings
+Log Files
+YouTube Tutorials
+Install New Mod
+Install Modlets...
+Download Manager
+Quick Help
+About
+Update Available!
+Cancel
+Confirm
+Join 7D2D Mod Launcher Discord
+Paypal Donation
+You may choose a different version of the mod to play. For example, if you wanted to play an older version of the mod, you can select a previous one here.
+Delete this version
+Download this version
+Re-download this version
+Save
+Add...
+Remove
+Uninstall
+Default
+Medium
+Large
+Toggle FullScreen
+Load Mods for Alpha 20
+Delete Selected
+Restore Selected
+Restore Generated Worlds
+Close Download Manager
+No Active Downloads
+Re-Scan For Installed Games
+No mods found. Click on Install New Mod to add mods. If you expected to have mods, check your Default Folder in the Mod Launcher Settings.
+Refresh
+Process Modlets
+Discord
+Donate
+Twitter
+Website
+Mod Settings
+Play
+Game is Ready to Play
+View Game Log
+Clone
+Manage Modlets
+Pre-Sync
+Re-Install
