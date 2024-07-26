@@ -1,4 +1,4 @@
-v1.0,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v1/Default.xml
+v1,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v1/Default.xml
 Alpha21,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha21/Default.xml
 Alpha20,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha20/Default.xml
 Alpha19,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/Alpha19/Default.xml
