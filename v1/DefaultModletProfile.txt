@@ -1,3 +1,4 @@
 # No tailing slashes
 https://github.com/SphereII/SphereII.Mods?Branch=master
 https://github.com/7D2D/V1.0-Mods?Branch=main
+https://gitlab.com/bdub1/Mods-1.0?60377244
