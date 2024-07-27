@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<news xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry>
+    <date>2024-05-16 05:50:06</date>
+    <title>1.0.32.940-test3</title>
+    <text>
+[ CompoPackTweaks ]
+	- main host for the CompoPackTeaks, which is used by the CompoPack Team
+	- You do not need to install this yourself for compopack; they supply it.
+	- Removes the warning for the DMS when new traders are added.
+	- Can be used by other groups for the same purpose.
+
+</text>
+    <link xsi:type="xsd:string" />
+  </entry>
+</news>
+
