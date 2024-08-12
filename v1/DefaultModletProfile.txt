@@ -3,3 +3,4 @@ https://github.com/SphereII/SphereII.Mods?Branch=master
 https://github.com/7D2D/V1.0-Mods?Branch=main
 https://gitlab.com/bdub1/Mods-1.0?60377244
 https://gitlab.com/Ragsy2145/ragsy-and-tigers-modlets-for-v1.0?59623634
+https://gitlab.com/Ragsy2145/vehicle-madness?60477659
