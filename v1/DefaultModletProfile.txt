@@ -5,3 +5,5 @@ https://gitlab.com/bdub1/Mods-1.0?60377244
 https://gitlab.com/Ragsy2145/ragsy-and-tigers-modlets-for-v1.0?59623634
 https://gitlab.com/Ragsy2145/vehicle-madness?60477659
 https://github.com/brucezztong/ZZTong.7D2D.Mods?Branch=main
+https://github.com/stallionsden/Valmar-Mods-V1.0?Branch=main
+https://github.com/stallionsden/Stallionsdens-Mods-V1.0?Branch=main
