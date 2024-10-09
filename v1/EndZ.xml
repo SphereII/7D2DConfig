@@ -1,0 +1,44 @@
+
+<Servers>
+  <ServerGroup Name="EndZ1.0" Logo="">
+    <Server Name="EndZ">
+		<Description>
+END Z STABLE / Total Conversion
+Version 2
+Official Discord:https://discord.gg/v9DH3hAVPu
+
+Recommended: 16GB RAM or higher
+Required: Alpha 21
+AntiCheat: Must be turned off.
+Must be installed server and client side.
+			
+Welcome to the END Z.
+Before you read any further just know this mod is designed to kill you lol anyway....keep reading!
+JOIN DISCORD TO KEEP UP TO DATE WITH ANNOUCEMENTS AND MOD UPDATES.
+IF YOU LOVE A CHALLENGE AND LARGE HORDES OF ZOMBIES GIVE THIS A TRY AND PLEASE GIVE FEEDBACK!
+END Z IS OFFERING A RANGE OF THINGS FROM LOW TO HIGH TIER WEAPONS
+NEW BUILDING BLOCK UPGRADES
+NEW ZOMBIES
+SOME SMALL QUALITY OF LIFE THINGS
+AND MANY MORE THINGS, YOU JUST HAVE TO GIVE IT A TRY TO SEE WHAT YOU THINK.
+WE ORIGINALLY STARTED MODDING CAUSE VANILLA GOT STALE FOR US, WHEN WE LEARNED THE MODDING SIDE
+WE STARTED SMALL AND JUST SLOWLY STARTED ADDING ITEM AFTER ITEM AND IT HAS GOTTEN TO WHAT IT IS.
+
+
+
+		</Description>
+		<Version>1.0</Version>
+		<RSS/>
+		<Excludes></Excludes>
+		<ReleaseNotes></ReleaseNotes>
+		<Discord>https://discord.gg/v9DH3hAVPu</Discord>
+		<Donate></Donate>
+         <DownloadMode>Clone</DownloadMode>
+		<Downloads>
+			
+ 			<Download>https://ryanmfranks1989@dev.azure.com/ryanmfranks1989/EndZ%201.0/_git/EndZ%201.0</Download>
+
+		</Downloads>	  
+    </Server>
+  </ServerGroup>
+</Servers>
