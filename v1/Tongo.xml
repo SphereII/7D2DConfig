@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Tongo" Logo="" Description="">
-		<Server Name="Tongo A21" Logo="">
+		<Server Name="Tongo 1.0" Logo="">
 			<Description>
-Available TongoMod 3.0, all features are included.
+Available TongoMod 3.4, all features are included.
 
 - New recipes
 - New machines
@@ -26,10 +26,10 @@ And much more in TongoMod 3.0
 			<Discord>https://discord.gg/9G3JeVnJS5</Discord>
 			
 			
-			<Version>alpha21.1</Version>
+			<Version>lATEST</Version>
 
 			<Downloads>
-				<Download>https://github.com/TekjaGameplays/TongoModA21</Download>
+				<Download>https://github.com/TekjaGameplays/TongoMod34</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
