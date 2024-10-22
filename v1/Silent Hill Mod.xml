@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Silent Hill Mod" Logo="" Description="">
+		<Server Name="Silent Hill Mod 1.0" Logo="">
+			<Description>
+Welcome to Silent Hill Mod For 7 Days To Die
+In the fog, fear walks beside you, and death is just a breath away
+Features:--
+1)The fog covers all the biomes all the time.
+2)Screamer Zombie Spawns in the wandering hordes.
+3)when you damage the screamer, You have 5 seconds to kill the screamer before she calls the Zombies.
+4)There's a big wandering horde spawns every 12-24 hours
+5)The fog and wandering hordes start day 2
+6)No blood moon hordes
+7)Zombies receive 25% extra damage from headshot
+8)Higher stacks sizes for ammo, drugs and medical items, resources, and guns parts and throwables
+9)Traders and Challenges have been removed
+10)Traders pois are open and destructible and their pois are infested with zombies now
+11)higher entity spawn rate in biomes
+12)You can scrap magazine and every 3 scrapped magazines you can make a different magazine with it
+13)96 Backpack Size
+14)Copper tools and melee weapons added
+15)Copper Ore Added, can be found around the biomes.
+16)21 ranged guns added to play with
+17)Added Back A19 farming
+18)You can craft guns and tools parts in the workbench
+19)Supply Drops added
+20) Airdrops are protected, that's mean zombies spawn around it
+21)New Magazine Added,Launchers Magazine for crafting grenade launchers
+22) All tools and weapons has 1-6 mod slots for level 1-6
+23) Increased the chance to find cooking pot and cooking Grill in Cupboards and Sinks
+24) Added dew collector tools to more loot tables
+25) Zombies havehigher loot drop chance. , loot drop last longer
+26) Reworked airdrop loot
+27) added a way to convert old cash to casino coins
+28) You can use your coins to craft flares airdrops
+
+
+	      </Description>
+			<Discord>https://discord.gg/GS3wGQTu6U</Discord>
+			
+			
+			<Version>Latest</Version>
+
+			<Downloads>
+				<Download>https://github.com/killerbunny264/Silent-Hill-Mod</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
