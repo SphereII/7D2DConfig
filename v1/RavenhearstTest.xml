@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+
+	<ServerGroup Name="Ravenhearst">
+	
+		<Server Name="Ravenhearst 10">
+			<Description>
+			Stable release of Ravenhearst for 1.1b14. Currently on v10.1.0b13
+			
+			Future v10 updates will automatically post here. Title will not change. These include both client and server files. For direct files head to our discord.
+			
+			The ORIGINAL Hardcore mod from A14 brings its mixture of slower grind and difficulty to A20 with more features and changes than ever before!
+			
+			Do you enjoy a more methodical and slower based progression system? Do you feel the base game is too fast, other mods seem uneven or just not catering to that specific hardcore taste that you want?
+			
+			Ravenhearst is the mod for you! Featuring hundreds of balancing changes and tweaks, new recipes, new deco, new enemies like Night Terrors, new vehicles, Tier 5 radiated pois, Journal Quest line with end game rewards, expanded EVERYTHING, Learn by Doing, old restored vanilla features like upgrades to blocks, and hundreds of more features and changes Ravenhears has enough fright and terror to satisfy even the most toughest of players.</Description>
+		
+			Patch Notes for 10.1.0b13
+						
+				Adjusted Menu Tips
+				Planks now made in Table Saw
+				Changed Icon On Ravenhearst Challenges
+				Fixed Cash Register Hitboxes
+				Items can now break if not repaired when they hit 0
+				You now receive a Working Toaster when destroying an in world toaster
+				Fixed Coffeemaker model offsets
+				Complete Armor Stat Rework
+				Adjusted Nut and Berry Bush Appearance
+				Added Nut and Berry Bush to an additional sub biome of the forest
+				Fixed Coffeemaker Vanilla Models
+				Fixed Stone and Scrap Shovel and Pickaxe Harvesting Tags
+				Added Multiple Car Paint Items
+				Added OCB Crooked Deco
+				Blood Moons last until dawn after day 14
+				Fixed On Screen Day and Date
+				Shortened Zombie Reaches
+				Recycle Bins now downgrade
+				Added Storage Progression
+				Added Localization to New Storage Options
+				Added New Storage
+				Added Cans of Nuts and Berries with better stats you can craft in Campfire with an Empty Can
+				More tiles will now spawn on RWG
+				Model changed for Barricades
+				Barricade health lowered to 150
+				Fixed Icon for Taza Stone Pickaxe
+				Seeds no longer scrap
+				Removed Aluminum from Wasteland
+				Removed Coal from Snow
+				Fixed Nitrate not spawning in one Snow biome
+				Added Dysentery to Moldy Bread
+				Adjustments to Outdoor Night Light and Indoor Lighting for a more natural darkness
+				Fixed Loading Screen Tip Localization
+				Crops give an 80 percent chance of seed back
+				Added New Challenges - Yakov
+				Added time back to hud
+				Seed Packs are now a bundle. Open for random seeds
+				Removed seed pack crafting
+				Farmer Class now gets schematic for Hoe
+				Hoe added to loot
+				Removed Grills from loot
+				Sap no longer scraps
+				Removed Steel and Iron Crates from Craft. Must upgrade Wooden one
+				Added Wood Writeable Crate to Progression
+				Moved Wood Crafts to Table Saw
+				Scrap Axe no longer repairs/upgrades
+				Fixed Book Reading Animations
+				Removed LOTL bonus from nuts and berries
+				Added New Zombies by Double G
+				Added Treasures and Trinkets that you can find while digging you can sell to the traders
+				Increased Leather made from Hides
+				Reduced Craft Time of Dried Jerky
+				Increased Brighntess of Survival Campfire, Campfire and Tanning Rack Icons
+				Moved Around Vanilla Challenges to make sense for the Basic Journal Quest
+				Updated Score
+				Fixed nut and berry harvests
+				Fixed Tags and Model on Dirty Bandage
+				Added Reinforced Repair Kits for Reinforced Tools and Weapons
+				Reinforced Tools are now Locked Properly
+				Fixed description on Bowl of Honey
+				Ammo Loot Rebalance. Less ammo found in the world
+				RWG Edits - Towns and cities can now spawn in Forests
+				Traders can now spawn roadside in the Wilderness
+				Various scope and iron sight tweaks and fixes to better align them
+				Extended Old Building Upgrading to include Aluminum and Tungsten Paths
+				Added Grass Cutter
+				Removed Cardio Perk as it is now integrated into Athletics
+				Removed Mother Lode as it is now integrated into Construction and Mining Tools Skills
+				Added Version Check to Mod Load - Yakov
+				Adjusted Animal Spawning
+				Added Sprint Toggling Fix
+				Added Startup Optimizer - OCBMaurice
+				Added Stop Fuel Waste - OCBMaurice
+				Added New Map Waypoint Icons - OCBMaurice
+				Adjustments to Interior Lighting
+				Adjustments to Night Time Exterior Lighting
+				Reduced Amount of XP Given for Harvesting, Repairing and Upgrading Blocks
+				Reduced chances of perk and skill books in mailboxes
+				Removed Junk Drone from loot
+				Added Multiple New Vehicle Mods for Speed, Gas Consumption, Light Intensity
+				Commented out Water Valve Block Model making water sounds in POIs
+				Added expanded firearms. Most are vanilla values, we will need to adjust them in the future. Schematics to make them can be found in Wasteland and Tier 5 loot crates.
+				Added Chance of Hazmat to Military Lockers and Army Trucks
+				Adjusted backpack loot in military lockers and laundry
+				Removed Sprains and Strains as Splint now heals Sprains
+				Gas can no longer be drinkable
+				Added Sounds to All Ravenhearst food and water
+				Added proper perk bonuses to Ravenhearst medical items
+				Added a Supply bundle to the starter kit so you can open the item portion at a later date
+				Removed Backpacks except for one type due to way action skill works for backpack
+				Updated RH Core - Yakov
+				Adjusted Skill Point Rewards for Basic Questline and Challenge Redemption to 5 total down from 8
+				Armor Tier Stat Fixes to Match our Quality
+				Fixed Armor Display Bug creating False Stat Displays - Redbeard + Yakov
+				Updated Active Ingredients - Redbeard
+				Fixed Air Drop Crates Not Despawning - Yakov
+				Fixed Boiled Water in Cans and Jars crafting in the Stove
+				Changed Icon Type on Backpacks
+				Removed Unused Craft Skill Books from Loot and Bundles
+				Raised Health on All Workstations
+				Increased cost to make Lockpicks
+				Added Wasteland Lockpick that unlocks Tier 5 and Wasteland Crates. Craftable at Advanced Engineering 5. Lootable where Hazmat is found.
+				Added Missing Perk Books to Research Desk (Fireman 7, Mining 7, Heist 3, Hunter Books, Looter Books)
+				Lowered Bee Hive Timer to 120 from 180
+				Changed Research Desk Ingredient to Office Chair Variant Block
+				Fixed Tomato Plant Hitbox
+				Vehicle Craft Skill now set to 200. Vehicle unlocks spaced put more
+				Mechanic now receives 5 vehicle skill books to craft a bicycle but no bicycle parts and a Wrench
+				Removed Buggy Action0 Left Click Actions from Sacks and Buckets
+				Increased and balanced HP on later tier building blocks
+				Increased resources needed to craft steel and concrete shape blocks
+				Increased Price of Water Filter
+				Removed Water Filter from craft of Dew Collector
+				Waster Filter now gives Murky Water and 1 jar as a mod in Dew Collector. Still doubles speed
+				Removed Water Filter from Chef Class
+				Adjusted haziness to radiation - Yakov
+				Updated pick up sounds for antibiotics, custom vehicles, books and magazines
+				Increased Health on trees
+				Fixed 1970 Refrigerator Harvest
+				Improved Wellness Death Logic - Yakov
+				Moved Death Wellness Buff to C# to make it more reliable switching Permadeath on and off - Yakov
+				Added Carbon Fiber Crafted
+				Added Resin Bottle Crafted
+				Added Treasure Maps - CTVI
+				Added Scrap Club, Spear and Sledgehammer
+				Rebalanced Scrap Tools
+				Added improved hordes game option. Off by default. - Yakov
+				Added improved hordes to config yaml - Yakov
+				Added Pick up Sounds to Repair Kits, Resources, Crops, Medicine, Ores, Bars
+				Added Pick up Sounds to Repair Kits, Resources, Crops, Medicine, Ores, Bars
+				Updated all of Bdubyah vehicles
+				New Onion Plant Asset Added
+				Updated Improved Hordes Localization with More Accurate Info - Yakov
+				Added Torch Framework from Laydor for Performance, Lighting and Config - Yakov
+				Fixed Working Gas and Charcoal Grill Models
+				Removed BBQ Grill Food Recipes from Stoves
+				Added and Removed Categories Needed and no Longer Needed from Grills and Stoves
+				Began Adding Back Vanilla Food Hand Models
+				Added More Arcade Machines
+				Added Slot Machines - 50,100,500 Denominations to Craft through Final Stand Reward
+				Added Arcade Machines to Craft through Final Stand Reward
+				Added Berries to Spoilage
+				Removed Moldy Bread from Spoiling
+				Scrap Weapons Now Repair with Reinforced Repair Kit
+				Wood Club Now Requires Primitive Repair Kit
+				Removed Scrapping from Primitive Weapons
+				Increased Random Chances of Getting Vehicle Part or Skill Books as Random Roll
+				Added Frozen Water and Stew to Chef Class heated up in Microwave When Needed
+				Added Craftable Freezer
+				Added Fridges and Cooler to Electrician Skill
+				Forging Tunnel scraps to Iron
+				Added Scrollable 63 slot backpack after going insane
+				Removed Old Jukebox due to deprecated Asset
+				Added Lemon Tree and Lemons. Recipes and Fixes to come
+				Added New Dew Collector. Place and Upgraded with 2 Tarp. Wait some time then loot the filled collector. Fix with Tarps again.
+				Collapsed Dew Collectors Now have a chance for a water filter and a tarp when harvested
+				Fixed sack holdtype for a few items - Yakov
+				Fix vanilla issue of zombies dropping loot on despawn. Now only drops loot on kill - Yakov
+				Removed Can and Jar of Insects from Spoiling
+				Special Enemies will Now Start to Appear after Gamestage 250 on Blood Moons, and in the world after GS 500
+				Air Drop Zombies Now run and are tiered to be more difficult and faster as gamestage increases
+				Added 2 Bottles of Acid to Mechanic Class
+				Tinkered With Spoilage Timers All Around to Last a Bit Longer
+				Lockpick Skill Matters. Lockpicking More Difficult and Slower but buying Perks in it Makes it Better
+				Added 45 and 556 ammo to ammo lootlists
+				Added Water to Trail Mix
+				Moved Hazmat Suit Loot to Infested Tier 4 and 5
+				Replaced Nude Female Zombie
+				Removed Harvestable Corpses for Performance and Balance
+				Increased Rotting Flesh and Bones Given from Certain Animals
+				Removed Male Nude Zombie
+				Doors Now Require a Door Knob to Be repaired
+				Cook those eggs boys and girls
+				Updated AGFHUD
+				Added Preloader - Redbeard
+				Added Rain Collector. Works like a Vanilla Dew, unlocked at Workstation 90 gives infected water. For now it does NOT have a filter but it may in next update
+				Added Proper Repair Kits to Class Weapon Selections
+				Removed Quad Armor Pocket Mod
+				Increased Craft Skill to 150-200 depending on the craft skill
+				Added a new Attribute Page for Tier 5 Books
+				Fixed All Action Skill Buffs (Bleed, KO)
+				Removed Incorrect Storages from Advanced Engineering
+				Added Painted Storage Boxes to Workstation Skill
+				You now get 5 Fertilizer per Craft
+				Fixed Fertilizer Sack Descriptions
+				Adjusted All Ingredient Counts To Our Action Skill Levels - Jax/Yakov
+				Increased Chance of Workstation Skill Magazines in Workbench and Chemistry Station
+				Removed Item Variation Rolls for Stats
+				Updated tagging on Axes and Tools so the custom Action Skill bonuses are tagged properly
+				Stone Hammers are no longer sellable
+				Storages can be picked up to tier 4 only. After they will destroy and you will need to make new ones.
+				Fridges and Coolers can be Taken via 15 second delays
+				Added Throwable Items and Perk
+				Reduced Compost needed to make ground fertile from 10 to 7
+				Reduced Fertilizer needed to fertilize crop from 5 to 4
+				Fixed Bleeding Particle - Yakov
+				Removed 200m Limit from Sharing Option - Yakov
+				Honeycomb no longer cures Infection
+				Reduced Action Skill Mailbox Loot
+				Increased Tier 8 Storage to 100 slots
+				Tier 8 Storage requires Forged Tungsten
+				Added RWG Modifications that will force a spawn of every poi at least once on a map
+				Fixed up Tier 7, 8 ,9 Storages so they flow better
+				Added some Wilderness Decor
+				Fixed Baton Unlock Order
+				Building Supply Loot Balance
+				Zombie Loot Bag Looting Adjustments
+				Added New Supply Pick Ups to Final Stand Satchels and Chests
+				Moved Icee to Special Drinks Category in Vending
+				Removed Socket tool from Motorcycle Handlebar Craft
+				Removed Propane Tank Harvest from Working Grills
+				Rain Collector Now Accepts Industrial Grade Tarp Mod to Convert Infected Water to Dirty
+				Fixed Tier 5 Painted Loot Container Size
+				Increased Health on Night Walkers
+				Fixed Loot Container cancel instant looting - Yakov
+				Fixed Final Stand Bloodmoon cancelling early - Yakov
+				Changed buff duration of questbloodmoon to 8 ingame hours - Yakov
+				Removed loot delay from player storage - Yakov
+				Fixed inconsistencies in Radios
+				Fixed Tags and name of Telescopic Baton to match Proper Perks
+				Renamed Pistols Skill to Handguns for Clarity
+				Weapons and Tools now have the correct Ingredient Cost Increases in Recipes, including Legendary Parts
+				Bow Parts and All Weapon Parts should start showing up in loot
+				Concrete and Cobble stacks increased to 500
+				Increased Hazmat Chance in Army Trucks
+				Added Tool and Weapon Parts to all RH Tools and Weapons
+				Fixed Crafting Ingredient Counts from base adds to percent adds to match vanilla increases
+				Changed Chromium Ore Texture
+				Added Pallets for Carbon, Chromium, Tungsten and Aluminum
+				Increased Recipe for Reinforced Chain Link Fencing
+				Increased Probability on 44 Ammo
+				Added Mods Category to Mechanic Bench
+				Added Farmer Set Health Bonuses to all RH food and veggies
+				Added Station Pickup Sounds to UI
+				Added Bucket Pickup Sounds to UI
+				Swapped Icons for Charred Red and White Meats
+				Removed Stone Tool Clutter from Traders and Loot
+				Removed Spoilage from Can of Berries
+				Removed Unneeded Farming Control Panel
+				Diggie holes have a range of 5 blocks from water to seed, placing pipes in the water and putting a sprinkler on TOP of the pipe has a 10 meter range! the range is from sprinkler to crops not pipe so keep that in mind.
+
+
+				Added the Following POIs
+
+				Added Old West Migration POI Set, adds more Old West towns and POIs to tiles and biomes
+
+				Added ZZTongs Prefab Pack which adds over 100 pois, decos and filler stamps for a lively world - ZZTong with edits by Jax
+
+				rh_factoryraid_xtiericee
+				rh_forestcamp_xtiericee
+				rh_warehouse_xtiericee
+				rh_junkyard_xtiericee
+				rh_farm_house_Lazy_Turtle
+				rh_LakeView_Lazy_Turtle
+				rh_LazyCafe_Lazy_Turtle
+				rh_LazyFarm_01_Lazy_Turtle
+				rh_LazyShops_Lazy_Turtle
+				rh_Red_Rocket_Lazy_Turtle
+				rh_barricaded_house_1_Officecats5
+				rh_Petting_Zoo_FluffyPanda
+				rh_Red_Rocket_01_FluffyPanda
+				rh_Stus_Zoo_Officecats5
+				rh_super_prison_max_Officecats5
+				rh_advanced_junkyard_02_Officecats5
+				oldwest_store_gun_01
+				oldwest_abandoned_house_01
+				oldwest_abandoned_house_02
+				oldwest_country_junkyard_01
+				oldwest_homesteader_01_arramus
+				oldwest_mixstrip_01_arramus
+				oldwest_25x50_corn_01_arramus
+				oldwest_rural_church_01
+				rh_TheAfterLife_Duhwolf
+				rh_Nuketown2024_Camabis
+				rh_airstrip_SurvivorAndy
+				rh_ultrascans_clinic_SurvivorAndy
+				rh_woodbury_SurvivorAndy
+				rh_tesko_supermarket_SurvivorAndy
+				rh_malibu_club_SurvivorAndy
+				rh_busty_beers_stripclub_SurvivorAndy
+				rh_bigbluebox_SurvivorAndy
+				rh_take_four_film_studio_SurvivorAndy
+				rh_wilderness1_SurvivorAndy
+				rh_wilderness2_SurvivorAndy
+				rh_wilderness3_SurvivorAndy
+				rh_wilderness4_SurvivorAndy
+				rh_wilderness5_SurvivorAndy
+				rh_Alamo_Level50Unlocked
+				rh_Data_Center_Level50Unlocked
+				oldwest_cran5000soda_01_arramus
+				rh_Cedar_Creek_Officecats5
+				rh_Club_Hotel_SG1o9
+				rh_Epidemic_Playland_old_SG1o9
+				rh_Harold_Fetchkick_Asylum_SG1o9
+				oldwest_ekoguns_01_arramus
+				oldwest_gas_station_07
+				oldwest_gas_station_08
+				oldwest_ranger_station_02
+				oldwest_remnant_bookshop_business_03
+				oldwest_remnant_mill_01
+				oldwest_store_book_04
+				oldwest_store_grocery_04
+				oldwest_store_grocery_05
+				oldwest_store_grocery_06
+				oldwest_survivor_site_05
+				oldwest_apper_01_arramus
+				oldwest_meatloaf_01_arramus
+				oldwest_ranger_station_02
+				oldwest_store_book_04
+				oldwest_store_grocery_05
+			
+			<Version>Latest</Version>
+			
+			<Author>JaxTeller718</Author>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>support@7d2dmodlauncher.org</AdminContact>
+			
+			<ReleaseNotes>https://7d2dmodlauncher.org</ReleaseNotes>
+			
+			
+			<Discord>https://discord.gg/0uy8OaV8YAMGZKeS</Discord>
+			<WebSite>https://646760816277b.site123.me/</WebSite>
+			<Twitter>https://twitter.com/JaxTeller718</Twitter>
+			<Donate>https://www.paypal.me/FrankCirabisiJr</Donate>
+			
+			<RemoteReleaseNotes>https://gitlab.com/jaxteller718/ravenhearst_10/-/raw/main/README.md</RemoteReleaseNotes>
+			
+			
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data\</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/ravenhearst_10.git</Download>
+			</Downloads>
+		</Server>
+		
+	</ServerGroup>
+</Servers>
