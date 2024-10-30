@@ -349,7 +349,7 @@
 				<Exclude>7DaysToDieServer_Data\</Exclude>
 			</Excludes>
 			<Downloads>
-				<Download>https://gitlab.com/jaxteller718/ravenhearst_10.git</Download>
+				<Download>https://gitlab.com/jaxteller718/ravenhearst_10</Download>
 			</Downloads>
 		</Server>
 		
