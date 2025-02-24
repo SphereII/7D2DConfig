@@ -25,7 +25,8 @@ https://gitlab.com/jaxteller718/jaxconfig20/-/raw/main/jaxconfigv10.xml?ref_type
 https://gitlab.com/Sergant1000/experimental-recipes/-/raw/master/Sergant1000.xml?ref_type=heads
 https://dev.azure.com/bdubyah/Testing/_apis/git/repositories/Testing/items/items?path=/Testing_Wasteland.xml
 https://dev.azure.com/bdubyah/The_Wasteland/_apis/git/repositories/The_Wasteland/items/items?path=/Wasteland.xml
-https://raw.githubusercontent.com/SphereII/7D2DConfig/refs/heads/master/v1/AsiaMod.xml
+#https://raw.githubusercontent.com/SphereII/7D2DConfig/refs/heads/master/v1/AsiaMod.xml
+https://dev.azure.com/AsiaMod/Stable/_apis/git/repositories/Stable_V1/items/items?path=/Mods/Asia_Mod/asiamod_launcher.xml
 https://raw.githubusercontent.com/arramus/V1-OldWestMigration/refs/heads/main/Mods/V1-OldWestMigration/modlauncherconfiguration.xml
 https://dev.azure.com/HaidrGna/Modding/_apis/git/repositories/General/items/items?path=/ForsakenTrail.xml
 https://raw.githubusercontent.com/SphereII/Winterween/refs/heads/main/WinterProject.xml
