@@ -1,0 +1,3 @@
+# No tailing slashes
+https://github.com/SphereII/SphereII.Mods?Branch=master
+https://gitlab.com/bdub1/Mods-2.0?71194991
