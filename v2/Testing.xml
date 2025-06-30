@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Testing Group" Logo="" Description="">
+      <Server Name="Test" Logo="">
+         <Description>Describe the mod here!
+	 </Description>
+	 <Version>Latest</Version>
+	 <DownloadMod>Clone</DownloadMod>
+         <ReleaseNotes>## FORUM LINK ##</ReleaseNotes>
+         <Downloads>
+            <Download>https://gitlab.com/bdub1/Mods-2.0</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
