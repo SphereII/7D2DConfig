@@ -1,4 +1,5 @@
-Default,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v1/DefaultModletProfile.txt
+Default,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v2/DefaultModletProfile.txt
+v2,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v2/DefaultModletProfile.txt
 v1,https://raw.githubusercontent.com/SphereII/7D2DConfig/master/v1/DefaultModletProfile.txt
 Alpha21,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha21/DefaultProfile.txt
 Alpha20,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha20/DefaultProfile.txt
