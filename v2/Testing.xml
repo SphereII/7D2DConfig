@@ -8,7 +8,8 @@
 	 <DownloadMod>Clone</DownloadMod>
          <ReleaseNotes>## FORUM LINK ##</ReleaseNotes>
          <Downloads>
-            <Download>https://gitlab.com/bdub1/Mods-2.0</Download>
+            <Download>https://bdubyah@dev.azure.com/bdubyah/Bdubs_Vehicles/_git/Bdubs_Vehicles</Download>
+		 <Download>https://github.com/SphereII/SphereII.Mods.git</Download>
          </Downloads>
       </Server>
    </ServerGroup>
