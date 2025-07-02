@@ -60,10 +60,10 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 				<!--<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-21-AIO-Mod-Launcher_2023</Download>-->
 			</Downloads>
 		</Server>
-		<!--
+		
 		<Server Name="War3zuk FarmLife" Logo="">
 			<Description>
-War3zuk Farmlife 2025 Vanilla Install V1.4 B8 (This is a standalone installer version and is NOT to be used along side my main War3zuk Overhaul)
+War3zuk Farmlife 2025 Vanilla Install V2.0 B295 (This is a standalone installer version and is NOT to be used along side my main War3zuk Overhaul)
 
 What this Mod is about, This Mod is a complete overhaul and update of the original Farmlife from alpha 17 that was discontinued when it became so
 out of date it was un-usable.. This overhaul has a complete array of custom trees, Plants And its own models all paid for by myself so that the mod
@@ -81,6 +81,6 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-FarmLife-Vanilla-Install-Latest-Stable/_git/War3zuk-FarmLife-Vanilla-Install-Latest-Stable</Download>
 			</Downloads>
 		</Server>
-		-->
+
 	</ServerGroup>
 </Servers>
