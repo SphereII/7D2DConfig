@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Destroyer of Dreams" Logo="" Description="Can you escape the Destoyer?">
+        <Server Name="Destroyer of Dreams" Logo="">
+            <Description>
+				A mini overhaul mod for Release Ver. 2.0(b295)
+
+				This mod pack was created for a solo or multiplayer challenge onboard an US Arleigh Burke Class Destroyer DG-51, Concept design by CannonFodder83 and redesigned by Devilskut for Release
+				Ver. 2.0(b295) with code help from Techgeek_20 and "bug hunting" from AngelacusGaming.
+
+				Notes about this mini-mod:
+
+				Zombie corpses now drop an entity-specific red loot bag.
+				Removed non-essential vehicle parts from loot and crafting.
+				Beds, Bedrolls, and land claim block recipes removed.
+				Removed treasure maps from loot.
+				Acid can now be made in the campfire, but a beaker is a required tool. Can also be crafted cheaper in the chem station. Unlocked with Grease Monkey 4.
+				Mod-specific loading screen tips.
+				Localization tweaks (names of those that have tested and completed the challenge).
+				Perk books can now drop from zombies along with magazines. The chance of a perk book increases with the relevant perk points spent, just like skill magazines.
+				Loot tables adjusted accordingly, so certain zombies have a chance to drop certain perk books, just like skill magazines.
+				Removed Better Barter, Daring Adventurer and Charismatic Nature from the intellect skill tree.
+				Number of Dukes/old cash from Businessman/Party Girl is increased, probability increased from 10% to 20%.
+				Slight increase in oil shale from cement mixer loot.
+				Increased chance of antibiotics from nurses per perk point spent in Physician, up to a max chance of 35%.
+				Base chance of skill magazines from radiated zombies increased from 10% to 13%.
+				Changed the quest requirements for gathering UH-60  parts to reflect maxed-out Grease Monkey (removed a possible soft-lock)
+				Antibiotics loot probability from nurses now tied to Physician perk.
+				Player placed workstations can be picked up with no need for a land claim block. (Workstation MUST be empty of all tools, items, and materials for this to work)
+
+				THE DESTROYER OF DREAMS CHALLENGE:
+				Can you survive long enough to liberate the zombie threat and complete your mission using nothing but what you can scavenge from the Destroyer and local Docks.?
+
+				This challenge brings you back as a lone hard core survivor, or in a group of seasoned specialists of the AIRCRAFT CARRIER CHALLENGE on a reinfested Destroyer in dry docks for repairs.
+
+				Your only means of completing your mission is to gather everything you need to be able to craft an UH-60 Helicopter to reach your final objectives.
+
+				A mini overhaul mod for Ver. 2.0(b295) . Designed for group or solo play with an Arleigh Burke Class Destroyer DG-51, a Guns Trader and a mission to liberate the zombie threat once and for all.
+
+				Five (5) custom worlds, one for each biome, so you can choose your starting "difficulty" - Forest, Burnt, Desert, Snow, or the ultimate challenge, Wasteland.
+
+				Custom-edited POI'S, giving you everything you need to be able to complete your quests.
+
+				Custom questline, guiding you on your way.
+
+				CHALLENGE RULES:
+
+				1: You must survive until you are able to build an UH-60 Helicopter, fly off and complete your final mission.
+
+				2: The rubble on the ground around the DOCKS is NOT part of the Destroyer, and as such may NOT be used to support any structures, or to grow any crops,
+				unless you can do this WITHOUT touching it.
+
+				3: You may build bridges off the Docks to reach things, but those bridges must support themselves and cannot touch the ground.
+
+				4: You may NOT mine or dig under the Destroyer or the Docks.
+
+				5: All default game settings, unless you want to turn up the difficulty. It's recommended to have respawns set to 5 days groups and 7 days solo and turn airdrops OFF.
+
+				6: If you or anyone in your party dies, your mission is over, however you may choose continue to complete your mission.
+
+				Contributors:
+				DishongLootBags 						-Author: w00kien00kie
+				DishongPickupWorkstations 				-Author: w00kien00kie
+				WMMLootRespawnTweak				        -Author: w00kien00kie
+
+				Custom Poi's by Cannon_Fodder83 and Devilskut.
+
+				Additional thanks for permission to use following modlets by their respective creator(s):
+
+				Khelldon Custom Menu 					-Author: Khelldon
+				Military Blocks							-Author: Cannon_Fodder83,Shrader971
+				0-Score								    -Author: Spherii
+				UH-60 Helicopter                        -Author: Bdubyah
+				AircraftcarrierGuns						-Author: Killerbunny264
+
+				Shout outs and thanks to the mod authors and Hells_Janitor for the Dishong Tower Challenge and allowing usage of their mods and code.
+				Shout outs and thanks to the mod authors, Special CPB Blocks permission by StallionsDen CP Team, SarahAndJeff, TFP, Specter(to Sarahandjeff).
+
+				For full details, check the forum post here: *No post*
+
+				Found a bug or poi stability issue and wish to let us know?  Head to https://github.com/Devilskut/Destroyer_of_Dreams_High_Seas/issues and open an issues ticket.
+
+			</Description>
+            <Version>2.0</Version>
+            <EAC>Disabled</EAC>
+			<Discord>https://discord.gg/ePNGymJ3bP</Discord>
+			<Donate></Donate>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://github.com/Devilskut/Destroyer_of_Dreams_High_Seas.git</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
+</Servers>
