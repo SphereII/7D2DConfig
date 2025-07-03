@@ -1,0 +1,23 @@
+<Servers>
+  <ServerGroup Name="EndZ Remastered">
+    <Server Name="EndZ Remastered" Logo="">
+      <Description>
+Recommended: 16GB RAM or higher
+Required: Version 2.0 Stable
+AntiCheat: Must be turned off.
+Must be installed server and client side.
+			
+Welcome to the END Z.
+In the discord we have a list of what the mod holds. Please join the discord and give your feedback or just chill and talk.
+	  </Description>
+        <Version>V2</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord>https://discord.gg/VNAx2rGGjB</Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download>https://ryanmfranks1989@dev.azure.com/ryanmfranks1989/EndZ%20Remastered/_git/EndZ%20Remastered</Download></Downloads>   
+    </Server>
+  </ServerGroup>
+</Servers>
