@@ -56,7 +56,8 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 			<Version>v2.0</Version>
 			<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
 			<Downloads>
-				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-AIO-Mod-Launcher-v2.0-Experimental/_git/War3zuk-AIO-Mod-Launcher-v2.0-Experimental</Download>
+				<!--<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-AIO-Mod-Launcher-v2.0-Experimental/_git/War3zuk-AIO-Mod-Launcher-v2.0-Experimental</Download>-->
+				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-AIO-Mod-Launcher-v2/_git/War3zuk-AIO-Mod-Launcher-v2</download>
 				<!--<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-21-AIO-Mod-Launcher_2023</Download>-->
 			</Downloads>
 		</Server>
