@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="NordArmy Mod" Logo="https://i.postimg.cc/1RW2gM5K/NordArmy.jpg">
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
+		<Server Name="NordArmy">
+			
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/NORDMANN845/NordArmy-Mod-3.0/releases</Download>
+				<AltDownload/>
+			</Downloads>
+			<!-- Got a website -->
+			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
+			<Description>
+NordArmy Mod: A New Era for 7 Days to Die
+
+The NordArmy Mod revolutionizes the classic survival experience of 7 Days to Die, bringing a fresh and thrilling new gameplay dynamic. 
+With unique mechanics, innovative features, and a massive content overhaul, this mod introduces elements never seen before in the game. 
+Expect enhanced combat, detailed world-building, and a deeper survival challenge that transforms the way players navigate the apocalypse. 
+Whether you're a veteran survivor or new to the wasteland, NordArmy Mod redefines the adventure, offering surprises at every turn.
+
+Ready to face the unknown? The world of 7 Days to Die will never be the same again!
+
+Compatible with Version 2 
+
+NordArmy Mod Content list:
+
+Story:
+-BLOOD BOOK 2
+
+Chars and skip starter quest:
+-THE BASSTARD KILLER
+-THE FLYING DUTCHMAN
+-THE CHICKEN GOLF PRO
+-THE SKATEBOARDER
+-THE COP
+
+Vehicels:
+-NA FALCON 40 HOVER CAR (new Animation + Sound fixed)
+-NA SKATEBOARD
+
+20 different:
+GRAFFITI
+
+New Mesh:
+-COKE
+-BURGER
+-MET
+-BEER
+
+Difficulty Settings:
+-ARE HIGHER
+
+World:
+NordLand PMI (Mallorca Map 12K)
+
+Night:
+DARKNESS, RAIN and FOG
+
+Animals:
+-NOT FRIENDLY
+-CAN LADDERS CLIMB 
+
+Zed spawn:
+-NordArmy SPAWN
+-STRONG NIGHT SPAWN
+
+Zeds:
+-VELOMIX 4 Variants
+-BAD BASSTARD
+-LILLY
+-JOHNNY
+-FERAL JOHNNY
+-BRUGER BRO
+
+NA POI's RWG ready:
+-AAA_HALLOWEEN_01
+-MC Burger
+-NA_BASSTARD_HOUSE_01
+-NA_BEACHBAR
+-NA_BEAST_HOME_HORDE_BASE_01
+-NA_JARL_HALL_01
+-NA_LILLYs_HOME_01
+-NA_QUEENS_PALACE
+-NA_SKATEPARK
+-NA_TOWER_01
+-NA_XMASHOUSE_011
+-NM_DER_TRICHTER
+-NM_SCHREIER_BASE
+-NA_BULLRING_01
+
+Trader:
+-OVERHAULED
+
+Weapons:
+-BASSTARD-KILLER
+-NORDMANNs BUTTERFLY
+-COP BATON
+-9er IRON
+-NordArmy BLOOD CLUB
+-KILLER SNOW SHOVEL
+-ROLLING PIN
+
+Loot:
+-NA ITEMS ADDED
+-NA LOOT CONTAINER
+
+Items:
+A LOT OF NA FOOD AND DRINKS
+
+Blocks:
+NA DECO
+
+AND MUCH MORE...
+
+Skal
+NORDMANN and TEAM
+			
+</Description>
+			<!-- Who made -->
+			<Author>NORDMANN</Author>
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/WsTceMvHN8</Discord>
+			<!-- Want to give people an option to donate? -->
+			<Donate>https://streamelements.com/nordmann845/tip</Donate>
+		</Server>
+	</ServerGroup>
+</Servers>
