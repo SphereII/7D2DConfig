@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Tongo" Logo="" Description="">
+		<Server Name="Tongo 2.0" Logo="">
+			<Description>
+Available TongoMod 3.5, all features are included.
+
+- New recipes
+- New machines
+- Over 300 quests
+- Include quest documentation
+- Craft any book, schematic or magazine
+- Dismantle any ammo to get all components
+- Farm as alpha 19
+- Backpack with up to 84 slots
+- HUD changes
+- Modification in the biomes
+- New progression system
+- All English and Spanish translation
+- New mods, tools, consumables, minerals, materials etc..
+
+And much more in TongoMod 3.5
+
+	      </Description>
+			<Twitter>https://twitter.com/tekjagameplays</Twitter>
+			<Discord>https://discord.gg/9G3JeVnJS5</Discord>
+			
+			
+			<Version>Latest</Version>
+
+			<Downloads>
+				<Download>https://github.com/TekjaGameplays/TongoMod35</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
