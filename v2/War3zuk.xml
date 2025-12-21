@@ -3,7 +3,7 @@
 	<ServerGroup Name="War3zuk" Logo="" Description="">
 		<Server Name="War3zuk AIO OverHaul" Logo="">
 			<Description>
-War3zuk AIO OverHaul 7D2D v2.0 Stable
+War3zuk AIO OverHaul 7D2D v2.5 Stable
 
 What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons All of which have been
 bought from various stores to try to get the best looking and playing Mod I can manage, Its constantly being worked on and improved and should
@@ -82,9 +82,9 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-FarmLife-Vanilla-Install-Latest-Stable/_git/War3zuk-FarmLife-Vanilla-Install-Latest-Stable</Download>
 			</Downloads>
 		</Server>
-<Server Name="War3zuk AIO OverHaul Exp" Logo="">
+<Server Name="War3zuk AIO OverHaul" Logo="">
 	<Description>
-War3zuk AIO OverHaul 7D2D v2.4 B7 Experimental Build (REQUIRES A FRESH GAME ON v2.4 B7 AS WELL AS THE OLD MODS FOLDER BEING DELETED FULLY AS THE CHALLENGE CODE HAS BEEN REBUILT COMPLETELY)
+War3zuk AIO OverHaul 7D2D v2.5 B23 Experimental Build (REQUIRES A FRESH GAME ON v2.5 B23 AS WELL AS THE OLD MODS FOLDER BEING DELETED FULLY AS THE CHALLENGE CODE HAS BEEN REBUILT COMPLETELY)
 
 ***REASON FOR FRESH INSTALL IS THE CHALLENGE CODE WOULDNT WORK PROPERLY ON THE VANILLA CODE AND WOULD CAUSE ISSUES WHEN TRACKING CHALLENGE
 QUESTS SO THIS CODE AND ALL SUBSIQUENT CODE HAD TO BE COMPLETELY RE-WRITTEN, IVE ALSO TOOK THIS OPPERTUNITY TO SORT OUT THE OLD TRADERS AND
@@ -101,7 +101,7 @@ Thank you to the following Modlet creators who helped shape out the world with t
 
 Main War3zuk Overhaul Is As Follows..
 
-War3zuk AIO OverHaul v2.4 B7 Experimental
+War3zuk AIO OverHaul v2.5 b23 stable
 
 Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
 These Are Included In A Seprate Modlet So They Can Be Removed If Needed And Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
