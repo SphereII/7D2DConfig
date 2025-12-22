@@ -3,7 +3,7 @@
 	<ServerGroup Name="War3zuk" Logo="" Description="">
 		<Server Name="War3zuk AIO OverHaul" Logo="">
 			<Description>
-War3zuk AIO OverHaul 7D2D v2.5 Stable
+War3zuk AIO OverHaul 7D2D v2.5 B23 Final Stable Build (REQUIRES A FRESH GAME)
 
 What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons All of which have been
 bought from various stores to try to get the best looking and playing Mod I can manage, Its constantly being worked on and improved and should
@@ -16,7 +16,7 @@ Thank you to the following Modlet creators who helped shape out the world with t
 
 Main War3zuk Overhaul Is As Follows..
 
-War3zuk AIO OverHaul v2.5 B23 Exp
+War3zuk AIO OverHaul v2.5 B23 Final Stable Build
 
 Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
 These Are Included In A Seprate Modlet So They Can Be Removed If Needed And Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
@@ -28,13 +28,22 @@ to Upload those Files to a server in order to play Online Assuming you own a Leg
 
 Extra Modlets Added To The Overhaul Are
 
-War3zuk FarmLife 2025
+Added Quartz Dials 1.0 (Laydor)
+SMX Modules (Sirllion)
 0-Quartz
 0-SCore
+0-XNPCCore
+BdubsVehicles
+1-NPCXS SpiderPack
+1-NPCXS Darks Soldierz
+1-NPCXS Gans Zombies
+Ocb Way PointIcons
 1-NPCXS Zombie Pack
 BdubsVehicles
 War3zuk XXX Clubs
 0-Comp Pack (Stallionsden)
+0-Galaxy FarFar Away
+Added 0-Ramos Menu Music (28y Later Theme)
 ZMX menu WAIOCP21 (Patches And other code)
 
 You are NOT Permitted to Alter any Code (War3zuk AIO Overhaul), Change or Rename any Models or Redistrabute without the Express permission of myself, War3zuk
@@ -49,7 +58,7 @@ Users are NOT allowed to take the code from this mod to add to another mod in an
 too taking (parts of) the code, XML or assets as well as altered versions of these. War3zuk is intended to be used as is and not to be broken down or redistributed
 in an altered form unless you have explplicit permission. This includes adding any part of War3zuk into any kind of overhaul mod or mod collection pack.
 
-All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
+All Rights Reserved. 2016,2017,2018,2019,2020,2021,2022,2023,2024,2025.
 	      </Description>
 			<Donate>https://tinyurl.com/ya4o2xvp</Donate>
 			<Discord>https://discord.gg/FcDrGvMHeT</Discord>
@@ -64,7 +73,14 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 		
 		<Server Name="War3zuk FarmLife" Logo="">
 			<Description>
-War3zuk Farmlife 2025 Vanilla Install V2.0 B295 (This is a standalone installer version and is NOT to be used along side my main War3zuk Overhaul)
+5.2 is a major update so expect issues at the start, Mod loads without errors, so does all items. But it was fully updated to match the main war3zuk
+AIO overhaul so has had over 20k lines of code changed, updated or re-arranged..FOR THIS REASON IT WILL REQUIRE A FRESH GAME.. Post any issues if found
+
+**INVENTORY HAS CHANGED TO 105 SO ALL ITEMS MUST BE REMOVED FROM THERE BEFORE UPDATING**
+
+**(REQUIRES A FRESH GAME IF COMING FROM THE PREVIOUS VERSION WHICH IS 4.6) IF UPDATING FROM 4.9 REMOVE ALL ITEMS IN INVENTORY BEFORE UPDATING**
+
+War3zuk Farmlife 2024 5.2 Vanilla Install V2.5 B23 (This is a standalone installer version and is NOT to be used along side my main War3zuk Overhaul)
 
 What this Mod is about, This Mod is a complete overhaul and update of the original Farmlife from alpha 17 that was discontinued when it became so
 out of date it was un-usable.. This overhaul has a complete array of custom trees, Plants And its own models all paid for by myself so that the mod
@@ -82,77 +98,7 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025.
 				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-FarmLife-Vanilla-Install-Latest-Stable/_git/War3zuk-FarmLife-Vanilla-Install-Latest-Stable</Download>
 			</Downloads>
 		</Server>
-<Server Name="War3zuk AIO OverHaul" Logo="">
-	<Description>
-War3zuk AIO OverHaul 7D2D v2.5 B23 Experimental Build (REQUIRES A FRESH GAME ON v2.5 B23 AS WELL AS THE OLD MODS FOLDER BEING DELETED FULLY AS THE CHALLENGE CODE HAS BEEN REBUILT COMPLETELY)
 
-***REASON FOR FRESH INSTALL IS THE CHALLENGE CODE WOULDNT WORK PROPERLY ON THE VANILLA CODE AND WOULD CAUSE ISSUES WHEN TRACKING CHALLENGE
-QUESTS SO THIS CODE AND ALL SUBSIQUENT CODE HAD TO BE COMPLETELY RE-WRITTEN, IVE ALSO TOOK THIS OPPERTUNITY TO SORT OUT THE OLD TRADERS AND
-SOME OTHER THINGS LIKE IMPLIMENTNING THE HD ADVANCED FORGE WHICH USES THE 2 NEW ORES FOUND IN THE GAME WHICH HELPS BALANCE HD MODDED STUFF***
-
-What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons All of which have been
-bought from various stores to try to get the best looking and playing Mod I can manage, Its constantly being worked on and improved and should
-always be kept upto date with the latest version of the main core game, The AIO also adds many Blocks and Different items that require abit
-more learning in order to understand how it all works, A good example of this is the main weapons are no longer repaired using the default
-repair kits but instead use 4 Custom made variants that are crafted on the player to do with each type of gun.. The link above explains the
-Mod in much more detail.. Some of My Original Modlets that were used to create this AIO are as follows.. Around 20 or so more have been added
-directly to the AIO that cant be made into Modlets due to them needing certain bits of code from the AIO so would cause Conflicts..
-Thank you to the following Modlet creators who helped shape out the world with their modlets:
-
-Main War3zuk Overhaul Is As Follows..
-
-War3zuk AIO OverHaul v2.5 b23 stable
-
-Included are around 20 or so Custom Prefabs of my own..WORLDS are Made using the Ingame Random Gen which uses a Modified Compo Pack RWGMixer file
-These Are Included In A Seprate Modlet So They Can Be Removed If Needed And Fall under the same Rules of agreement along with all Modlets starting with War3zuk.
-
-License And Terms Of Use
-
-All files, Code, Models And Assets are soley bought And owned by myself War3zuk, You are free to download And play in Single Player, Your are also allowed
-to Upload those Files to a server in order to play Online Assuming you own a Legal Copy of the game (7 Days To Die)
-
-Extra Modlets Added To The Overhaul Are
-
-War3zuk FarmLife 2025
-Added Quartz Dials 1.0 (Laydor)
-SMX Modules (Sirllion)
-0-Quartz 4.0.0
-0-SCore 2.0.16.2016
-0-XNPCCore 2.0.01
-BdubsVehicles
-1-NPCXS SpiderPack
-1-NPCXS Darks Soldierz
-1-NPCXS Gans Zombies
-Ocb Way PointIcons
-1-NPCXS Zombie Pack
-BdubsVehicles
-War3zuk XXX Clubs
-0-Comp Pack (Stallionsden)
-ZMX menu WAIOCP21 (Patches And other code)
-
-You are NOT Permitted to Alter any Code (War3zuk AIO Overhaul), Change or Rename any Models or Redistrabute without the Express permission of myself, War3zuk
-
-All mods released by Myself, War3zuk, will always start with War3zuk in its Folder Name, such as War3zuk AIO OverHaul.
-Users of War3zuk AIO OverHaul are also free to tailor their experience to their needs by altering the XML files. When hosting a server or game with such altered
-contents But Due to the Models being Held under Unity's Single User License And Being Owned by Me, War3zuk you are NOT permitted to Share these modifications without
-expression permission of myself, War3zuk. You MUST seek permission from myself before files, Code, Models or Assets that are contained within my Overhaul are
-shared other than on your PC or on a Dedicated server for private use.
-
-Users are NOT allowed to take the code from this mod to add to another mod in any way without first asking Me, War3zuk For explicit permission. This applies
-too taking (parts of) the code, XML or assets as well as altered versions of these. War3zuk is intended to be used as is and not to be broken down or redistributed
-in an altered form unless you have explplicit permission. This includes adding any part of War3zuk into any kind of overhaul mod or mod collection pack.
-
-All Rights Reserved. 2016,2017,2018,2019,2020,2021,2022,2023,2024,2025.
-	      </Description>
-	<Donate>https://tinyurl.com/ya4o2xvp</Donate>
-	<Discord>https://discord.gg/FcDrGvMHeT</Discord>
-	<Version>v2.0</Version>
-	<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
-	<Downloads>
-		<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-AIO-Mod-Launcher-Exp-Build/_git/War3zuk-AIO-Mod-Launcher-Exp-Build</Download>
-	</Downloads>
-</Server>
-		
 	
 	</ServerGroup>
 </Servers>
