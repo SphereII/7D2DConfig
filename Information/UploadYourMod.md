@@ -1,49 +1,68 @@
-## 1. Create a GitHub Account
 
-1. Go to [GitHub.com](https://github.com/) and click **Sign up**.
-2. Once logged in, click the **+** icon (top right) → **New repository**.
-3. Name it (e.g., `My-Mod-Pack`), set it to **Public** or **Private**, and click **Create repository**.
+# 🚀 Mod Upload & Sharing Guide
 
-## 2. Install GitHub Desktop
+### 🛑 Step 1: Choose Your Platform & Method
 
-1. Download and install [GitHub Desktop](https://desktop.github.com/).
-2. Sign in and click **Clone a Repository from the Internet**.
-3. Select your new repository and choose a **Local Path** on your computer. This folder is now your "Cloud Sync" folder.
+Check your **Mods** folder first to decide where to go.
 
-## 3. Syncing Your Mods
+* **Is any single file > 100MB?**
+* **YES:** Use [GitLab](https://gitlab.com). GitHub will block individual files over 100MB.
+* **NO:** Use GitHub.
 
-To upload your mods, you must bring them into the "Cloud Sync" folder you just created.
 
-1. **Locate Your Mods**: Open the folder where your mods currently live. (This might be in `%AppData%/7DaysToDie/Mods`, your Steam folder, or a custom Mod Launcher folder).
-2. **Copy**: Select all the folders inside your current **Mods** folder and copy them.
-3. **Paste**: Go to your new GitHub "Cloud Sync" folder and paste them there.
-4. **Upload**:
-* Open **GitHub Desktop**. You will see the files listed on the left.
-* In the **Summary** box (bottom left), type "Update mods".
+* **Is your total Zipped pack < 2GB?**
+* **YES:** Use **Method B (GitHub Releases)**. It’s the easiest for your friends.
+* **NO:** Use **Method A (GitHub Desktop)**. Your friends will also need GitHub Desktop to download it.
+
+
+
+---
+
+## 🛠 Step 2: Create Your Account & Repository
+
+*Required for both methods.*
+
+1. **Sign Up:** Go to [GitHub.com](https://github.com) and create an account.
+2. **Create Repository:** Click the **+** icon (top right) → **New repository**.
+3. **Setup:**
+* **Name:** Give it a name (e.g., `My-Mod-Pack`).
+* **Visibility:** Choose **Public** (anyone can see) or **Private** (only friends you invite).
+* Click **Create repository**.
+
+
+
+---
+
+## 🔄 Method A: Using GitHub Desktop
+
+*Best for: Managing updates and packs larger than 2GB.*
+
+1. **Install:** Download and install [GitHub Desktop](https://desktop.github.com).
+2. **Clone:** Sign in and select your new repository. Choose a folder on your computer to be your **"Cloud Sync Folder."**
+3. **Locate Mods:** Find your actual **Mods** folder on your PC.
+4. **Copy & Paste:** Copy the **entire Mods folder** and paste it into the **Cloud Sync Folder**.
+* *Your Cloud Sync Folder should now contain a folder named "Mods".*
+
+
+5. **Upload:**
+* Open **GitHub Desktop**.
+* Type "Update mods" in the Summary box (bottom left).
 * Click **Commit to main**, then click **Push origin** at the top.
 
 
 
 ---
 
-## ⚠️ Important: File & Size Limits
+## 🎁 Method B: Using GitHub Releases
 
-Before you upload, check your file sizes to avoid errors.
+*Best for: Simple one-click downloads (No GitHub Desktop required).*
 
-### 🛑 The 100MB Individual File Limit
+1. **Zip Your Mods:** Locate your **Mods** folder on your PC. Right-click the **Mods folder itself** → **Compress to ZIP file**. Name the resulting zip `ModPack.zip`.
+* *When opened, the zip should show the "Mods" folder at the top level.*
 
-GitHub will reject your upload if **any single file** inside your folders is larger than **100MB** (common with large custom unity bundles or 8k textures).
 
-* **If you have 100MB+ files**: You must use [GitLab](https://gitlab.com/) instead. It is very similar to GitHub but allows larger individual files on their free tier.
-
-### 📦 The 2GB Zip Rule (Releases)
-
-If you want to provide a single "Download All" button for your friends:
-
-* **GitHub Releases**: If your total zipped mod pack is **under 2GB**, you can attach it as a "Release."
-* **How**: On your GitHub web page, click **Create a new release** (right side) and drag your `.zip` file into the box.
-
-### ⏳ Bandwidth Warning (LFS)
-
-If you use "Git LFS" (Large File Storage) to bypass the 100MB limit on GitHub, be careful: GitHub Free only gives you **1GB of download bandwidth per month**. If five friends download your 200MB mod, your bandwidth is gone for the month. **GitLab or GitHub Releases** are usually better for sharing with others.
-
+2. **Open Browser:** Go to your repository page on GitHub.com.
+3. **Find Releases:** On the right-hand sidebar, click **"Create a new release"**.
+4. **Create Tag:** Click **"Choose a tag"**, type `v1.0`, and click **"Create new tag"**.
+5. **Attach Zip:** Scroll down to the **"Assets"** box. Drag and drop your `ModPack.zip` file into this box.
+6. **Publish:** Click **Publish release**. You can now send the link to this page to your friends!
