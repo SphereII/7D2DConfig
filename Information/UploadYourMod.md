@@ -1,3 +1,6 @@
+This version clarifies that your friends do not need to sign up for anything or install software; they can simply use the "Download ZIP" feature built into GitHub to get your files.
+
+---
 
 # 🚀 Mod Upload & Sharing Guide
 
@@ -11,8 +14,8 @@ Check your **Mods** folder first to decide where to go.
 
 
 * **Is your total Zipped pack < 2GB?**
-* **YES:** Use **Method B (GitHub Releases)**. It’s the easiest for your friends.
-* **NO:** Use **Method A (GitHub Desktop)**. Your friends will also need GitHub Desktop to download it.
+* **YES:** Use **Method B (GitHub Releases)**. This is the cleanest way for friends to download.
+* **NO:** Use **Method A (GitHub Desktop)**. Note that for very large packs, friends will use the "Download ZIP" button on your main page.
 
 
 
@@ -26,43 +29,37 @@ Check your **Mods** folder first to decide where to go.
 2. **Create Repository:** Click the **+** icon (top right) → **New repository**.
 3. **Setup:**
 * **Name:** Give it a name (e.g., `My-Mod-Pack`).
-* **Visibility:** Choose **Public** (anyone can see) or **Private** (only friends you invite).
+* **Visibility:** Choose **Public** so your friends can access it without an account.
 * Click **Create repository**.
 
 
 
 ---
 
-## 🔄 Method A: Using GitHub Desktop
+## 🔄 Method A: Uploading via GitHub Desktop
 
-*Best for: Managing updates and packs larger than 2GB.*
+*Use this for large packs or if you plan to update the mods frequently.*
 
-1. **Install:** Download and install [GitHub Desktop](https://desktop.github.com).
-2. **Clone:** Sign in and select your new repository. Choose a folder on your computer to be your **"Cloud Sync Folder."**
-3. **Locate Mods:** Find your actual **Mods** folder on your PC.
-4. **Copy & Paste:** Copy the **entire Mods folder** and paste it into the **Cloud Sync Folder**.
-* *Your Cloud Sync Folder should now contain a folder named "Mods".*
-
-
-5. **Upload:**
-* Open **GitHub Desktop**.
-* Type "Update mods" in the Summary box (bottom left).
-* Click **Commit to main**, then click **Push origin** at the top.
-
-
+1. **Install:** Download [GitHub Desktop](https://desktop.github.com).
+2. **Clone:** Select your new repository in the app and choose a folder on your PC to be your **"Cloud Sync Folder."**
+3. **Copy & Paste:** Copy your **entire Mods folder** and paste it into that **Cloud Sync Folder**.
+4. **Upload:** In GitHub Desktop, type "Update" in the summary box and click **Commit to main**, then **Push origin**.
+5. **How Friends Download:** Send them the link to your GitHub page. Tell them to click the green **"<> Code"** button and select **"Download ZIP"**. They do **not** need an account or any software.
 
 ---
 
-## 🎁 Method B: Using GitHub Releases
+## 🎁 Method B: Uploading via GitHub Releases
 
-*Best for: Simple one-click downloads (No GitHub Desktop required).*
+*Use this for the easiest, "one-click" experience for your friends.*
 
-1. **Zip Your Mods:** Locate your **Mods** folder on your PC. Right-click the **Mods folder itself** → **Compress to ZIP file**. Name the resulting zip `ModPack.zip`.
-* *When opened, the zip should show the "Mods" folder at the top level.*
-
-
+1. **Zip Your Mods:** Locate your **Mods** folder. Right-click the **Mods folder itself** → **Compress to ZIP file**. Name it `ModPack.zip`.
 2. **Open Browser:** Go to your repository page on GitHub.com.
 3. **Find Releases:** On the right-hand sidebar, click **"Create a new release"**.
 4. **Create Tag:** Click **"Choose a tag"**, type `v1.0`, and click **"Create new tag"**.
-5. **Attach Zip:** Scroll down to the **"Assets"** box. Drag and drop your `ModPack.zip` file into this box.
-6. **Publish:** Click **Publish release**. You can now send the link to this page to your friends!
+5. **Attach Zip:** Drag and drop your `ModPack.zip` into the **"Assets"** box.
+6. **Publish:** Click **Publish release**.
+7. **How Friends Download:** Send them the link to this Release page. They just click the `ModPack.zip` link under **Assets** to download it instantly.
+
+---
+
+**Would you like me to generate a simple "Installation.txt" file that you can include in your folder to tell your friends exactly where to paste the Mods folder once they download it?**
