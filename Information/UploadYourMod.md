@@ -1,6 +1,4 @@
-This version clarifies that your friends do not need to sign up for anything or install software; they can simply use the "Download ZIP" feature built into GitHub to get your files.
 
----
 
 # 🚀 Mod Upload & Sharing Guide
 
@@ -60,6 +58,4 @@ Check your **Mods** folder first to decide where to go.
 6. **Publish:** Click **Publish release**.
 7. **How Friends Download:** Send them the link to this Release page. They just click the `ModPack.zip` link under **Assets** to download it instantly.
 
----
 
-**Would you like me to generate a simple "Installation.txt" file that you can include in your folder to tell your friends exactly where to paste the Mods folder once they download it?**
