@@ -2,7 +2,7 @@
 <Servers>
 	<ServerGroup Name="War3zuk" Logo="" Description="">
 	
-		<Server Name="War3zuk FarmLife" Logo="">
+		<Server Name="War3zuk FarmLife 5.6" Logo="">
 			<Description>
 **IMPORTANT** 5.6 Final Version 5.6 7D2D v2.5 B32 Stable (5.6 REQUIRES A FRESH GAME DUE TO NEW CHALLENGE and QUEST CODE)
 too much has been updated to play on an old game.. This includes updates from the following.. read patch info.. 5.5 + 5.6
@@ -112,7 +112,7 @@ All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025,2026.
 			<Version>v1.0</Version>
 			<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
 			<Downloads>
-				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-FarmLife-Vanilla-Install-Latest-Stable/_git/War3zuk-FarmLife-Vanilla-Install-Latest-Stable</Download>
+				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-Farmlife/_git/War3zuk-Farmlife</Download>
 			</Downloads>
 		</Server>
 
