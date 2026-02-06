@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Test Mod" Logo="https://i.postimg.cc/1RW2gM5K/NordArmy.jpg">
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
+		<Server Name="Test2">
+			
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/NORDMANN845/VIKINGS-MOD-TEST/releases</Download>
+				<AltDownload/>
+			</Downloads>
+			<!-- Got a website -->
+			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
+			<Description>
+			
+</Description>
+			<!-- Who made -->
+			<Author>NORDMANN</Author>
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/WsTceMvHN8</Discord>
+			<!-- Want to give people an option to donate? -->
+			<Donate>https://streamelements.com/nordmann845/tip</Donate>
+		</Server>
+	</ServerGroup>
+</Servers>
