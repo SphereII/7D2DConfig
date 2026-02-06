@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="War3zuk" Logo="" Description="">
+	
+		<Server Name="War3zuk FarmLife" Logo="">
+			<Description>
+**IMPORTANT** 5.6 Final Version 5.6 7D2D v2.5 B32 Stable (5.6 REQUIRES A FRESH GAME DUE TO NEW CHALLENGE and QUEST CODE)
+too much has been updated to play on an old game.. This includes updates from the following.. read patch info.. 5.5 + 5.6
+Final (MAJOR UPDATE)
+
+Version 5.6 7D2D v2.5 B32 Stable
+
+Fixed plantedCannabis1 (Unlock)
+Fixed plantedCannabisRed1 (Unlock)
+Fixed FertiliserDesc (Localisation Info)
+
+Rebuilt Sounds.xml Including Sound Files..
+Rebuilt Dairy Churn (Model)
+Added Dairy Churn (Sounds)
+Added CasinoCoin (Renamed/Token)
+Added CasinoToken (Description)
+Added Station/Benches (UIIcons)
+
+Adjusted War3zuk Quest Reward Harvest02 (Loot)
+
+Version 5.5 7D2D v2.5 B27 Stable
+
+Cleaned Old Icon Code
+Removed 46 Unused Icons
+Renamed 103 Icons
+
+Added Custom cntBirdnest (Model/Biome)
+Added Custom cntBirdnestEmpty (Model/Biome)
+Added HDForrestRedux (20 Models/Biome)
+Added HDPineTall2Bees (1 Model/Biome)
+Added ResourceLiquidHoney (Item)
+Added ResourceLiquidHoney (Recipe)
+Added HarvestRandomHelper (Icon)
+
+Added Custom FarmLife Tractor (Model/Paid)
+Added Custom TractorPlaceable (Item)
+Added FarmLife Tractor Accessories (Recipe)
+Added FarmLife Tractor Chassis (Recipe)
+Added Custom FarmLife Axe (Model/Paid)
+Added Custom FarmLife Shovel (Model/Paid)
+
+Added Custom whiteRiverCitizen1 (MissionLoot)
+Added Custom intro_buried_supplies (MissionLoot/Farming)
+Added Custom tier1_buried_supplies (MissionLoot/Farming)
+Added Custom tier2_buried_supplies (MissionLoot/Farming)
+Added Custom tier3_buried_supplies (MissionLoot/Farming)
+
+Added Custom LootTable (Pallets)
+Added Custom LootTable (ArmyTrucks)
+Added Custom LootTable (Tractors/BackHoes)
+Added HDSexyJen Trader (CropTop/Covered)
+Added UtilitySink Working (PlumbingKit)
+Added Weed Wacker 5000 (Progression)
+
+Added Challenge FarmLife Farmer
+Added Challenge FarmLife Cook
+Added Challenge FarmLife Benches
+Added Challenge FarmLife Harvest 01
+Added Challenge FarmLife Harvest 02
+Added Challenge FarmLife Armor
+
+Updated trader_bob (Edited/POI)
+Updated trader_hugh (Edited/POI)
+Updated trader_jen (Edited/POI)
+Updated trader_joel (Edited/POI)
+Updated trader_rekt (Edited/POI)
+
+Updated playerBackpack Size (11x12)
+Updated vehicleBicycle Size (2x10)
+Updated vehicleMinibike Size (4x10)
+Updated vehicleMotorcycle Size (6x10)
+Updated vehicleGyrocopter Size (6x10)
+Updated vehicle4x4Truck Size (9x10)
+
+Updated Farm Table Model (2x2x1)
+Updated FL Storage Cryo (Model/Paid)
+Updated FL Storage Drinks (Model/Paid)
+Updated FL Storage Fruits (Model/Paid)
+Updated FL Storage Food (Model/Paid)
+Updated FL Storage Seeds (Model/Paid)
+
+Custom Loading Screen (INFO)
+
+Edited cntApiary (Recipe)
+
+Fixed KitchNaid (Fuel)
+Fixed SoyBean (Spelling)
+Fixed Flax Fiber (ExtraItem)
+Fixed FarmLife Tractor (Particles)
+
+**INVENTORY HAS CHANGED TO 105 SO ALL ITEMS MUST BE REMOVED FROM THERE BEFORE UPDATING**
+
+**(REQUIRES A FRESH GAME)**
+
+War3zuk Farmlife 5.6 Vanilla Install V2.5 B32 (This is a standalone installer version and is NOT to be used along side my main War3zuk Overhaul)
+
+What this Mod is about, This Mod is a complete overhaul and update of the original Farmlife from alpha 17 that was discontinued when it became so
+out of date it was un-usable.. This overhaul has a complete array of custom trees, Plants And its own models all paid for by myself so that the mod
+is as nice looking as possible.. You have a full selection of Seeds, Fruits, Berries and so on so you can make lots of different types of foods to
+compliment the main game.You can craft and build an entire farm along with custom animals, Benches and so on. Learning curve is a little steep but well
+worth it if your into Farming
+
+All Rights Reserved,2018,2019,2020,2021,2022,2023,2024,2025,2026.
+	      </Description>
+			<Donate>https://tinyurl.com/ya4o2xvp</Donate>
+			<Discord>https://discord.gg/FcDrGvMHeT</Discord>
+			<Version>v1.0</Version>
+			<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
+			<Downloads>
+				<Download>https://war3zuk@dev.azure.com/war3zuk/War3zuk-FarmLife-Vanilla-Install-Latest-Stable/_git/War3zuk-FarmLife-Vanilla-Install-Latest-Stable</Download>
+			</Downloads>
+		</Server>
+
+	
+	</ServerGroup>
+</Servers>
