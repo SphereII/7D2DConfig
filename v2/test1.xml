@@ -1,25 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Test Mod" Logo="https://i.postimg.cc/1RW2gM5K/NordArmy.jpg">
+	<ServerGroup Name="VIKINGS MOD" Logo="https://i.postimg.cc/nr4wvf0n/VIKINGS-MOD.png">
 		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
-		<Server Name="Test2">
-			
+		<Server Name="VIKINGSMOD">
+			<Version>2.5</Version>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/NORDMANN845/VIKINGS-MOD-TEST/releases</Download>
+				<Download>https://github.com/NORDMANN845/VIKINGS-MOD/releases</Download>
 				<AltDownload/>
 			</Downloads>
 			<!-- Got a website -->
-			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
+			<WebSite>https://7daystodiemods.com/vikings-mod-coming-soon/</WebSite>
 			<Description>
-			
+What exactly is the VIKINGS MOD?
+The Vikings Mod is a massive overhaul for 7 Days to Die.  
+You play as a survivor from the year 2026 who, together with your friends, was involved in a terrible car accident. 
+All of your friends died in the crash - only you open your eyes again… but not in your own time.
+
+You wake up in the year 845, weak, disoriented, and barely alive. From this moment on, survival becomes your only purpose. 
+You must learn to live in the brutal world of the Viking Age, adapt to ancient traditions, and fight under the watchful eyes of the gods.
+
+And unlike the original game, you won’t be fighting zombies.
+In this world, your enemies are diseased Vikings, warriors driven mad and corrupted by a mysterious plague spreading across the land. They are faster, more aggressive, and far more unpredictable than anything you’ve faced before - and they will stop at nothing to tear you down.
+
+You will experience 7 Days to Die in a completely new way.
+
+As you progress, you follow in the footsteps of the legendary Lodbrok clan, uncovering their stories, their battles, and their legacy. Your journey will shape you into a true warrior - stronger, wiser, and closer to the gods.
+
+Your ultimate goal is to rise in power and become as mighty as Odin himself. Only then will you be ready for the final challenge:
+a boss battle against Fenrir, the monstrous wolf of the saga.
+
+Defeat him, and your destiny is sealed - from that moment on, you will rule the land as a true Viking legend.		
+
+
+IMPORTANT INFORMATION
+-Not compatible with any other mods  
+The Vikings Mod is a full overhaul and must be played without additional mods.
+
+-Mod translation available in EN and DE only  
+No other languages are supported at this time.
+
+-Disable subtitles  
+Subtitles should be turned off for the intended experience.
+
+-Dynamic Music: OFF  
+Please disable dynamic music in the audio settings.
+
+-UI Transparency Settings  
+Background: 95%
+Foreground: 100%
+
+-Do not press any keys during the intro video  
+Let the intro play fully to avoid loading issues.
+
+
+VIKINGS MOD – Release Notes
+The Vikings Mod is a full massive overhaul of 7 Days to Die.
+Nearly every part of the original game has been redesigned, expanded, or completely replaced.
+The list below highlights the major features, though it is impossible to capture everything this overhaul includes.
+
+World and Environment
+-New handcrafted 8k Vikings World
+-Exclusive Viking‑only POIs
+-Large collection of new 3D models, structures, and decorations
+-New meshes for buildings, objects, and environmental details
+-Hidden Viking Easter eggs throughout the world
+
+Story and Progression
+-Fully developed storyline
+-Unique Learn by Gods system
+-Hybrid skill system for flexible character development
+-Completely reworked skill tree
+-New buffs, including the powerful Bloodrage
+
+Enemies and Threats
+-No zombies - instead you face diseased Vikings, warriors driven mad by a mysterious plague
+-Many new enemy types and variants
+-Massive wandering hordes
+-Overhauled Blood Moon event - now transformed into Ragnarök
+-Epic boss battle against Fenrir
+
+Equipment and Weapons
+-New sets of Viking armor
+-A wide range of new melee and ranged Viking weapons
+-Countless unique Viking weapons
+
+Crafting and Workstations
+-Brand‑new workstations
+-New healing and recovery system
+-Completely redesigned loot system with new loot containers
+
+Travel and Exploration
+-Rideable horses
+-Multiple Viking ships for long‑distance travel
+
+Traders and User Interface
+-Five completely new traders
+-Fully redesigned menu and UI
+-New icons, layouts, and a complete Viking‑themed interface
+
+
+System Requirements
+Minimum Requirements  
+-These specs allow the game to run, but with reduced settings and occasional performance drops
+-OS: Windows 10 (64‑bit)
+-CPU: Intel i5‑7500 / AMD Ryzen 3 1200
+-RAM: 12 GB
+-GPU: NVIDIA GTX 1060 6GB / AMD RX 580 8GB
+-VRAM: Minimum 6 GB, 8 GB recommended to avoid blurry textures (F1 fix command: gfx st budget 0)
+-Storage: 4 GB (Mod) + 20 GB (7 Days to Die)
+-Notes: Low/medium settings recommended, 8k world may load slowly, large hordes and many meshes can cause FPS drops
+
+Recommended Requirements  
+-For smooth gameplay, stable FPS, and high‑quality visuals
+-OS: Windows 10/11 (64‑bit)
+-CPU: Intel i7‑9700K / AMD Ryzen 5 5600X
+-RAM: 16–24 GB
+-GPU: NVIDIA RTX 2060 Super / RTX 3060 or AMD RX 6700 XT
+-VRAM: 8 GB or more (important due to many new assets)
+-Storage: 4 GB (Mod) + 20 GB (7 Days to Die)
+-Notes: Ideal for 8k world, large wandering hordes, Ragnarök events, and many new enemy types; UI overhaul and new textures benefit from higher VRAM
+
+
+VM Known Bugs / Errors
+-WRN LOD0 ROCK_02  
+A warning related to a rock LOD model occasionally appearing in the logs.
+
+-Blocks occasionally turn invisible  
+Some world blocks may temporarily disappear or fail to render.
+
+-WRN Spawn VM_IVAR_01 can’t walk on block sleeperIdle 24314 with walkType 21  
+A pathfinding issue where a specific entity cannot navigate certain block types.
+
+-Animals get stuck on decorative objects  
+Wildlife may become trapped on certain deco meshes.
+
+-Duplicate item output
+In rare cases, items may appear twice.
+
+-Backpack icons overlap  
+Inventory icons may visually overlap or clip.
+
+-Wandering hordes at high Game Stage may include vanilla zombies  
+At very late game stages, vanilla zombies may appear unintentionally.
+
+-Horse animation stuck — game restart required  
+Horse animations may freeze and require a full game restart.
+
+-WRN Entity block on pos 1865, 17, 908 not found!  
+A warning indicating a missing or unloaded block at a specific world position.
+
+-Blurry textures on vanilla assets when VRAM is below 8 GB  
+Low VRAM can cause texture downscaling and blurriness.
+F1 fix command: gfx st budget 0
+
+
+VIKINGS MOD - WISHMAP
+Audio and Atmosphere  
+-In‑game music overhaul
+-Complete UI sound design pass
+
+World and Environment  
+-Northern Lights skybox
+-RWG support for Vikings Mod
+-Waterfall update with sound
+-Expansion of Construction Site POIs
+-More POIs and additional questlines
+-More Viking deco
+
+Items and Crafting  
+-Additional meshes for food and drinks
+-New items: blood sausage, arm ring, sun board, sun stone
+-Sun board + sun stone required to make the compass visible
+-More weapons
+-Apiary
+-Item scrapping
+-Shield blocking mechanics
+
+Creatures and Wildlife  
+-More enemies
+-Additional animals and breeding systems (coops, livestock, etc.)
+
+Progression and Systems  
+-Book system
+-More buffs
+-Expansion of the “My Minni” memory skill
+-Subtitle support
+
+User Interface  
+-Full completion of the UI overhaul
+-Additional UI sound effects
+
+Community  
+-And much more — submit your thoughtful suggestions via Discord
 </Description>
 			<!-- Who made -->
 			<Author>NORDMANN</Author>
 			<!-- Have a discord you want people to join? -->
-			<Discord>https://discord.gg/WsTceMvHN8</Discord>
+			<Discord>https://discord.gg/jkY7P4U39M </Discord>
 			<!-- Want to give people an option to donate? -->
-			<Donate>https://streamelements.com/nordmann845/tip</Donate>
+			<Donate>https://www.paypal.com/paypalme/goodfellasbc</Donate>
 		</Server>
 	</ServerGroup>
 </Servers>
