@@ -30,7 +30,7 @@ https://gitlab.com/Sergant1000/experimental-recipes/-/raw/master/Sergant1000.xml
 #https://raw.githubusercontent.com/SphereII/7D2DConfig/refs/heads/master/v1/AsiaMod.xml
 https://dev.azure.com/AsiaMod/Stable/_apis/git/repositories/Stable_V1/items/items?path=/Mods/Asia_Mod/asiamod_launcher.xml
 https://raw.githubusercontent.com/arramus/V1-OldWestMigration/refs/heads/main/Mods/V1-OldWestMigration/modlauncherconfiguration.xml
-https://dev.azure.com/HaidrGna/Modding/_apis/git/repositories/General/items/items?path=/ForsakenTrail.xml
+#https://dev.azure.com/HaidrGna/Modding/_apis/git/repositories/General/items/items?path=/ForsakenTrail.xml
 https://raw.githubusercontent.com/SphereII/Winterween/refs/heads/main/WinterProject.xml
 https://gitlab.com/ganthegrey/greys-prophecy-config/-/raw/master/GreysProphecyV1.xml?ref_type=heads
 #https://raw.githubusercontent.com/NORDMANN845/NordArmy-Mod-3.0/refs/heads/main/NordArmy.xml
