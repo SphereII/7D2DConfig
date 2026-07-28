@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="VIKINGS MOD" Logo="https://i.postimg.cc/6qZmpXXG/VM-BANNER-NEW.png">
+		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
+		<Server Name="VIKINGSMOD">
+			<Version>3.1</Version>
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/NORDMANN845/VIKINGS-MOD/releases</Download>
+				<AltDownload/>
+			</Downloads>
+			<!-- Got a website -->
+			<WebSite>https://7daystodiemods.com/mods/vikings-mod</WebSite>
+			<Description>
+For 7D2D Version 3.1 Stable
+Changelogs on Discord!
+What exactly is the VIKINGS MOD?
+The Vikings Mod is a massive overhaul for 7 Days to Die.  
+
+You awaken after a devastating accident in the year 845 – weak, disoriented, and clinging to life. 
+(Check the buff in‑game at the bottom left!) The bodies of your friends are scattered everywhere. From this moment on, survival becomes your only purpose. 
+You must learn to endure the brutal world of the Viking Age, adapt to ancient traditions, and fight beneath the watchful eyes of the gods.
+
+At the beginning, you can only see the trader on the map until you unlock your compass. 
+Press Y in‑game to open the FAME and HONOR window, and stride with unwavering resolve through the first steps.
+
+The goal of the Vikings Mod is carved in fate: Become strong enough to face the three primordial bosses – SKARLUGR, LOKI, and FENRIR. 
+Only when you have defeated them will you be welcomed into the circle of the gods and gain access to the mightiest weapons ever forged. 
+May fortune stand at your side – for this world holds far more secrets than any warrior could uncover in a single lifetime.		
+
+
+IMPORTANT INFORMATION
+-Not compatible with any other mods  
+The Vikings Mod is a full overhaul and must be played without additional mods.
+
+-Mod translation available in EN and DE only  
+No other languages are supported at this time.
+
+-Disable subtitles  
+Subtitles should be turned off for the intended experience.
+
+-Dynamic Music: OFF  
+Please disable dynamic music in the audio settings.
+
+-UI Transparency Settings  
+Background: 95%
+Foreground: 100%
+
+Disable Occlusion in your graphics settings to prevent invisible blocks.
+A restart is required after updating.
+
+VIKINGSMOD © NORDMANN
+Forged in blood, steel, and relentless Viking craftsmanship.
+All XML files, C# DLLs, code fragments, data structures, logic, textures,
+icons, UI symbols, audio assets, and 3D models included in this mod
+are the intellectual creation of Nordmann.
+The contents of this mod may not be copied, reused, modified,
+republished, or integrated into other mods or projects without
+explicit permission from Jarl Nordmann.
+Unauthorized use of these works is strictly forbidden.
+</Description>
+			<!-- Who made -->
+			<Author>NORDMANN</Author>
+			<!-- Have a discord you want people to join? -->
+			<Discord>https://discord.gg/jkY7P4U39M </Discord>
+			<!-- Want to give people an option to donate? -->
+			<Donate>https://www.paypal.com/paypalme/goodfellasbc</Donate>
+		</Server>
+	</ServerGroup>
+</Servers>
