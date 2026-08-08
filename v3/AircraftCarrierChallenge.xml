@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Aircraft Carrier Challenge High Seas V.3" Logo="" Description="Can you escape the Aircraft Carrier?">
+        <Server Name="Aircraft Carrier Challenge High Seas V.3" Logo="">
+            <Description>
+				A mini overhaul mod for Release Ver. 3.1 Stable
+
+				This mod pack was created for a solo or multiplayer challenge onboard a US Ford class carrier by_NAZ redesigned by Devilskut for Release Ver. 3.1 Stable
+
+				Notes about this mini-mod:
+
+				Lootable GOLD Bags
+				Removed non-essential vehicle parts from loot and crafting.
+				Beds, Bedrolls, and land claim block recipes removed.
+				Removed treasure maps from loot.
+				Acid can now be made in the campfire, but a beaker is a required tool. Can also be crafted cheaper in the chem station. Unlocked with Grease Monkey 4.
+				Mod-specific loading screen tips.
+				Localization tweaks (names of those that have tested and completed the challenge).
+				Perk books can now drop from zombies along with magazines. The chance of a perk book increases with the relevant perk points spent, just like skill magazines.
+				Loot tables adjusted accordingly, so certain zombies have a chance to drop certain perk books, just like skill magazines.
+				Removed Better Barter, Daring Adventurer and Charismatic Nature from the intellect skill tree.
+				Number of Dukes/old cash from Businessman/Party Girl is increased, probability increased from 10% to 20%.
+				Increased chance of antibiotics from nurses per perk point spent in Physician, up to a max chance of 35%.
+				Base chance of skill magazines from radiated zombies increased from 10% to 13%.
+				Changed the quest requirements for gathering UH-60 parts to reflect maxed-out Grease Monkey (removed a possible soft-lock)
+				Antibiotics loot probability from nurses now tied to Physician perk.
+				Player placed workstations can be destroyed to move them. (Workstation MUST be empty of all tools, items, and materials or you will loose them.)
+				Pack Mule now gives more additional slots per skill up.
+
+				THE AIRCRAFT CARRIER CHALLENGE:
+				Can you survive and escape the Aircraft Carrier, using nothing but what you can scavenge from the carrier itself?
+				You have one life, one mission, one means of escape.
+
+				This challenge places you, a lone hard core survivor, or a group of survivalists, in a menacing aircraft carrier of death incarnate.
+
+				Your only means of escape is to gather everything you need to be able to craft an UH-60 Helicopter to complete your final mission and to reach your settlement.
+
+				A mini overhaul mod for V3.1 Stable. Designed for group or solo play on an AIRCRAFT CARRIER with traders on board and only one means of escape.
+
+				Five (5) custom worlds, one for each biome, so you can choose your starting "difficulty" - Forest, Burnt, Desert, Snow, or the ultimate challenge, Wasteland.
+
+				Custom-edited Aircraft Carrier POI, giving you everything you need to be able to complete your quests.
+
+				Custom questline, guiding you on your way to complete your final mission.
+
+
+				CHALLENGE RULES:
+
+				1: You must stay on the Aircraft Carrier until you can build your helicopter and fly off to complete your final mission.
+
+				2: The rubble on the ground around the carrier is SPICY and NOT part of the aircraft carrier, and may NOT be used to support any structures, or to grow any crops,
+				unless you can do this WITHOUT touching it.
+
+				3: You may build bridges off the side of the carrier to reach things, but those bridges must support themselves and cannot touch the ground.
+
+				4: You may NOT mine or dig under the carrier.
+
+				5: All default game settings, unless you want to turn up the difficulty. It's recommended to have loot respawn set to 7 days and turn airdrops OFF.
+
+				6: If you die, the game now has an option to continue for those that want to enjoy longer stays onboard the carrier, However I dont know why?
+
+				7: You must survive until you are able to build an UH-60 Helicopter and complete your final mission and reach your settlement.
+
+				Contributors:
+
+				Additional thanks for permission to use following modlets by their respective creator(s):
+
+
+				Military Blocks						-Author: Cannon_Fodder83,Shrader971
+				0-Score							    -Author: Spherii
+				UH-60                               -Author: Bdubyah
+				Devilskut Zombies					-Author: Devilskut and Mrcavemanttv
+
+				Shout outs and thanks to the mod authors and Hells_Janitor for the Dishong Tower Challenge and allowing usage of their mods and code.
+				Shout outs and thanks to the mod authors, Special CPB Blocks permission by StallionsDen CP Team, SarahAndJeff, TFP. Specter(to Sarahandjeff).
+
+				For full details, check the forum post here: *No post*
+
+				Found a bug or poi stability issue and wish to let us know?  Head to https://github.com/Devilskut/Aircraft-carrier-high-seas-3.0/issues and open an issues ticket.
+
+			</Description>
+           	
+           	<Version>3.1 Stable </Version>
+            <EAC>Disabled</EAC>
+			<Discord>https://discord.gg/ePNGymJ3bP</Discord>
+            <Donate></Donate>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://github.com/Devilskut/Aircraft-carrier-high-seas-3.0</Download>
+            </Downloads>
+
+        </Server>
+    </ServerGroup>
+</Servers>
